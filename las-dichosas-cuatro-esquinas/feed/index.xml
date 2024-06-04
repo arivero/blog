@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Las dichosas cuatro esquinas	</title>
+	<atom:link href="/blog/las-dichosas-cuatro-esquinas/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/las-dichosas-cuatro-esquinas/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Tue, 25 Apr 2017 15:39:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>
+		Por: A Rivero		</title>
+		<link>/blog/las-dichosas-cuatro-esquinas/#comment-2558</link>
+
+		<dc:creator><![CDATA[A Rivero]]></dc:creator>
+		<pubDate>Tue, 25 Apr 2017 15:39:43 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=858#comment-2558</guid>
+
+					<description><![CDATA[Por cierto, la pagina original se llamaba Israel Shekinah, y estaba en geocities en /jannosneumann.geo/esot/sejinah.html]]></description>
+			<content:encoded><![CDATA[<p>Por cierto, la pagina original se llamaba Israel Shekinah, y estaba en geocities en /jannosneumann.geo/esot/sejinah.html</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

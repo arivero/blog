@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Wiki-like &#8211; Incidencias</title>
+	<atom:link href="/blog/category/unstable/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Wed, 17 Jan 2018 19:25:44 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>WebRTC</title>
+		<link>/blog/webrtc/</link>
+					<comments>/blog/webrtc/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Mon, 02 Dec 2013 21:37:45 +0000</pubDate>
+				<category><![CDATA[Wiki-like]]></category>
+		<guid isPermaLink="false">/blog/?p=590</guid>
+
+					<description><![CDATA[Just some links &#160; http://iswebrtcreadyyet.com/#screenSharing http://www.html5rocks.com/en/tutorials/webrtc/infrastructure/#turn http://webrtcstats.com/ http://blog.knoldus.com/2013/10/24/configure-turn-server-for-webrtc-on-amazon-ec2/]]></description>
+										<content:encoded><![CDATA[<p>Just some links</p>
+<p>&nbsp;</p>
+<p><a href="http://iswebrtcreadyyet.com/#screenSharing">http://iswebrtcreadyyet.com/#screenSharing</a></p>
+<p><a href="http://www.html5rocks.com/en/tutorials/webrtc/infrastructure/#turn">http://www.html5rocks.com/en/tutorials/webrtc/infrastructure/#turn</a></p>
+<p><a href="http://webrtcstats.com/">http://webrtcstats.com/</a></p>
+<p><a href="http://blog.knoldus.com/2013/10/24/configure-turn-server-for-webrtc-on-amazon-ec2/">http://blog.knoldus.com/2013/10/24/configure-turn-server-for-webrtc-on-amazon-ec2/</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/webrtc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mis dudas sobre mecanica cuantica</title>
+		<link>/blog/mis-dudas-sobre-mecanica-cuantica/</link>
+					<comments>/blog/mis-dudas-sobre-mecanica-cuantica/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Tue, 03 Sep 2013 21:39:39 +0000</pubDate>
+				<category><![CDATA[Arxiv]]></category>
+		<category><![CDATA[Mecanica Cuantica]]></category>
+		<category><![CDATA[Wiki-like]]></category>
+		<guid isPermaLink="false">/blog/?p=511</guid>
+
+					<description><![CDATA[&#8230; y, espero, las de más gente. La semana pasada un amigo subió un documento animando a pensar, y escribir, sobre las cuestiones de fundamentos de la Mecánica Cuántica: http://arxiv.org/abs/1308.5619 «Shut up and let me think! Or why you should work on the foundations of quantum mechanics as much as you please« por Pablo Echenique-Robba [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>&#8230; y, espero, las de más gente. La semana pasada un amigo subió un documento animando a pensar, y escribir, sobre las cuestiones de fundamentos de la Mecánica Cuántica:</p>
+<p style="text-align: center;"><a href="http://arxiv.org/abs/1308.5619">http://arxiv.org/abs/1308.5619</a></p>
+<p style="text-align: center;">«<em>Shut up and let me think! Or why you should work on the foundations of quantum mechanics as much as you please</em>«</p>
+<p style="text-align: center;">por Pablo Echenique-Robba</p>
+<p>Y como espero que muchos de los que llegan a estas paginas tienen ese «restless intellect», no me parece mala idea abrir el tema a ver que se oye en los comentarios, y aprovecharme de la jugada de apertura para exponer mi propia idea:</p>
+<p style="text-align: center;">Puede que muchas de las dudas lo sean sobre los fundamentos de la mecánica clásica.</p>
+<p>Esto parece que no se tiene en pie, porque casi todos los articulos de fundamentos se ponen a discutir páginas y páginas sobre el problema de la médida y el colapso de la función de onda, y muy poquito sobre la cuestión de la evolución de la función de onda. Mi sospecha es que es un efecto farola («lampost effect»); que es lo que mejor dominamos, lo de la preparación de un estado cuántico y lo de su proyección en otros y cosas asi, y que por ello nos ponemos a discutir sobre ello. Pero la explicación última lleva a intentar entender la relación entre observables clásicos y cuanticos, y si existen los primeros, y si hacen falta.</p>
+<p>Una primera evidencia de que hay algo que no se entiende en la mecánica clásica es esta: que no funciona. Que la Naturaleza no la emplea. Y sabemos exactamente lo que la Naturaleza no traga; no tiene problemas -que sepamos- con el tiempo continuo o con el espacio indefinidamente divisible. Pero se le atragantan las variaciones de momento angular. No solo el momento angular total debe conservarse; ademas dos subsistemas no pueden transferirse una cantidad cualquiera, arbitrariamente pequeña, de momento angular. Éste debe ser un múltiplo de la constante de Planck.</p>
+<p>En el caso de la teoria de la relatividad, la constante <em>c</em> viene obligada por la teoria de campos clásica: una vez hemos puesto las leyes del electromagnetismo, su incompatibilidad con las transformaciones de Galileo sólo se soluciona incorporando una velocidad máxima. Entendemos pues lo suficiente de teoria de campos para que nadie se llame a engaño en cuanto a la necesidad de la mecánica relativista. Pero la constante <em>h</em> no parece que venga obligada de ninguna parte.</p>
+<p>Hay otros indicios de que algo suena mal en la mecánica clásica, pero son muy pequeños. Uno de ellos es histórico, cuando te das cuenta de que los inventores del calculo infinitesimal tuvieron muchas más dudas para aplicarlo a la integración de recorridos que a la integración de longitudes y volumenes. Ya en la antiguedad, Democrito resuelve la cuestion de los infinitesimos para el volumen de la piramide y no se atreve a aplicar la misma solución a la flecha de Zenon. Y siglos despues, Newton va retrasando y retrasando la publicación de los Principia, y en cada retraso retoca y vuelve a llenar de comentarios las secciones del libro I sobre la orbita bajo fuerzas centrales, donde el principal protagonista es la conservación del momento angular y la ley de areas de Kepler.</p>
+<p>Otro indicio viene del cálculo númerico; es muy llamatico que el desarrollo de la precision arbitrariamente grande en los algoritmos de Runge-Kutta venga dado por unos árboles, que descubrio Cayley pero que emplea un tal Butcher en este contexto, similares a los que se ha descubierto que gobiernan la inserción de loops en el proceso de renormalización de la serie perturbativa de diagramas de Feynman.</p>
+<p>La propia serie de Feynman es otra pista: viene de expandir la integral de camino, la cúal es un desarrollo que F. tomó de un argumento de Dirac sobre las relaciones entre la mecánica cuántica y la clasica. Venia Dirac a decir que un cierto objecto clásico, la transformacion de contacto, llevaba a usar el Langrangiano como mecanismo para transferir el sistema desde un estado en tiempo <em>t</em> a otro en un tiempo distinto <em>t&#8217;</em>.</p>
+<p>La acción, el langrangiano, tiene unidades de momento angular. Supongo que en el siglo XIX los estudiosos de la mecánica clásica consiguieron solucionar el problema de la dinámica de un objeto cuando el potencial en el que se mueve no es de fuerzas centrales, y por tanto no se conserva el momento angular. Encontraron otra cantidad, basada tambien en el producto de posición y momento, que permitia realizar la integración del recorrido, o más bien encontrar el recorrido directamente mediante un principio de busqueda de máximos y minimos, al igual que en el caso del potencial central se puede encontrar el radio de la orbita circular añadiendo simplemente una fuerza ficticia y buscando el minimo del nuevo potencial. ¿Entendemos lo suficiente estas tecnicas de mecánica lagrangiana? Si funcionan, ¿por qué diablos la Naturaleza las rechaza y prefiere regularizarlas y suavizarlas mediante la cte de Planck?</p>
+<p>Me pregunto, volviendo al principio, cuantas de las dudas que decimos tener de «mecanica cuantica» no son sino dudas respecto a todos estos procesos de limite, de extremos y de principios de máxima acción, que hemos pasado de entender y que simplemente hemos dejado para el curso siguiente, y ahora el curso siguiente ha llegado y nos ha sorprendido. Y ojo, que seguramente ahi habrá escondidas muchas cosas que sí que se entienden perfectamente en mecánica clásica, pero que queda más elegante, o menos vergonzoso, discutir diciendo que estamos hablando de una duda de mecánica cuántica.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/mis-dudas-sobre-mecanica-cuantica/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>References on the Spanish Swindle</title>
+		<link>/blog/references-on-the-spanish-swindle/</link>
+					<comments>/blog/references-on-the-spanish-swindle/#comments</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Mon, 24 Sep 2012 14:25:34 +0000</pubDate>
+				<category><![CDATA[Wiki-like]]></category>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=213</guid>
+
+					<description><![CDATA[Antes del 1500 hay engaños basados en tesoro escondido, ejecutados directamente en el terreno, engañando al propietario a que esconda unas monedas para ayudar a la magia y luego que espere tres dias. 1542, Segun Frances Parkinson Keyes, es la fecha en la que se juzga el primer delito de «Spanish Prisoner»  en Sevilla. Su [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Antes del 1500 hay engaños basados en tesoro escondido, ejecutados directamente en el terreno, engañando al propietario a que esconda unas monedas para ayudar a la magia y luego que espere tres dias.</p>
+<p>1542, Segun Frances Parkinson Keyes, es la fecha en la que se juzga el primer delito de «Spanish Prisoner»  en Sevilla. Su fuente es un <a href="http://books.google.es/books?ei=DYN9UIecNoKEhQeayoCIAQ&amp;id=O2JTAAAAYAAJ&amp;dq=April+1941++stanton+%22scribner%27s+commentator%22&amp;q=1542#search_anchor">articulo de 1941</a> por Stanton Delaplane. Quizas a traves de una nota del Servicio Postal, esta fecha la repiten diversos <a href="http://news.google.com/newspapers?nid=1314&amp;dat=19520423&amp;id=fDBWAAAAIBAJ&amp;sjid=7uUDAAAAIBAJ&amp;pg=1128,5351309">periodicos</a> mas tardios. Delaplane parece referirse a su uso en america: «the old story imported to the New World <em>just 50 years after Columbus&#8217; journey</em>. In 1542, Seville courts recorded the first  «<wbr />Spanish Prisoner» swindle. It has had <em>400</em> years of uninterrupted success and <em>is operating today</em> with hardly a change, even in the phrasing of the letters which bait the trap.»</p>
+<p>Otro articulo de 1940 por Jane Wison da la misma fecha «This racket had been practiced from Spain with evident success for over three centuries, there being records of <em>smart money boys hawking it on the streets of Seville</em> as far back as 1542&#8243;</p>
+<p>1588, (que coincide con el desastre de la Armada Invencible), es la fecha que dio en 2002 Ian Campbell: «only difference is that the original scam used parchment and the promise of a hidden treasure chest».</p>
+<p>¿fundamento historico? Gomez Vozmediano narra la serie de hallazgoz en la zona de Ocaña, asi como el pliego «Carta que Antonio de Ocaña&#8230;» impreso en 1618</p>
+<p>1656 ¿fund historico? Avisos de Barrionuevo  Santa Cruz, tres leguas de Astorga, se ha descubierto un gran tesoro. Parece ser llegó allí un morisco&#8230;</p>
+<p>1660 Barrionuevo: unos extranjeros trajeron noticias y señas de que en una casa que cae á las espaldas de la Cárcel de Corte había un gran tesoro del tiempo de los moriscos, en que vivía en ella el Tesorero general de los de estas comarcas. Están cavando donde ellos han señalado,</p>
+<p>¿fundamento historico? <a href="http://pares.mcu.es/ParesBusquedas/servlets/Control_servlet?accion=3&amp;txt_id_desc_ud=535289&amp;fromagenda=N">1782</a> CONTRA Jacinto García, de oficio palillero para limpiar dientes,&#8230; Acusarle de haber hallado en su poder 6.000 reales que había desenterrado en el lugar de San Miguel del Arroyo » Dinero que había ido a buscar por encargo de Sebastián del Corso su sobrino, condenado al presidio de Orán por la Sala de Corte»</p>
+<p>??? La prisonnière espagnole est un type d&#8217;escroquerie qui remonte à l&#8217;<a title="Espagne" href="http://fr.wikipedia.org/wiki/Espagne">Espagne</a> du <a title="XVIe siècle" href="http://fr.wikipedia.org/wiki/XVIe_si%C3%A8cle">xvi<sup>e</sup> siècle</a>. Un seigneur recevait un message du type « Une princesse espagnole très riche et très belle est détenue par les Turcs, envoyez telle somme d&#8217;argent pour la libérer et elle viendra vous épouser ». ¿¿¿SIN EVIDENCIA???</p>
+<p>Es muy raro que de existir el timo durante el siglo de oro no aparezca en la picaresca; ademas es un timo del que se suele presumir, vease el himno que se hicieron a si mismos los nigerianos.</p>
+<p>El desafio es ir más atras de 1789, en dos lineas:</p>
+<ul>
+<li>&#8211; Uso explicito de la «novia rusa» o la «princesa prisionera española» sin la intervención</li>
+<li>&#8211; Uso del «tesoro escondido», con o sin novia</li>
+</ul>
+<p>Naturalmente, las cartas van asociadas a que exista un metodo de entrega y un metodo de producccion.</p>
+<p>1789 to 1834 <a href="http://www.1789-1815.com/lettres_jerusalem.htm">Lettres de Jerusalem</a>, see <a href="http://books.google.es/books?id=RGuNSzsDe2EC&amp;pg=PA81&amp;lpg=PA81&amp;dq=Les+%C3%A9v%C3%A9nements+de+notre+premi%C3%A8re+R%C3%A9volution+ont+donn%C3%A9+naissance+aux+lettres+de+J%C3%A9rusalem&amp;source=bl&amp;ots=nRnL-VzoSy&amp;sig=8aFfcpoqSyF-L3kz9gYcQZ4fSOo&amp;hl=en&amp;sa=X&amp;ei=nWdgUOqmIsrBhAfbu4DwCA&amp;ved=0CDIQ6AEwAg#v=onepage&amp;q=Les%20%C3%A9v%C3%A9nements%20de%20notre%20premi%C3%A8re%20R%C3%A9volution%20ont%20donn%C3%A9%20naissance%20aux%20lettres%20de%20J%C3%A9rusalem&amp;f=false">Vidocq</a>. «monter un arcat», «faire un arcat»</p>
+<p>1802, 4 Janvier, <strong>Préfecture de police.</strong> <em>Paris, le 13 nivôse an 10</em>.  &#8211; Malgré les différents avis donnés au public, pour le tenir en garde contre ces lettres supposées dites <em><a href="http://www.1789-1815.com/lettres_jerusalem.htm">lettres de Jérusalem,</a> </em>dans lesquelles des individus se <em>disant</em> détenus au Temple ou ailleurs, offrent d&#8217;indiquer un trésor&#8230;  Ils écrivaient de ces lettres et se faisaient adresser les réponses par l&#8217;intermédiaire de deux femmes</p>
+<p>1854, 8 de Julio,  a Bisbal, desde la prisión de Ceuta. La envia el preso Pedro Espelta. Se conserva el <a href="http://www.afinet.eu/index.php?option=com_content&amp;view=article&amp;id=149:el-timo-del-entierro&amp;catid=22&amp;Itemid=82">sobre</a> y una <a href="http://filateliadigital.com/correo-del-penal-de-ceuta/">transcripción</a>.</p>
+<p>1873-74, se describe esta actividad como timo del «entierro».  Juan José Relosillas en  “Catorce meses en Ceuta”</p>
+<p><small>(Relosillas y otros autores describen variantes del timo enfocadas hacia eclesiasticos, monjas y curas, no esta claro para mi si esto es una adaptacion a la oportunidad, o si lo que resucita es algun metodo previo anterior al correo, de intentar influir en confesores y contactos cercanos. El mero hecho de que piquen en estas cartas esta a favor de que sea algo nuevo, y por tanto en contra de la idea de que el timo tuviera su origen entre los limosneros de rescate)</small></p>
+<p>1880-82, Menendez Pelayo compara la busqueda magica de tesoros en el siglo XVI, part el proceso de Diego de Heredia, con los entierros sin ser explicito: «Hoy mismo la practica el vulgo de Andalucía y Extremadura, valiéndose de ciertos libros supersticiosos, que suelen salir de los presidios de África». Notese que el &#8216;libro&#8217; es tambien la tecnica que describe Feijoo a mediados del XVIII, sin dar pista sobre su origen.</p>
+<p>1891 La <a href="http://hemeroteca.lavanguardia.com/search.html?q=%22timo+del+entierro%22+&amp;bd=01&amp;bm=02&amp;by=1881&amp;ed=16&amp;em=09&amp;ey=1930&amp;keywords=&amp;__checkbox_home=true&amp;edition=&amp;exclude=&amp;x=62&amp;y=10&amp;excludeAds=true&amp;sortBy=date&amp;order=asc">Vanguardia</a> publica una queja de francia sobre el timo del entierro. Seguiran otras.</p>
+<p>1892, 19 August, Brisbane Courier, &#8216;the perpetrators of a fraud, which is well known as the » Spanish Swindle,» have again shown activity&#8217;</p>
+<p>1898, «cajero del regimiento», carta descrita por Martin Turrado Vidal, comparandolo despues con uno actual nigeriano, «tribu ogoni»: 500 pesetas contra seis mil euros. Ver «Estudios Sobre Historia de la Policia (III)», o directamente «La policia española» num 285 de 20 de septiembre.  Incluye ya la recomendacion de custodia de su niña de 15 años. Se enviaban desde la prisión de Valladolid.</p>
+<p>1898, Akaroa (Nueva Zelanda), firma Santiago de Ochoa, prisionero en Cuba,  incluye recortes de prensa.</p>
+<p>1898, 05 March, <a href="http://newspaperarchive.com/massillon-item/1898-03-05/page-2/">Massillon</a>, idem,  » When he was in the army he became mixed up in a revolutionary plot and had to go to America with a lot ot money He was called to Spain to see his sick daughter who was at school Before he went he buried the money near and made a map of the spot»</p>
+<p>1898, 20 March, The New York Times, idem, «An Old Swindle Revived», &#8216;The «Spanish Prisoner»&#8230;&#8217;, «in operation more than thirty years», «the French, Spanish and South American cities from which the swindle is managed»</p>
+<p>1998, 21 April, Sterling Standard, idem, » a large square envelope in his mail this morning which bore a Spanish stamp and post mark»,  «offers to put the savior of his child into possession of the secret of an im mense treasure buried in the vicinity»</p>
+<p>1898, 14 March, The Brisbane Courier,  Tamworth, Santiago de Ochoa from Castle &#8216;Barce-lona&#8217;</p>
+<p>1898, 29 April, Waterloo Daily Courier, «J Burton an aged merchant of the city has just received an exceedingly yet in letter from Madrid written by a Spaniard signing himself Santiago de Ochoa»</p>
+<p>1898, 25 June, <a href="http://trove.nla.gov.au/ndp/del/article/68180207">The Capricornian</a> (Rockhampton, Qld), » <a href="http://nla.gov.au/nla.news-article68180207">LETTER</a> TO A CENTRAL QUEENSLAND RESIDENT»,  «I remain, dear sir, Your obedient servant, Santiago de Ochoa. P.S. — As soon as you have read the letter please to burn it, so that nobody else may be able to get an inkling of the contents.»</p>
+<p>&#8212;, Arthur Griffiths describe una serie de timos de «entierro» en el capitulo VIII de  &#8216;THE INQUISITION AT HOME AND ABROAD. PRISONS PAST AND PRESENT», algunos de ellos tomados de Relosillas.</p>
+<p>1905, 19 Diciembre Carta desde Zaragoza, con cable a Vendrell, attn «Emilio Calvet». En ingles.</p>
+<p>1906 11 January, <em><a href="http://oldmilwaukee.net/blog/?tag=spanish-swindle">Milwaukee Sentinel</a>, </em>Wisconsin. «operated in the United States for twenty-five years»</p>
+<p>1906, 21 Feb, ABC pg 6, detenciones «SOCIEDAD DE GRANDES ESTAFADORES». Una columna completa.</p>
+<p>[68 quater] Circular de 3 febrero 1906. Sobre el delito de estafa conocido por “el tesoro escondido o entierro” sufrido por extranjeros.</p>
+<p>1907, 3 Mar, ABC pg 2, Californiano llegado a Madrid por «timo del entierro o cosa parecida».</p>
+<p>1908, 19 de Abril, carta del Marques de Villa-Urrutia desde Londres, referente a la busqueda de pistas sobre «entierros». Incluye algunos ejemplos.  En una segunda carta, 29 Abril, refiere discusion en Scotland Yard.</p>
+<p>1908, October 1, Boston,  «postmarked Madrid, signed Luis Rodriguez», «fourteen-year-old daughter», «Chaplain Garcia», in  <a href="http://heinonline.org/HOL/LandingPage?collection=journals&amp;handle=hein.journals/tgb21&amp;div=93&amp;id=&amp;page=">The Green Bag (1909)  Uncovering of a Spanish Swindle</a>.</p>
+<blockquote><p>«If you accept my proposition you will answer me by cable at the name and address of the inclosed card and the cable must say as follows: All right. I beg of you not to name me for anything in the cable»</p></blockquote>
+<p>1909, Circular de «The Department of State» refiriendo «band of swindlers operating in various towns and cities in Spain» &#8230; «political prisoner from Cuba» &#8230; friend is the «prison priest» &#8230; «Barcelona»</p>
+<p>1909, The Flaming Sword, on the «Spanish Swindle». Menciona la hija del prisionero, y el «priest»</p>
+<p>1909, 31 Jan, The NY Times, «Spanish Swindle Again»</p>
+<p><a href="http://www.buckacover.com/articles/show.php?sd=roytext&amp;a=prisoner">1910</a> &#8211; Demidoff, antecedente de Serge Solovieff. Tambien con recortes de periodico.</p>
+<p>1910, 13 Feb, Minnesota <a href="http://www.startribune.com/blogs/84354257.html">http://www.startribune.com/blogs/84354257.html</a> Demidoff, Madrid.</p>
+<p>1911 &#8211; 1914  &#8230; la saga de <a href="http://www.samizdat.com/solovieff.html">Serge Solovieff</a>. Valladolid, Madrid, Santander&#8230;</p>
+<p>1912, US official postal guide. «The scheme has also been operated in Mexico»</p>
+<p>1913, 9 April, The Fredonia Censor, NY, «Serge Solovieff», dirigido a Mr Colburn, inclye clippings, debe responder por cable «Sigo bien»,</p>
+<p>1914, 23 March, Official Gazette, «Spanish Swindle», Circular del Secretary of State for the Colonies. Se <a href="http://newspapers.nl.sg/Digitised/Article/straitstimes19140320-1.2.51.aspx">distribuye</a> a todas las Colonias Inglesas, incluida Nigeria :-D.  La descripcion, realizada por el embajador ingles en españa, habla de una «prision militar»; no parece pues el caso Solovieff, pero tampoco encaja del todo con las de «tesoro enterrado cerca del destinatario».</p>
+<p>1921, 21 agosto, ABC, detencion de Enrique Moran Patallo, «El Vivales», por timo del entierro.</p>
+<p>1922, The Fourth estate</p>
+<p>1924, 2 julio, ABC, Frances llegado a Madrid por timo del entierro, cartas de «Rafael Santos»</p>
+<p>1926, 23 Enero, ABC pg 23 detenciones «los del timo del entierro», le sigue&#8230; 1926, 29 Mayo, ABC pg 23, detención por compra de sellos para timo del entierro, 127 cartas preparadas,</p>
+<p>1926, 22 Feb, circular de la Fiscalia General del Estado definiendo el timo del entierro. «[122] Circular de 22 de febrero de 1926, sobre aplicación del Real Decreto de 21 de febrero de 1926 referente a los delitos de estafa, timo del entierro y chantaje.» <a href="https://www.boe.es/datos/pdfs/BOE//1926/054/A00986-00988.pdf">Boe del dia 23</a></p>
+<p>1927 , 16 julio (?),  diario de Leon,  «La policía tuvo noticias de la organización de una oficina para dar timos por el procedimiento del entierro. Supo el jefe de Policía que los encargados de este «despacho» erán un subdito alemán llamado Luis Kaudar.»</p>
+<p>A partir de 1925, y mas tarde en <a href="http://news.google.com/newspapers?id=Gl4hAAAAIBAJ&amp;sjid=CYYFAAAAIBAJ&amp;pg=3375%2C574318">otras fechas</a>, se nota que la carta ya comienza a estar «mimemografiada» en vez de manuscrita.</p>
+<p>1929, Estampa, «El timo del entierro», articulo a doble página</p>
+<p>1940, una nota de<a href="http://archive.org/stream/departmentofstat240unit/departmentofstat240unit_djvu.txt"> Mayo-Junio</a> en Estados Unidos da algunos ejemplos de Spanish Swindle llegados desde Mejico.</p>
+<p>1942,  hearings before the subcommittee of the Committee on Appropriations,  on the Post Office Department Appropriation Bill for 1942</p>
+<p>1948, Annual report of the Postmaster General, 26 orders against 75 names. Tambien referencias en la <a href="http://newspaperarchive.com/wellsboro-gazette/1948-02-05/page-8/">prensa</a>, diciendo que ahora llegan desde Mejico. Sigue habiendo prisonero e hija del prisionero. Former Chief Post Office Inspector Clifton C. Garner said that in the <em>1950&#8217;s United States citizens lost annually at</em> least $600,000</p>
+<p>1953-54: otra oleada desde Mejico. ¿Quizas la ultima? Pasa a llamarse «timo del baul» o «Spanish-Trunk Racket»</p>
+<p>En los 60-70 hay indicios de actividad «de carteo» entre los destinados forzosos en Africa.</p>
+<p>siglo XXI : <a href="http://www.potifos.com/fraud/">http://www.potifos.com/fraud/</a> y otros webs.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/references-on-the-spanish-swindle/feed/</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Notas sobre Kaluza &#8211; Klein</title>
+		<link>/blog/notas-sobre-kaluza-klein/</link>
+					<comments>/blog/notas-sobre-kaluza-klein/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Sat, 18 Aug 2012 12:39:07 +0000</pubDate>
+				<category><![CDATA[Wiki-like]]></category>
+		<category><![CDATA[grand unification]]></category>
+		<category><![CDATA[m theory]]></category>
+		<category><![CDATA[string theory]]></category>
+		<category><![CDATA[superstrings]]></category>
+		<category><![CDATA[theory of everything]]></category>
+		<category><![CDATA[wrong turn]]></category>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=45</guid>
+
+					<description><![CDATA[He hablado mucho de Kaluza Klein en otros sitios, tanto en comentarios de otros blogs como en foros, asi que a los que me conocen las entradas en esta sección wiki-like les van a resultar un poco repetitivas. Lo más sorprendente de esta teoria es como se enterró despues de renacer. Recordemos que en los [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>He hablado mucho de Kaluza Klein en otros sitios, tanto en comentarios de otros blogs como en foros, asi que a los que me conocen las entradas en esta sección wiki-like les van a resultar un poco repetitivas.</p>
+<p>Lo más sorprendente de esta teoria es como se enterró despues de renacer. Recordemos que en los 70 habian vuelto a plantearse las dimensiones extras por dos motivos: por el hecho de que eran necesarias en cuerdas y supercuerdas, y porque se descubrio que las supergravedades en 4D podian verse como compactificaciones de Kaluza Klein sencillas, en toros y hasta de maneras mas crudas, de la supergravedad de máxima dimension posible, la de 11D.  Y naturalmente los de cuerdas enseguida probaron que las sugra en 10D eran limites de la teoria de cuerdas, así que todos contentos. En eso llega el heterodoxo Witten en el 81, y dice, «pero vamos a ver, lo que queremos es el grupo gauge, ¿no?». Y el tio calcula cual era la dimension minima que necesitaba para que un espacio tuviera como grupo de isometrias el del modelo estandard, \(SU(3) \otimes SU(2)\otimes U(1)\).</p>
+<p><span id="more-45"></span></p>
+<p>En general, el truco es cocientar el grupo objetivo G por un subgrupo H no trivial; cuanto mayor sea este subgrupo, menor sera la dimension necesaria. Entonces, dijo Witten, para el grupo gauge del modelo estandar podemos tomar H igual a \(SU(2) \otimes U(1) \otimes U(1) \), y restando dim(G)-dim(H) sale&#8230; 7.</p>
+<p>Vaya, que coincidencia. Asi que la minima dimension posible para plantearse sacar el modelo estandard como isometrias de dimensiones extra es, tambien, 11D.</p>
+<p>Esto pilló de sorpresa a todo el mundo, y nadie supo qué partido sacarle. Un par de grupos de investigación, tras darse cabezasos en la pared por haberse dedicado solamente a la esfere (SO(8)) y su fibracion de Hopf (SO(5)xSO(4)),  se pusó a clasificar todos los casos de 7 dimensiones extra y vió que realmente no habia más que unos poquitos más, así que podía ser que el modelo estandar fuera natural despues de todo. Por cierto que nadie se fijo en el parecido con la esfera, porque \(CP^2\) y \(S^4\) no son faciles de relacionar, el truco es una construccion de «branched covering», que tan sólo he visto mencionar a Atiyah, y no en este contexto.</p>
+<p>En cuanto a las objeciones, el mismo Witten no veia claro que pudiera construir fermiones quirales en Kaluza Klein y de hecho completó esta demostración en un paper que sólo se publico en un congreso dos años despues, el Shelter Island II. Aun asi, y con lo díficil que es de encontrar, mucha gente lo cita como un teorema non-go de la misma categoría que Coleman-Mandula&#8230; para luego tener que buscar excusas para explicar por qué, en cambio, la teoría M sí que es la panacea universal de la física de particulas. Que no digo que no lo sea&#8230; sólo que prácticamente cualquier argumento que valga para M-Theory vale para Kaluza-Klein. De hecho Schwartz tiene uno interesante: que la quiralidad sale al estudiar los estados relacionados con las membranas, sea la M2 o la M5.</p>
+<p>Peor lo puso el <a href="http://francisthemulenews.wordpress.com/2012/08/19/nota-dominical-abdus-salam-y-el-premio-nobel-que-quizas-no-merecio/">amigo Salam,</a> que se lanzó con su entusiasmo habitual, él y medio equipo de Trieste, para luego encotrarse con que no salian las cargas&#8230; Vamos, que aun en el caso no quiral, las representaciones no encajaban. Este era quizas el argumento más fuerte, aunque tambien tendría solución: una dimension extra, que no es muy diferente a añadir un B-L&#8230; lo raro es que el grupo de Salam, que obviamente dominaba modelos L R y, er, Pati-Salam, no lo propusiera. Lo sugirierón años más tarde Bailin y Love.</p>
+<p>La jubilación de Salam, y la revolución de las supercuerdas heteroticas a mediados de los ochenta, dejaron paralizado este programa de investigación. Y ahi sigue, porque ni el salto de 10D a 11D de las cuerdas de los noventa llevó a resucitarlo. Quizás hay una traba adicional, que es cosmologica: Un espacio de 11D se compacta de manera bastante natural a 4+7 cuando una de las dos piezas es Anti-DeSitter y la otra compacta; eso es una compactificación de Freund-Rubin.  Habiendo descartado el AdS como la forma adecuada de nuestro universo macro, la mayor parte de los físicos entrenados en teorias de Kaluza Klein optaron por reconvertirse a Maldacena.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/notas-sobre-kaluza-klein/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

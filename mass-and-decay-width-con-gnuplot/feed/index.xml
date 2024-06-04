@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: mass and decay width con gnuplot	</title>
+	<atom:link href="/blog/mass-and-decay-width-con-gnuplot/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/mass-and-decay-width-con-gnuplot/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Tue, 26 Aug 2014 02:32:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>
+		Por: Alejandro Rivero		</title>
+		<link>/blog/mass-and-decay-width-con-gnuplot/#comment-115</link>
+
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Tue, 26 Aug 2014 02:32:36 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=746#comment-115</guid>
+
+					<description><![CDATA[Por cierto que el Higgs no esta en la lista porque todavia no se ha medido directamente su amplitud de desintegracion; la teorica es 4.2 MeV]]></description>
+			<content:encoded><![CDATA[<p>Por cierto que el Higgs no esta en la lista porque todavia no se ha medido directamente su amplitud de desintegracion; la teorica es 4.2 MeV</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

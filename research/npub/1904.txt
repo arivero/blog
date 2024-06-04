@@ -1,0 +1,47 @@
+Sir,
+
+While it is clear that spin-orbit coupling can be get for nuclear
+forces by using a relativistic approach, practitioners known that the huge
+spin orbit separations at big magic numbers do still need of an empirical
+adjust. So I considered interesting to take a look to nuclei for magic
+numbers 50, 82 and 126 by looking at the sub-shells that are responsible
+of the magicity. These are, respectively, g9/2, h11/2 and i13/2.
+
+I considered to evaluate the average weight of nuclei while they are
+filling these sub-shells. As the filling happens for neutrons and protons,
+this double process drives to consider rectangles. Of the possible nine
+rectangles, only three touch the valley of stability, and they happen of
+course near the doubly magic nuclei, ie:
+
+A) Near P=50,N=50,
+B) Near P=50,N=82, and
+C) Near P=82,N=126.
+
+Using the filing order for instance from Cottinghan/Greenwood, one sees that
+the respective average number of nucleons in each rectangle
+is 90, 115, and 181.
+
+The corresponding masses show a intriguing pattern.
+
+A) 90 amu is about 83,8 GeV, which is about a -4% of the mass of the W
+                               or/and about a  8% of the mass of the Z0.
+B) 115 amu is about 107 GeV, which is about a  6% of LEP Higgs Events.
+C) 181 amu is about 167 GeV, which is about a  3% of the mass of the Top
+
+Your editor has considered all the above process unscientific. Textually,
+N. Auerbach wrote back that  "I have reviewed the above  paper and find it to 
+be scientifically not valid".
+
+I can recognise that there is no backing theory, one of many body
+kinematical relationships or so. But there are not arbitrary choosing
+of data points or any other unscientific, nor numerologist, methodology.
+He could argue, as other journals did, about if a multiple coincidence
+of events below 10% error deserves notification as a letter. Or about
+if the event B is qualified enough. Perhaps your editor is tired of
+glancing over speculative comments -which regretly is nowadays a hard part
+of the job of being an editor-. If he is tired, I will suggest him
+simply to quit the job.
+
+Yours,
+
+Alejandro Rivero

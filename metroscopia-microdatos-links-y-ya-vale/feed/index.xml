@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: metroscopia, microdatos, links y ya vale	</title>
+	<atom:link href="/blog/metroscopia-microdatos-links-y-ya-vale/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/metroscopia-microdatos-links-y-ya-vale/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Thu, 14 Jul 2016 16:08:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>
+		Por: Alejandro Rivero		</title>
+		<link>/blog/metroscopia-microdatos-links-y-ya-vale/#comment-2335</link>
+
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Thu, 14 Jul 2016 16:08:33 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=1174#comment-2335</guid>
+
+					<description><![CDATA[En http://francis.naukas.com/2016/07/13/analisis-forense-de-las-elecciones-nacionales-del-25-d-y-del-26-j/ y http://arxiv.org/abs/1607.02841 ha aparecido un analisis del voto via ley de benford que ademas trae las dependencias (o no) entre participacion y porcentaje de voto.]]></description>
+			<content:encoded><![CDATA[<p>En <a href="http://francis.naukas.com/2016/07/13/analisis-forense-de-las-elecciones-nacionales-del-25-d-y-del-26-j/" rel="nofollow ugc">http://francis.naukas.com/2016/07/13/analisis-forense-de-las-elecciones-nacionales-del-25-d-y-del-26-j/</a> y <a href="http://arxiv.org/abs/1607.02841" rel="nofollow ugc">http://arxiv.org/abs/1607.02841</a> ha aparecido un analisis del voto via ley de benford que ademas trae las dependencias (o no) entre participacion y porcentaje de voto.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

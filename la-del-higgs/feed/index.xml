@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: La del higgs	</title>
+	<atom:link href="/blog/la-del-higgs/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/la-del-higgs/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Thu, 17 Jan 2019 16:54:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>
+		Por: Alejandro Rivero		</title>
+		<link>/blog/la-del-higgs/#comment-2602</link>
+
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Thu, 17 Jan 2019 16:54:33 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=1557#comment-2602</guid>
+
+					<description><![CDATA[Related perhaps, note 88Zr but also 135Xe, use 1amu=0.931494061
+
+https://www.nature.com/articles/s41586-018-0838-z]]></description>
+			<content:encoded><![CDATA[<p>Related perhaps, note 88Zr but also 135Xe, use 1amu=0.931494061</p>
+<p><a href="https://www.nature.com/articles/s41586-018-0838-z" rel="nofollow ugc">https://www.nature.com/articles/s41586-018-0838-z</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Alejandro Rivero		</title>
+		<link>/blog/la-del-higgs/#comment-2591</link>
+
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Mon, 07 Jan 2019 01:15:54 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=1557#comment-2591</guid>
+
+					<description><![CDATA[Mitchell, it is difficult to explain this. If it were real, it could be also related to the tunneling or whatever process needed to produce fission. 
+
+Look in the second plot I put in http://vixra.org/abs/1509.0090, the combination of W, Z and Higgs seem to justify the peaks of fission yields, so perhaps when one of the droplets has the mass of an elementary boson it is easier to break the bag.]]></description>
+			<content:encoded><![CDATA[<p>Mitchell, it is difficult to explain this. If it were real, it could be also related to the tunneling or whatever process needed to produce fission. </p>
+<p>Look in the second plot I put in <a href="http://vixra.org/abs/1509.0090" rel="nofollow ugc">http://vixra.org/abs/1509.0090</a>, the combination of W, Z and Higgs seem to justify the peaks of fission yields, so perhaps when one of the droplets has the mass of an elementary boson it is easier to break the bag.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Mitchell Porter		</title>
+		<link>/blog/la-del-higgs/#comment-2583</link>
+
+		<dc:creator><![CDATA[Mitchell Porter]]></dc:creator>
+		<pubDate>Mon, 31 Dec 2018 07:00:30 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=1557#comment-2583</guid>
+
+					<description><![CDATA[OK, the analogy with t-&#062;bW+ doesn&#039;t make sense, it&#039;s not like the nucleus loses 80 GeV of mass-energy. 
+
+The only other thing I can think of, are special interactions like sphalerons or Wess-Zumino terms. If there were such a thing as an &quot;on-shell anomaly-mediated beta decay&quot;...]]></description>
+			<content:encoded><![CDATA[<p>OK, the analogy with t-&gt;bW+ doesn&#8217;t make sense, it&#8217;s not like the nucleus loses 80 GeV of mass-energy. </p>
+<p>The only other thing I can think of, are special interactions like sphalerons or Wess-Zumino terms. If there were such a thing as an «on-shell anomaly-mediated beta decay»&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Mitchell Porter		</title>
+		<link>/blog/la-del-higgs/#comment-2578</link>
+
+		<dc:creator><![CDATA[Mitchell Porter]]></dc:creator>
+		<pubDate>Fri, 28 Dec 2018 00:57:41 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=1557#comment-2578</guid>
+
+					<description><![CDATA[My theory of the beta decays around the W boson mass would be that the nucleus is emitting an on-shell W boson. If the nucleus were treated as a point mass, then this would resemble the on-shell decay of top quark to bottom quark. To show nuclear structure, perhaps a skyrmion model.]]></description>
+			<content:encoded><![CDATA[<p>My theory of the beta decays around the W boson mass would be that the nucleus is emitting an on-shell W boson. If the nucleus were treated as a point mass, then this would resemble the on-shell decay of top quark to bottom quark. To show nuclear structure, perhaps a skyrmion model.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

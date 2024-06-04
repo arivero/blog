@@ -1,0 +1,208 @@
+<head>
+<title>A EyeToy/WebCam Mouse in Visual Basic</title>
+</head>
+<body>
+<h1>Mouse WebCam<img src="/blog/alumnos/analisis.jpg">
+</h1>
+
+<p>Anticipating for a pair of weeks Minority Report, I asked two students
+ to do a Gesture-Driven
+mouse, using a quickcam and visual basic. The project started in January
+and the different modules have been first   
+integrated by July 2003, which casually is coincidental with the release of 
+PlayStation II Eye-Toy. So we are in the wave...  
+I have now asked my students to clean the code to put it in the 
+free public domain. If you want to get some clues on visual basic programming
+and be able to develop EyeToy-like software in your PC, keep watching
+this page.
+</p>
+<p>
+Instead of the nice black leather glove with three blue diodes, we use a 
+greenish kitchen glove. This is actually more difficile than Tom
+Cruise's gadget, as detecting lights is easier than detecting colors. But
+in this way we avoid extra soldering. 
+
+ 
+
+</p>
+<p> We found that the 
+capture stops when other window event happens, so while mouse can move
+smoothly (sort of), we need internally relaunch the capture after every 
+event. Also, dragging does not work because the OS takes control. If such
+feature is needed, you will work at deeper levels of Windows (HID drivers
+etc.). Fortunately menus and buttons live in upper layers. 
+
+</p>
+<p>
+To simulate mouse buttons with a gesture, but it seems that a second
+momenta calculation to fit the ellipse will be enough. On a pentium 4
+the analysis takes about 90 milliseconds and we can do it even
+better, so it
+seems it will work! Note the small tags next to the images... we use
+them to disable drawing, which takes a lot of time -half second per
+image!- in 
+our current,
+debug, implementation. Ellipse orientation, eccentricity and size are enough
+parameters to define four states: NOHAND, LEFTBUTTON, RIGHTBUTTON, NOBUTTON.
+
+</p>
+<p>
+If you are intrigued, you can download
+</p>
+<ul>  
+<li>early <a href="/blog/alumnos/mousecam075.zip">0.75 version</a>, July 2003
+</li>
+<li>final (sort of) <a href="/blog/alumnos/mousecam099.zip">1.00 version</a>, March 2004
+</li>
+<li> Student Report for work on windows internals, <a href="/blog/alumnos/MemLaura.doc">Word doc</a> (Spanish, 5MBytes).
+</li>
+<li> Student Report for analysis section, <a href="/blog/alumnos/MEMobuena.zip">zipped Word doc</a>
+</li>
+<li> PDF slide for the analysis presentation (to come)
+</li>
+</ul>
+<p>
+Let me be serious here: <b>The code is buggy and will not be functional
+until version 1.0</b>. Or beyond. Do not download it if you are not a programmer or 
+interested on the internals of programming. It involves pointers, callbacks
+and a lot of obscure tricks, and my students are very young so their code is
+still very naive and convolute (In any case, you can ask us for help). If you are only 
+interested in the final version, just bookmark this page; or send me an
+email [arivero at posta.unizar.es] asking to be notifyed
+
+</p>
+<p>
+In any case, the .zip can be compiled in any VisualBasic 6.0, and it 
+ contains:
+</p>
+<ul>
+<li> Some common libraries
+</li>
+<li> A capture module that feeds captured bitmaps into an analysis module.
+</li>
+<li> An analysis form with edge detection routines for the whole image 
+and also center of mass and position for a hand wearing a glove. 
+<p><i> We are moving definitively to first and second
+moments analysis (center of mass and ellipse fit)</i>, to determine both the position of
+the hand and if it is open or closed. A closed hand is a "mousedown click", so one can grasp a object and
+drag it across the screen. We are keeping edge detection in the analysis code window just as
+an example for other alternatives, but we are not using it. 
+
+</p>
+</li>
+<li>A routine to select the camera driver
+</li>
+<li> A main form to start capturing and moving the mouse according to the results of 
+analisis. You could use this to interact with other programs. Currently one 
+needs to wear a greenish kitchen glove. Still, it is better/cheaper  than the
+three-diode glove used by Tom Cruise in the film.
+</li>
+<li> A secondary form to load still images for analysis.
+</li>
+<li> Some still images, sometimes.
+</li>
+<li> A lot of bugs.
+</li>
+</ul> 
+<p>
+
+</p>
+<p>
+Note that
+all the provided code is to be considered under <a href="http://www.gnu.org/licenses/gpl.html#SEC1">
+Gnu Public License</a>, the owners being
+Enrique Garcia -the analysis code- and Laura Morentin -all the rest-.
+
+</p>
+<p><u>If you are aware of similar projects, please <a href="mailto:arivero@posta.unizar.es">tell me</a></u>.
+</p>
+<p>
+<img src="/blog/alumnos/full.gif">
+</p>
+<hr>
+<h2>Some pointers:</h2>
+<p>The <a href="http://www.google.com/search?q=ray+mercer+basic">main source</a><a> for
+recipes on getting video from Visual Basic is </a><a href="http://www.raymercer.net/">Ray Mercer</a>. Also check <a href="http://ej.bantz.com/video/">E. J. Bantz</a>.
+
+</p>
+<p>The strange relationship between bitmaps and picture boxes can be studied
+in some articles from the Microsoft Base. Check numbers <a href="http://support.microsoft.com/default.aspx?scid=kb;EN-US;187568">187568</a>
+ and 186260
+
+Also a simple <a href="http://www.codeguru.com/vb/articles/2007.shtml">fading
+example</a> can be of some help. Or a reading of our own code.
+
+</p>
+<p>To understand use of pointers in visual basic, you need to look for some
+article on <a href="http://www.activevb.de/tutorials/tut_safearray/safearray.html"><i>Safe Arrays</i></a>,
+ which are the movable arrays of VB. There was some other good articles in
+PDF format, but I do not remember where.
+
+</p>
+<p>Have luck!
+</p>
+<p> <img src="/blog/alumnos/nada.jpg"><img src="/blog/alumnos/left.jpg"><img src="/blog/alumnos/right.jpg">
+</p>
+<hr>
+<h2>Similar Works</h2>
+ The touchstone should be real interaction with a Windows system. This is, you should be able to
+raise the hand from the keyboard, grasp a window, move the window to other place and then
+remove the hand down to the keyboard to keep working. You should be authorized to use
+gesture tricks to keep dragging across high distances in the screen. For instance you can
+put the other hand over the camera, so "Nomouse", then move the hand with the glove,
+then release the camera. Other example, just move the hand far back until "nomouse", then
+move to the initial position, then keep scrolling... your hand does naturally a circle and
+you are scrolling!
+
+<ul>
+<li>A recent (2004) gesture recognition  bare <a href="http://www.personal.psu.edu/users/i/d/idg101/thesis/">hand</a>
+</li>
+<li>A veteran (1996) Hand-gesture project is <a http="http://ls7-www.cs.uni-dortmund.de/research/gesture/zyklop/index.shtml">ZYKLOP</a>
+</li>
+<li> <a href="http://www.fingerworks.com/igesture.html">iGesture</a> pad, from Fingerworks.
+</li>
+<li> <a href="http://acg.media.mit.edu/people/manor/gesture/manor_final_proj.pdf">Manor's</a>
+project at MIT, two handed, no gestures? 
+<img src="http://acg.media.mit.edu/people/manor/gesture/usage.jpg">
+<img src="http://acg.media.mit.edu/people/manor/gesture/gloves.jpg">
+</li>
+<li> Virtual Devices' <a href="http://www.virtualdevices.net/press_release.htm">keyboard</a>
+</li>
+<li> <a href="http://www.mousevision.com/">MouseVision' VisualMouse</a> uses any USB camera to track the head.
+</li>
+<li> EagleEyes'<a href="http://www.cameramouse.com/">CameraMouse</a> also tracks head or fingers. In this kind
+of devices there are no gestures suport, so they usually include a toolbar to emulate the clicks. Insterestingly,
+Eagleayes Project also develops an 
+<a href="http://www.bc.edu/schools/csom/eagleeyes/eagleeyes/">electrode system</a> for muscle-driven input, which
+surely could also be used to read fingering gestures. 
+<p> The Camera Mouse project was started by <a href="http://www.cs.bu.edu/faculty/betke/cs591/">Betke J. Gips</a>, <a href="http://www.cs.bu.edu/fac/betke/">http://www.cs.bu.edu/fac/betke/</a>,
+and <a href="http://www.bc.edu/schools/csom/eagleeyes/cameramouse/about/">their
+students</a>. 
+
+</p>
+</li>
+<li> between the head approaches, I like very much the one with the nose, <a href="http://www.cv.iit.nrc.ca/research/Nouse/index2.html">Nouse</a>.
+ 
+</li>
+<li> I finally checked the Sony PS2 device. At the end, they are using
+the fastest alternative: change detection. It simply detects the
+differences between two images, such diferences conform the
+"active areas". I'd preferred to use edge detection for it, but
+it is true that "edging" is slower than moving. In fact we need to disable
+ it when our cam
+is running in real time mouse emulation mode. If you want to program
+change detection, you will see it is really easy, simply <u>copy</u> the previous
+bitmap to some global variable in the analysis module. It is just that
+it is not useful to emulate a mouse, as one risks to detect a lot of
+simultaneous changes. One could emulate a "whole body mouse", perhaps.
+But no very useful thing.
+</li>
+<li>Sylvie Noel keeps <a href="http://charlie.dgrc.crc.ca/cgi-bin/Sylvie/Blog/casarch.pl?catind:Interface%20issues">a
+blog page</a> on interface issues.
+</li>
+<li>The diode trick has been essayed by the guys at <a href="http://www.multiblah.com/pmi/media.html">MultiBlah</a> site.
+</li>
+</ul>
+We are going to try a C version over a PDA; so the mouse signals will be sent over the USB
+mimicking a standard USB mouse, thus completely software and platform intependent.
+</body>

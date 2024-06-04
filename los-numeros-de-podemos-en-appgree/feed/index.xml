@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Los numeros de Podemos en appgree	</title>
+	<atom:link href="/blog/los-numeros-de-podemos-en-appgree/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/los-numeros-de-podemos-en-appgree/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Mon, 17 Nov 2014 16:03:56 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>
+		Por: Andrea Bontempi		</title>
+		<link>/blog/los-numeros-de-podemos-en-appgree/#comment-186</link>
+
+		<dc:creator><![CDATA[Andrea Bontempi]]></dc:creator>
+		<pubDate>Mon, 17 Nov 2014 16:03:56 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=773#comment-186</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;/blog/los-numeros-de-podemos-en-appgree/#comment-183&quot;&gt;Alejandro Rivero&lt;/a&gt;.
+
+Hola Alejandro. Estamos en Madrid. Si os pilla bien, invitados estáis a nuestras oficinas. Escríbeme directamente si quieres a a.bontempi@appgree.com]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="/blog/los-numeros-de-podemos-en-appgree/#comment-183">Alejandro Rivero</a>.</p>
+<p>Hola Alejandro. Estamos en Madrid. Si os pilla bien, invitados estáis a nuestras oficinas. Escríbeme directamente si quieres a <a href="mailto:a.bontempi@appgree.com">a.bontempi@appgree.com</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Alejandro Rivero		</title>
+		<link>/blog/los-numeros-de-podemos-en-appgree/#comment-183</link>
+
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Sat, 15 Nov 2014 00:01:42 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=773#comment-183</guid>
+
+					<description><![CDATA[Hola Andrea, gracias mil. 
+
+ ¿Donde teneis la sede? Zaragoza nos pilla cerca de casi cualquier sitio, asi que igual podemos quedar algun dia.
+
+Por cierto, que me parece haber oido que estabais usando scala para el lado del servidor o algo asi.]]></description>
+			<content:encoded><![CDATA[<p>Hola Andrea, gracias mil. </p>
+<p> ¿Donde teneis la sede? Zaragoza nos pilla cerca de casi cualquier sitio, asi que igual podemos quedar algun dia.</p>
+<p>Por cierto, que me parece haber oido que estabais usando scala para el lado del servidor o algo asi.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Andrea Bontempi		</title>
+		<link>/blog/los-numeros-de-podemos-en-appgree/#comment-182</link>
+
+		<dc:creator><![CDATA[Andrea Bontempi]]></dc:creator>
+		<pubDate>Fri, 14 Nov 2014 16:37:17 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=773#comment-182</guid>
+
+					<description><![CDATA[Hola Alejandro. Soy Andrea Bontempi, responsable de comunicación de Appgree y he encontrado muy interesante tu artículo, las reflexiones que haces son muchas de las que en su momento nosotros hicimos y nos seguimos haciendo. Muchas de las dudas que te surgen te la podríamos explicar nosotros mismos si quieres. Nosotros felices de contarte y escuchar sobre el proyecto en el que te embarcaste thinkhub. Además siempre nos viene bien escuchar a cabezas pensantes externas a Appgree :)
+
+Cuando quieras hablamos.]]></description>
+			<content:encoded><![CDATA[<p>Hola Alejandro. Soy Andrea Bontempi, responsable de comunicación de Appgree y he encontrado muy interesante tu artículo, las reflexiones que haces son muchas de las que en su momento nosotros hicimos y nos seguimos haciendo. Muchas de las dudas que te surgen te la podríamos explicar nosotros mismos si quieres. Nosotros felices de contarte y escuchar sobre el proyecto en el que te embarcaste thinkhub. Además siempre nos viene bien escuchar a cabezas pensantes externas a Appgree 🙂</p>
+<p>Cuando quieras hablamos.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Alejandro Rivero		</title>
+		<link>/blog/los-numeros-de-podemos-en-appgree/#comment-174</link>
+
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Sun, 19 Oct 2014 17:05:11 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=773#comment-174</guid>
+
+					<description><![CDATA[Otra mejora que se me ocurre es detectar esos cisnes negros (respuestas que se les han ocurrido a pocas personas pero que han tenido bastantes votos) durante la repesca . Para ello habria que clusterizar primero las respuestas por Levenshtein, calcular una puntuacion de votos recibidos por cada cluster, y localizar clusters pequeños en tamaño pero con buena puntuacion. Idealmente, clusters de un solo nodo, aunque si son varios nodos siempre se puede escoger por z-score o similar el mas representativo.
+
+Ojo, que esto aun no cubre el hecho de que esos clusters pequeños pueden haber tenido mala puntuacion -o buena- ya de partida por las fluctuaciones, y en el caso de fluctuacion a peor haber sido eliminados demasiado pronto. Ver los clusters de Levenshtein completos ayuda a decidir la repesca pero aun hay que hacer bastante estimacion estadistica.]]></description>
+			<content:encoded><![CDATA[<p>Otra mejora que se me ocurre es detectar esos cisnes negros (respuestas que se les han ocurrido a pocas personas pero que han tenido bastantes votos) durante la repesca . Para ello habria que clusterizar primero las respuestas por Levenshtein, calcular una puntuacion de votos recibidos por cada cluster, y localizar clusters pequeños en tamaño pero con buena puntuacion. Idealmente, clusters de un solo nodo, aunque si son varios nodos siempre se puede escoger por z-score o similar el mas representativo.</p>
+<p>Ojo, que esto aun no cubre el hecho de que esos clusters pequeños pueden haber tenido mala puntuacion -o buena- ya de partida por las fluctuaciones, y en el caso de fluctuacion a peor haber sido eliminados demasiado pronto. Ver los clusters de Levenshtein completos ayuda a decidir la repesca pero aun hay que hacer bastante estimacion estadistica.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Alejandro Rivero		</title>
+		<link>/blog/los-numeros-de-podemos-en-appgree/#comment-173</link>
+
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Sun, 19 Oct 2014 16:31:59 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=773#comment-173</guid>
+
+					<description><![CDATA[Estaria bien tener una tabla o un grado donde aparecieran todas las preguntas con dos parametros: distancia entre preguntas igual a la de Levehstein, y area del nodo proporcional al total de votos recibidos. Eso nos permitiria visualizar si hay coordinacion de ideas a la hora de responder y ver que tal rendimiento tienen los &quot;cisnes negros&quot;  e ideas brillantes que no se aproximan a ninguna otra.]]></description>
+			<content:encoded><![CDATA[<p>Estaria bien tener una tabla o un grado donde aparecieran todas las preguntas con dos parametros: distancia entre preguntas igual a la de Levehstein, y area del nodo proporcional al total de votos recibidos. Eso nos permitiria visualizar si hay coordinacion de ideas a la hora de responder y ver que tal rendimiento tienen los «cisnes negros»  e ideas brillantes que no se aproximan a ninguna otra.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

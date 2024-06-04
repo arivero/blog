@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>actualidad &#8211; Incidencias</title>
+	<atom:link href="/blog/category/generic/act/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Sat, 03 Nov 2012 00:29:48 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Física y matemáticas en Agustín Garcia-Calvo</title>
+		<link>/blog/fisica-y-matematicas-en-agustin-garcia-calvo/</link>
+					<comments>/blog/fisica-y-matematicas-en-agustin-garcia-calvo/#comments</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Fri, 02 Nov 2012 23:06:13 +0000</pubDate>
+				<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Revival]]></category>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=265</guid>
+
+					<description><![CDATA[Cuando Agustín entraba a tocar temas de física Priscilla, una de las cientificas del grupo de optica cuantica del CSIC, terminaba la tertulía medio enfadada, «no es así, no es así».  De poco valía que anunciara que iba a basarse en Lucrecío y no en la ortodoxia actual, porque es cierto que bastantes veces se [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Cuando Agustín entraba a tocar temas de física Priscilla, una de las cientificas del grupo de optica cuantica del CSIC, terminaba la tertulía medio enfadada, «no es así, no es así».  De poco valía que anunciara que iba a basarse en Lucrecío y no en la ortodoxia actual, porque es cierto que bastantes veces se salía, se desbordaba más bien, de ese curso. Pero la seguridad de mi amiga era más bien la necesaria de un investigador práctico, que simplemente pasa de puntillas por los puntos escabrosos.</p>
+<p>Los historiadores de la ciencia, que la miran desde la atalaya moderna, entienden la física antigua mucho peor que Agustín, que puede mirarla desde la trinchera de Parmenides. A veces un historiador moderno llega a vislumbrar esa receta de que Meliso, creyendo apoyar a Parmenides, le dio material a Democrito, pero simplemente el enunciarla retuerce las neuronas de cualquiera.  En cambio Garcia-Calvo, desde su punto de vista privilegiado, puede ver y explicar mucho mejor las propuestas de los atomistas.</p>
+<p>(EDIT: tened presente que Democrito es el que casa ser y no ser:  «en nada es más lo que es [lo que sea] que lo que no sea».)</p>
+<p>Así, percibe la importancía no solo de la paradoja de la flecha, sino de su versión estatica, la cuestión del cono y el cilindro. Ni siquiera con la enorme pista que da Arquimedes &#8211;¡y nada menos que en el Método!&#8211; esos historiadores le dan atención a ello. Pero otra cosa debieron pensar Cavalieri y Galileo cuando, discurriendo entre ellos sobre los métodos para sumar areas y volumenes, Galileo propuso a Cavalieri que estos metodos basados en la suma de infinitesimos deberian llamarse «métodos de indivisibles». Y cuando las dos paradojas se juntan, el propio Newton se asusta y corrige y reescribe varias veces sus argumentos sobre las areas barridas durante una orbita.</p>
+<p>Tambien gusta subrayar, por cierto, el hecho de que la palabra «atomo» traducida al latin haya pasado a significar la unidad minima de la sociedad, «individuo». En algún libro Agustin sugiere que seria un buen tema de investigación de tesina el averiguar si esto fue cosa de Ciceron mismo o de algun otro escritor politico romano. No se si se ha llegado a escribir dicha tesina.</p>
+<p>En las cuestiones del origen de la aritmetica, rondando a Pitagoras, le ayuda su faceta de poeta y su visión del ritmo, una forma clara de aproximarse a las divisiones del segmento (y hasta si hubiera querido a la criba de Eratostenes y al producto en Zeta de Euler). Desde este punto de vista de la división es como se entienden la duda sobre si <strong>1</strong> es un número, o el argumento de que en algunas definiciones el primer numero impar es el <strong>3</strong>, que poseyendo divisiones, todas son en partes desiguales.</p>
+<p>Un poco más liada estuvo esta duda, y otras, cuando saltó, en su libro «De Los Numeros», de la aritmetica primitiva a estudiar las formulas algebraicas , igualdades y sentencias típica de la notación matemática moderna. Aquí la lectura se hace dificil si no se tienen fundamentos de lingüista, y a mi muchas de las discusiones en ese libro me parecen mas bien sobre el problema de la producción de un lenguaje que sobre la cuestión de las operaciones algebraicas.</p>
+<p>Sospecho que en esto de la producción, en la expresion lineal de una frase, es en donde difiere Agustín de la linguistica a la Chomsky, porque mientras en la instancia organizativa no tiene ningun problema en utilizar un arbol (dibujado normalmente como conjuntos de Venn) de relaciones binarias, en la producción no se lo imagina uno admitiendo y explicando Merges y demás.   Avisados queden pues los estudiantes de gramatica que hayan de venir de que no les engañe el título de ese libro, y lo incluyan en sus lecturas junto al resto de tomos que Garcia-Calvo ha escrito sobre teoria linguistica. Los matemáticos en ciernes pueden sacar del libro un sentimiento de que algo más, algo no descrito, tiene que haber por debajo de sus expresiones, y que hay que andarse con cuidado a la hora de agarrar un signo igual o una variable. Que no es poca ganancia darse cuenta de ello, aunque creo yo que cualquier matemático de verdad, por su mera práctica. sí que esta prevenido sobre estas cosas, y el problema esta más bien en la matemática como se transmite a otros ámbitos.</p>
+<p>Por último, si estais interesados en las -no sé si famosas- visitas de Agustin al ArXiV, el libro que teneis que mirar es «¿Que és lo que pasa?», aunque solo sea para contrarrestar la impresión que he podido dar de no que con tanto Lucrecio y presocraticos pudiera no estar «al tanto» de las ideas modernas de la física.  El libro en sí se lee independientemente de «Contra el Tiempo», pero aunque lo extiende, no lo sustituye. Y el apendice tiene una tanda de notas sobre preprints de todo pelaje, que seguramente sorprendera al que sólo visita su sección y no se ha paseado por todo arxiv.org.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/fisica-y-matematicas-en-agustin-garcia-calvo/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Apple vs el boton único de Samsung</title>
+		<link>/blog/apple-vs-el-boton-unico-de-samsung/</link>
+					<comments>/blog/apple-vs-el-boton-unico-de-samsung/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Wed, 29 Aug 2012 13:29:20 +0000</pubDate>
+				<category><![CDATA[actualidad]]></category>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=149</guid>
+
+					<description><![CDATA[Parece que Apple esta ganando algunos juicios de patentes respecto a sus tablets y móviles: http://www.meneame.net/story/irregularidades-veredicto-apple-frente-samsung Naturalmente, se esta aprovechando la confusión, no se si debido a la legislacion USA, entre patentes como registro de propiedad intelectual y patentes como registro de la propiedad industrial. Estas ultimas no estan lejanas del registro de marcas, y [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Parece que Apple esta ganando algunos juicios de patentes respecto a sus tablets y móviles:</p>
+<p><a href="http://www.meneame.net/story/irregularidades-veredicto-apple-frente-samsung">http://www.meneame.net/story/irregularidades-veredicto-apple-frente-samsung</a></p>
+<p>Naturalmente, se esta aprovechando la confusión, no se si debido a la legislacion USA,<br />
+entre patentes como registro de propiedad intelectual y patentes como registro<br />
+de la propiedad industrial. Estas ultimas no estan lejanas del registro de marcas,<br />
+y asi como a cualquier empresa se le reconoce el derecho a no sufrir marcas clonicas,<br />
+sea Caca-Cola, Soni, o Samsong misma, pues tambien es razonable el derecho a mantener<br />
+la imagen del producto. En cierto modo defiende tambien al comprador, pues se asume<br />
+que la copia de la propiedad industrial tiene un componente de intentar engañar<br />
+a la hora de la compra. </p>
+<p>Las patentes de «software», de supuesta propiedad intelectual, son otra cosa, y nada bueno<br />
+se puede decir de ellas, sea la accion de hacer zoom en una pantalla tactil multitouch,<br />
+o la de actualizar cuando llegas al final de la pantalla. No parece que el I+D invertido<br />
+para darte cuenta que conviene actualizar un scroll merezca ser premiado con un<br />
+monopolio de 20 años sobre esa idea. Claro que podria ser peor, y podrian llegar<br />
+a monopolizarlo por la vida del autor mas 75 años.</p>
+<p>Ahora, me ha llamado la atencion una patente que esta entre medio<br />
+y que además ha generado el caos en el diseño de aplicaciones android:</p>
+<blockquote><p>Patente D593.087: bordes redondeados y botón de inicio.</p></blockquote>
+<p>Supongo que la D significa «Diseño», y no se sí por «de inicio» se refieren<br />
+al lateral de on-off, que seria raro que pudieran alegar copia, o al<br />
+frontal de «inicio/home», que en los ultimos diseños de Samsung ha ido evolucionando<br />
+a parecerse cada vez mas sospechosamente al de Apple. Y de esto es de lo que queria<br />
+hablar, porque es cosa curiosa el empeñarse ahora<br />
+en tener un solo botón y no tres. </p>
+<p>En cierto modo lo que se ha repetido aqui es<br />
+el antiguo debate entre los ratones de tres botones (Xerox) y los de un solo<br />
+boton (Apple), que Microsoft «soluciono» con sus ratones de dos botones. Parece<br />
+una decisión «de diseño», pero naturalmente hay que crear una homogeneidad de<br />
+uso, y asignar funciones al boton derecho y al boton izquierdo (el copy/paste<br />
+del boton central ha sido siempre una de las maravillas de Xwindows). </p>
+<p>Y el<br />
+caso es que con android ya habia una asignacion de funciones, con los<br />
+botones de «menu» «inicio/home» y «back», que empezó a ir camino del desastre a<br />
+la hora de interpretar el boton «back», y que el caprichito de copiar<br />
+a Apple y quedarse con un solo botón ha terminado por destrozar, de forma que<br />
+los desarrolladores ahora no saben que funciones poner en el boton de menu o<br />
+cuales llevarse a la nueva barra superior de menus del Android 4. </p>
+<p>No se que fue peor, si poner tres botones por diferenciarse o volverlos a quitar<br />
+para parecerse. A fin de cuentas lo primero era una decision logica en el mundo<br />
+de los telefonos moviles: En casi todos tenemos esos esos botones izquierdo y derecho que cambian<br />
+de función segun el estado del movil, como si fueran las teclas auxiliares<br />
+de una HP 48 (idea que a lo que se ve HP nunca patento, o quizas simplemente ya han vencido los años).<br />
+Pero una vez acostrumbrados a los tres botoncicos, lo de hacernos volver al boton<br />
+unico ha sido una traicion a usuarios y a desarrolladores. Y casi que merece su<br />
+castigo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/apple-vs-el-boton-unico-de-samsung/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

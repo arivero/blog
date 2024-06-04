@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Candidatos y sigmas	</title>
+	<atom:link href="/blog/candidatos-y-sigmas/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/candidatos-y-sigmas/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Tue, 21 Feb 2017 11:22:02 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>
+		Por: A Rivero		</title>
+		<link>/blog/candidatos-y-sigmas/#comment-2539</link>
+
+		<dc:creator><![CDATA[A Rivero]]></dc:creator>
+		<pubDate>Tue, 21 Feb 2017 11:22:02 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=1231#comment-2539</guid>
+
+					<description><![CDATA[Otra cosa que se podria intentar es reordenar primero y ajustar despues. Se veria poca fluctuacion, pero igual los coeficientes coincidian mas de una lista a otra. 
+
+Y por supuesto tambien podriamos haber hecho un ajuste a las tres listas a la vez con un solo juego de parametros.]]></description>
+			<content:encoded><![CDATA[<p>Otra cosa que se podria intentar es reordenar primero y ajustar despues. Se veria poca fluctuacion, pero igual los coeficientes coincidian mas de una lista a otra. </p>
+<p>Y por supuesto tambien podriamos haber hecho un ajuste a las tres listas a la vez con un solo juego de parametros.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

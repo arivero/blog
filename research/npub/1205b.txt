@@ -1,0 +1,53 @@
+reports on ms EPJA 2220
+
+Dear Author,
+
+  in view of the two attached referee reports, your ms EPJA 2220
+"Standard Model Masses..." is not suitbale for publication in the
+European Physical Journal A.
+
+ sincerely, Ulf Meissner
+
+**************************************************************************
+*                                                                        *
+*   Prof.Dr. Ulf-G.Meissner                                              *
+*   Editor - The European Physical Journal A                             *
+*   Universit"at Bonn            phone:  (+49) (0)228 732366             *  
+*   HISKP (Th)                   fax:    (+49) (0)228 733728             *
+* D-53115 Bonn                   email:  (edited out)          * 
+*   Germany                      URL:    www.itkp.uni-bonn.de/~meissner/ *
+*                                                                        *
+**************************************************************************
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Referee report on EPJA2220
+
+
+The author reports on a coincidence between the masses
+of doubly magic nuclei and the W,Z,H,t masses from the
+standard model. The spectrum of heavy nuclei is almost 
+continuous (see Fig. 1) and the idea that the W,Z,H,t 
+fall in the neighborhood of this or that assigned 
+magic number is likely (not unlikely). I agree with the
+author statement "random numerological coincidence" 
+since the underlying physical scales (strong and weak) 
+naturally decouple the physics.
+
+I do not recommend publication of this paper.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Report on the paper
+Standard model masses and models of nuclei
+
+
+The author points out that nuclei with closed subshells
+have similar masses as some fundamental standard model
+bosons.There is however not a single convincing theoreti-
+cal link between these two sorts of masses in the paper.
+  On the other hand there are many theoretical arguments
+against such links which are so trivial that I do not want
+to write them down .The paper should be rejected.
+

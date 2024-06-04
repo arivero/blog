@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en Incidencias	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/blog/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/</link>
 	<description>Un blog de Alejandro Rivero</description>
 	<lastBuildDate>Thu, 01 Feb 2024 06:10:53 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comentario en sBootstrap: SO(32) and recursive anomalies? por Mitchell Porter		</title>
-		<link>/sbootstrap-so32-and-recursive-anomalies/#comment-8193</link>
+		<link>/blog/sbootstrap-so32-and-recursive-anomalies/#comment-8193</link>
 
 		<dc:creator><![CDATA[Mitchell Porter]]></dc:creator>
 		<pubDate>Thu, 01 Feb 2024 06:10:53 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2261#comment-8193</guid>
+		<guid isPermaLink="false">/blog/?p=2261#comment-8193</guid>
 
 					<description><![CDATA[Comment #7 of fzero
 
@@ -46,11 +46,11 @@ Actually, I&#039;m reminded of a &quot;Hanany-Witten transition&quot;, in which 
 		<item>
 		<title>
 		Comentario en is Spin(8) triality the missing ingredient for SUSY in Connes&#8217; approach? por Alejandro		</title>
-		<link>/is-spin8-triality-the-missing-ingredient-for-susy-in-connes-approach/#comment-6161</link>
+		<link>/blog/is-spin8-triality-the-missing-ingredient-for-susy-in-connes-approach/#comment-6161</link>
 
 		<dc:creator><![CDATA[Alejandro]]></dc:creator>
 		<pubDate>Tue, 19 Sep 2023 22:01:23 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2224#comment-6161</guid>
+		<guid isPermaLink="false">/blog/?p=2224#comment-6161</guid>
 
 					<description><![CDATA[Ah yep, Boya was a fan of the  “M(ysterious) Patterns in SO(9)”  thing.]]></description>
 			<content:encoded><![CDATA[<p>Ah yep, Boya was a fan of the  “M(ysterious) Patterns in SO(9)”  thing.</p>
@@ -60,11 +60,11 @@ Actually, I&#039;m reminded of a &quot;Hanany-Witten transition&quot;, in which 
 		<item>
 		<title>
 		Comentario en is Spin(8) triality the missing ingredient for SUSY in Connes&#8217; approach? por Mitchell Porter		</title>
-		<link>/is-spin8-triality-the-missing-ingredient-for-susy-in-connes-approach/#comment-6095</link>
+		<link>/blog/is-spin8-triality-the-missing-ingredient-for-susy-in-connes-approach/#comment-6095</link>
 
 		<dc:creator><![CDATA[Mitchell Porter]]></dc:creator>
 		<pubDate>Wed, 13 Sep 2023 12:45:29 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2224#comment-6095</guid>
+		<guid isPermaLink="false">/blog/?p=2224#comment-6095</guid>
 
 					<description><![CDATA[This also takes me back to the &quot;M-theory phenomenology homework&quot; of trying to understand the superpartners of the 11d C-field. 
 
@@ -86,11 +86,11 @@ https://arxiv.org/abs/hep-th/9808190
 		<item>
 		<title>
 		Comentario en is Spin(8) triality the missing ingredient for SUSY in Connes&#8217; approach? por Alejandro Rivero		</title>
-		<link>/is-spin8-triality-the-missing-ingredient-for-susy-in-connes-approach/#comment-5842</link>
+		<link>/blog/is-spin8-triality-the-missing-ingredient-for-susy-in-connes-approach/#comment-5842</link>
 
 		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
 		<pubDate>Fri, 18 Aug 2023 21:27:16 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2224#comment-5842</guid>
+		<guid isPermaLink="false">/blog/?p=2224#comment-5842</guid>
 
 					<description><![CDATA[Indeed. Baez did a lot of notes in his &quot;this week...&quot; about this.]]></description>
 			<content:encoded><![CDATA[<p>Indeed. Baez did a lot of notes in his «this week&#8230;» about this.</p>
@@ -100,11 +100,11 @@ https://arxiv.org/abs/hep-th/9808190
 		<item>
 		<title>
 		Comentario en is Spin(8) triality the missing ingredient for SUSY in Connes&#8217; approach? por Mitchell Porter		</title>
-		<link>/is-spin8-triality-the-missing-ingredient-for-susy-in-connes-approach/#comment-5841</link>
+		<link>/blog/is-spin8-triality-the-missing-ingredient-for-susy-in-connes-approach/#comment-5841</link>
 
 		<dc:creator><![CDATA[Mitchell Porter]]></dc:creator>
 		<pubDate>Wed, 16 Aug 2023 12:32:44 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2224#comment-5841</guid>
+		<guid isPermaLink="false">/blog/?p=2224#comment-5841</guid>
 
 					<description><![CDATA[I don&#039;t know what you&#039;re thinking but those triality representations show up in the massless states of the uncompactified Type IIA string (which is the one that grows an extra dimension and becomes the M2 brane of M theory at strong coupling)
 
@@ -120,11 +120,11 @@ https://en.wikipedia.org/wiki/Type_II_string_theory#Type_IIA_string_theory]]></d
 		<item>
 		<title>
 		Comentario en The crisis in the sBootstrap por Alejandro Rivero		</title>
-		<link>/the-crisis-in-the-sbootstrap/#comment-5793</link>
+		<link>/blog/the-crisis-in-the-sbootstrap/#comment-5793</link>
 
 		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
 		<pubDate>Tue, 08 Aug 2023 13:08:38 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2205#comment-5793</guid>
+		<guid isPermaLink="false">/blog/?p=2205#comment-5793</guid>
 
 					<description><![CDATA[desde la publicacion de la nota en blogia la gente de de KEK ha cambiado los enlaces.
 
@@ -146,11 +146,11 @@ La nota de Miyazawa es https://lib-extopc.kek.jp/preprints/PDF/1983/8302/8302132
 		<item>
 		<title>
 		Comentario en The crisis in the sBootstrap por Alejandro Rivero		</title>
-		<link>/the-crisis-in-the-sbootstrap/#comment-5792</link>
+		<link>/blog/the-crisis-in-the-sbootstrap/#comment-5792</link>
 
 		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
 		<pubDate>Tue, 08 Aug 2023 12:03:50 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2205#comment-5792</guid>
+		<guid isPermaLink="false">/blog/?p=2205#comment-5792</guid>
 
 					<description><![CDATA[Vease tambien https://conjeturas.blogia.com/2005/072001-es-el-pion-un-partner-susy-del-muon-.php donde ya comento el trabajo de Catto, que desafortunadamente no he seguido con mucha atencion. Tambien Miyazawa y, hmm, Yamagishi?]]></description>
 			<content:encoded><![CDATA[<p>Vease tambien <a href="https://conjeturas.blogia.com/2005/072001-es-el-pion-un-partner-susy-del-muon-.php" rel="nofollow ugc">https://conjeturas.blogia.com/2005/072001-es-el-pion-un-partner-susy-del-muon-.php</a> donde ya comento el trabajo de Catto, que desafortunadamente no he seguido con mucha atencion. Tambien Miyazawa y, hmm, Yamagishi?</p>
@@ -160,11 +160,11 @@ La nota de Miyazawa es https://lib-extopc.kek.jp/preprints/PDF/1983/8302/8302132
 		<item>
 		<title>
 		Comentario en NCG, space and SUSY. por Alejandro Rivero		</title>
-		<link>/ncg-space-and-susy/#comment-3712</link>
+		<link>/blog/ncg-space-and-susy/#comment-3712</link>
 
 		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
 		<pubDate>Mon, 07 Feb 2022 14:04:03 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2046#comment-3712</guid>
+		<guid isPermaLink="false">/blog/?p=2046#comment-3712</guid>
 
 					<description><![CDATA[Mitchell, in fact Connes claims that differential variables are fermionic propagators.]]></description>
 			<content:encoded><![CDATA[<p>Mitchell, in fact Connes claims that differential variables are fermionic propagators.</p>
@@ -174,11 +174,11 @@ La nota de Miyazawa es https://lib-extopc.kek.jp/preprints/PDF/1983/8302/8302132
 		<item>
 		<title>
 		Comentario en NCG, space and SUSY. por Mitchell Porter		</title>
-		<link>/ncg-space-and-susy/#comment-3686</link>
+		<link>/blog/ncg-space-and-susy/#comment-3686</link>
 
 		<dc:creator><![CDATA[Mitchell Porter]]></dc:creator>
 		<pubDate>Sat, 22 Jan 2022 21:17:26 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2046#comment-3686</guid>
+		<guid isPermaLink="false">/blog/?p=2046#comment-3686</guid>
 
 					<description><![CDATA[Exterior algebra of differential forms is anticommuting...]]></description>
 			<content:encoded><![CDATA[<p>Exterior algebra of differential forms is anticommuting&#8230;</p>
@@ -188,7 +188,7 @@ La nota de Miyazawa es https://lib-extopc.kek.jp/preprints/PDF/1983/8302/8302132
 		<item>
 		<title>
 		Comentario en Cervantes y el timo nigeriano. por Alejandro Rivero		</title>
-		<link>/cervantes-y-el-timo-nigeriano/#comment-3650</link>
+		<link>/blog/cervantes-y-el-timo-nigeriano/#comment-3650</link>
 
 		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
 		<pubDate>Thu, 11 Nov 2021 14:31:51 +0000</pubDate>

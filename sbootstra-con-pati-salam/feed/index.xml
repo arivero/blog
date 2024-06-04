@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: sBootstrap con Pati-Salam	</title>
+	<atom:link href="/blog/sbootstra-con-pati-salam/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/sbootstra-con-pati-salam/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Wed, 17 Jan 2018 19:23:52 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>
+		Por: Alejandro Rivero		</title>
+		<link>/blog/sbootstra-con-pati-salam/#comment-12</link>
+
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Wed, 30 Jan 2013 12:53:02 +0000</pubDate>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=395#comment-12</guid>
+
+					<description><![CDATA[test
+[code]
+test code
+[/code]
+[tex]x^2[/tex]
+$x^3$
+ok]]></description>
+			<content:encoded><![CDATA[<p>test</p>
+<pre class="brush: plain; title: ; notranslate">
+test code
+</pre>
+<pre class="brush: latex; title: ; notranslate">x^2</pre>
+<p>$x^3$<br />
+ok</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

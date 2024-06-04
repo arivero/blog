@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirigiendo...</title>
+		<meta http-equiv="refresh" content="0;url=/blog/la-excursion/www.radiation-watch.org">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/blog/la-excursion/www.radiation-watch.org";
+		</script>
+
+		<p>Estás siendo redirigido a <a href="/blog/la-excursion/www.radiation-watch.org">/blog/la-excursion/www.radiation-watch.org</a></p>
+	</body>
+</html>

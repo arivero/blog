@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>physicsforums &#8211; Incidencias</title>
+	<atom:link href="/blog/tag/physicsforums/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Wed, 17 Jan 2018 19:19:26 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>extractos del blog de physicsforums</title>
+		<link>/blog/extractos-del-blog-de-physicsforums/</link>
+					<comments>/blog/extractos-del-blog-de-physicsforums/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Fri, 22 Aug 2014 23:25:00 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[grand unification]]></category>
+		<category><![CDATA[m theory]]></category>
+		<category><![CDATA[physicsforums]]></category>
+		<category><![CDATA[string theory]]></category>
+		<category><![CDATA[superstrings]]></category>
+		<category><![CDATA[theory of everything]]></category>
+		<category><![CDATA[wrong turn]]></category>
+		<guid isPermaLink="false">/blog/?p=749</guid>
+
+					<description><![CDATA[Parece ser que en septiembre se borra el blog personal que existia en physicsforums. Afortunadamente solo tenia seis entradas, y por eso de no perderlas de vista las copio aqui. &#160; when did I solve the origin of generations? Posted Sep28-09 at 05:48 PM by arivero I though it was after 2007, because when in December [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Parece ser que en septiembre se borra el blog personal que existia en physicsforums. Afortunadamente solo tenia seis entradas, y por eso de no perderlas de vista las copio aqui.</p>
+<p>&nbsp;</p>
+<h1 id="blog_title" style="color: #333333;">when did I solve the origin of generations?</h1>
+<div class="smallfont shade" style="color: #777777;"><span class="shade" style="color: #777777;">Posted Sep28-09 at 05:48 PM by</span> <a style="color: #00588e;" href="http://www.physicsforums.com/blog.php?u=81">arivero</a></div>
+<div style="color: #333333;"></div>
+<hr style="color: #d1d1e1;" size="1" />
+<div id="blog_message" style="color: #333333;">
+<p>I though it was after 2007, because when in December 2006 the topic was raised by Alain Connes, I just answered the usual folklore: «You need at least three for CP violation».</p>
+<p>But in July 2005 I raise the topic of composite supersymmetry in this blog post<br />
+<a style="color: #00588e;" href="http://conjeturas.blogia.com/2005/072001-es-el-pion-un-partner-susy-del-muon-.php" target="_blank" rel="nofollow noopener">http://conjeturas.blogia.com/2005/07&#8230;-del-muon-.php</a><br />
+(regretly my other blog, «El ultimo hovercraft», was lost after a wrong backup)<br />
+The my webpage has a pdf dated</p>
+<p><a style="color: #00588e;" href="http://dftuz.unizar.es/~rivero/research/susy.pdf" target="_blank" rel="nofollow noopener">http://dftuz.unizar.es/~rivero/research/susy.pdf</a></p>
+<p>so it seems I was still in Teruel, 38 years old, when I noticed the role of composite susy. Still, I didn&#8217;t mention it to the public until december<br />
+<a style="color: #00588e;" href="http://arxiv.org/abs/hep-ph/0512065" target="_blank" rel="nofollow noopener">http://arxiv.org/abs/hep-ph/0512065</a></p>
+<p>Then in summer 2006 I left Teruel and go underground in England, then back to Zaragoza in January 2007. I remember I was obsesed by the «fermion cube» on one side, and also by some path to implement supersymmetry in spectrar triples.</p>
+<p>Two years later, <a style="color: #00588e;" href="http://arxiv.org/abs/0710.1526" target="_blank" rel="nofollow noopener">http://arxiv.org/abs/0710.1526</a> was basically the same content, except that by now I was convinced about kaluza klein and I was thinking that the problem of fitting (broken) SU(2) in the 10-dimensional space time was related to the three 4/3 particles I needed to get rid off, and whole only possible arrangement is chiral (and they are charged, at least back in 4D, so it is not clear if they can be majorana-arranged&#8230;).</p>
+</div>
+<div style="color: #333333;"></div>
+<div style="color: #333333;"></div>
+<div style="color: #333333;">
+<h1 id="blog_title">Koide doublets?</h1>
+<div class="smallfont shade" style="color: #777777;"><span class="shade" style="color: #777777;">Posted Oct20-09 at 09:30 AM by</span> <a style="color: #00588e;" href="http://www.physicsforums.com/blog.php?u=81">arivero</a></div>
+<div></div>
+<hr style="color: #d1d1e1;" size="1" />
+<div id="blog_message">From a point of view, there are no Koide doublets. If we define Koide&#8217;s relationship as coming from three matrix conditions:<br />
+M^{1/2}= A + B</p>
+<div class="MathJax_Display"></div>
+<div class="MathJax_Display">with</div>
+<p>1) A multiple of the identity<br />
+2) B traceless<br />
+3) <span id="MathJax-Span-18" class="mi" style="font-style: italic;">T</span><span id="MathJax-Span-19" class="mi" style="font-style: italic;">r</span><span id="MathJax-Span-20" class="mo">(</span><span id="MathJax-Span-21" class="msubsup"><span id="MathJax-Span-22" class="mi" style="font-style: italic;">A^</span><span id="MathJax-Span-23" class="mn">2</span></span><span id="MathJax-Span-24" class="mo">)</span><span id="MathJax-Span-25" class="mo">=</span><span id="MathJax-Span-26" class="mi" style="font-style: italic;">T</span><span id="MathJax-Span-27" class="mi" style="font-style: italic;">r</span><span id="MathJax-Span-28" class="mo">(</span><span id="MathJax-Span-29" class="msubsup"><span id="MathJax-Span-30" class="mi" style="font-style: italic;">B^</span><span id="MathJax-Span-31" class="mn">2</span></span><span id="MathJax-Span-32" class="mo">)</span></p>
+<p>Then the 3 in the 3/2 factor is really the dimension of the matrix, and thus the factor is 2/2 for Koide&#8217;s doublets and 1/2 for Koide «singlets». So in this sense there are no Koide doublets.</p>
+<p>If we consider that Koide&#8217;s is about «45 degrees off from (1,1,1)» the result is the same: the 3 comes from the number of components of (1,1,1). Visually, it is trivial, that 45 degrees off from (1,1) one of the components is going to dissapear.</p>
+<p>So the only extand posibility is to consider that a doublet is a triplet with a massless component. If we do the scan in this way, we find two interesting doublets, one composed by eta&#8217; and upsilon, and other composed by pion and D. Also, the kaon seem able to contribute to some doublet or triplet, but there are no a good match. Same in the barions, with Lambdas. And that is all: no more matches.</p>
+<p>Incidentally, I wonder if there are alternatives to conditions 1,2 above. For instance [A,B]=0, or Tr ((A+B)^2)=Tr(A^2)+Tr(B^2). I am afraid that these alternatives do not fix A beyond being diagonal.</p>
+</div>
+<div></div>
+<div>
+<h1 id="blog_title">Could it be Pati-Salam, at the end?</h1>
+<div class="smallfont shade" style="color: #777777;"><span class="shade" style="color: #777777;">Posted May14-10 at 11:43 PM by</span> <a style="color: #00588e;" href="http://www.physicsforums.com/blog.php?u=81">arivero</a></div>
+<div></div>
+<hr style="color: #d1d1e1;" size="1" />
+<div id="blog_message">Both<br />
+U(1)xSU(3)xSU(2)xSU(2)<br />
+and the full<br />
+SU(4)xSU(2)xSU(2)<br />
+live in 8 extra dimensions, as F-theory lives, and they probably need one of the extra dimensions to be infinitesimal, because U(1) B-L is not gauged, at least not at the scales we know.The manifolds, by the way, are<br />
+S1 x CP2 x S3<br />
+and<br />
+S5 x S3<br />
+respectively.</p>
+<p>The later is more complete and it allows to generate Witten&#8217;s manifols almost automagically. But the former group has an interesting counting if we consider the gauge bosons to be massless and supersymetry unbroken, with three generations of quarks and leptons. Then we have<br />
+96 sfermions<br />
+2 states of U(1)<br />
+16 of SU(3)<br />
+6 of SU(2)<br />
+6 of SU(2)<br />
+2 in the 4D graviton.</p>
+<p>128 total. And no obvious place for the higgs&#8230; technicolor/topcolor and susy?</p>
+</div>
+<div></div>
+<div>
+<h1 id="blog_title">this could be useful&#8230;</h1>
+<div class="smallfont shade" style="color: #777777;"><span class="shade" style="color: #777777;">Posted Oct4-10 at 05:09 PM by</span> <a style="color: #00588e;" href="http://www.physicsforums.com/blog.php?u=81">arivero</a><br />
+<span class="shade" style="color: #777777;">Updated Oct4-10 at 05:27 PM by</span> <a style="color: #00588e;" href="http://www.physicsforums.com/blog.php?u=81">arivero</a></div>
+<div></div>
+<hr style="color: #d1d1e1;" size="1" />
+<div id="blog_message">
+<p>If both F(s) and G(s) are absolutely convergent for s &gt; a and s &gt; b then we have</p>
+<div class="MathJax_Display"><span id="MathJax-Element-1-Frame" class="MathJax"><span id="MathJax-Span-1" class="math"><span id="MathJax-Span-2" class="mrow"><span id="MathJax-Span-3" class="mfrac"><span id="MathJax-Span-4" class="mn">1</span><span id="MathJax-Span-5" class="mrow"><span id="MathJax-Span-6" class="mn">2</span><span id="MathJax-Span-7" class="mi" style="font-style: italic;">T</span></span></span><span id="MathJax-Span-8" class="msubsup"><span id="MathJax-Span-9" class="mo">?</span><span id="MathJax-Span-10" class="texatom"><span id="MathJax-Span-11" class="mrow"><span id="MathJax-Span-12" class="mi" style="font-style: italic;">T</span></span></span><span id="MathJax-Span-13" class="texatom"><span id="MathJax-Span-14" class="mrow"><span id="MathJax-Span-15" class="mo">?</span><span id="MathJax-Span-16" class="mi" style="font-style: italic;">T</span></span></span></span><span id="MathJax-Span-17" class="mspace"></span><span id="MathJax-Span-18" class="mi" style="font-style: italic;">F</span><span id="MathJax-Span-19" class="mo">(</span><span id="MathJax-Span-20" class="mi" style="font-style: italic;">a</span><span id="MathJax-Span-21" class="mo">+</span><span id="MathJax-Span-22" class="mi" style="font-style: italic;">i</span><span id="MathJax-Span-23" class="mi" style="font-style: italic;">t</span><span id="MathJax-Span-24" class="mo">)</span><span id="MathJax-Span-25" class="mi" style="font-style: italic;">G</span><span id="MathJax-Span-26" class="mo">(</span><span id="MathJax-Span-27" class="mi" style="font-style: italic;">b</span><span id="MathJax-Span-28" class="mo">?</span><span id="MathJax-Span-29" class="mi" style="font-style: italic;">i</span><span id="MathJax-Span-30" class="mi" style="font-style: italic;">t</span><span id="MathJax-Span-31" class="mo">)</span><span id="MathJax-Span-32" class="mspace"></span><span id="MathJax-Span-33" class="mi" style="font-style: italic;">d</span><span id="MathJax-Span-34" class="mi" style="font-style: italic;">t</span><span id="MathJax-Span-35" class="mo">=</span><span id="MathJax-Span-36" class="munderover"><span id="MathJax-Span-37" class="mo">?</span><span id="MathJax-Span-38" class="texatom"><span id="MathJax-Span-39" class="mrow"><span id="MathJax-Span-40" class="mi" style="font-style: italic;">n</span><span id="MathJax-Span-41" class="mo">=</span><span id="MathJax-Span-42" class="mn">1</span></span></span><span id="MathJax-Span-43" class="texatom"><span id="MathJax-Span-44" class="mrow"><span id="MathJax-Span-45" class="mi">?</span></span></span></span><span id="MathJax-Span-46" class="mi" style="font-style: italic;">f</span><span id="MathJax-Span-47" class="mo">(</span><span id="MathJax-Span-48" class="mi" style="font-style: italic;">n</span><span id="MathJax-Span-49" class="mo">)</span><span id="MathJax-Span-50" class="mi" style="font-style: italic;">g</span><span id="MathJax-Span-51" class="mo">(</span><span id="MathJax-Span-52" class="mi" style="font-style: italic;">n</span><span id="MathJax-Span-53" class="mo">)</span><span id="MathJax-Span-54" class="msubsup"><span id="MathJax-Span-55" class="mi" style="font-style: italic;">n</span><span id="MathJax-Span-56" class="texatom"><span id="MathJax-Span-57" class="mrow"><span id="MathJax-Span-58" class="mo">?</span><span id="MathJax-Span-59" class="mi" style="font-style: italic;">a</span><span id="MathJax-Span-60" class="mo">?</span><span id="MathJax-Span-61" class="mi" style="font-style: italic;">b</span></span></span></span><span id="MathJax-Span-62" class="mtext"> as </span><span id="MathJax-Span-63" class="mi" style="font-style: italic;">T</span><span id="MathJax-Span-64" class="mo">?</span><span id="MathJax-Span-65" class="mi">?</span><span id="MathJax-Span-66" class="mo">.</span></span></span></span></div>
+<div class="MathJax_Display"></div>
+<p><span style="color: #000000;">\frac{1}{2T}\int_{-T}^{T}\,F(a+it)G(b-it)\,dt= \sum_{n=1}^{\infty} f(n)g(n)n^{-a-b} \text{ as }T \sim \infty.</span></p>
+<p>&#8230; in the context of dirichlet series, to decompose the Riemann zeta, finding a pair of functions where f(n)g(n)=1 for all n. Note that they not need to be multiplicate, do they?</p>
+<p>The simplest not trivial case, had we absolute convergence, would be the dirichlet eta function,</p>
+</div>
+<div>
+<div class="MathJax_Display"><span id="MathJax-Element-2-Frame" class="MathJax"><span id="MathJax-Span-67" class="math"><span id="MathJax-Span-68" class="mrow"><span id="MathJax-Span-69" class="mfrac"><span id="MathJax-Span-70" class="mn">1</span><span id="MathJax-Span-71" class="mrow"><span id="MathJax-Span-72" class="mn">2</span><span id="MathJax-Span-73" class="mi" style="font-style: italic;">T</span></span></span><span id="MathJax-Span-74" class="msubsup"><span id="MathJax-Span-75" class="mo">?</span><span id="MathJax-Span-76" class="texatom"><span id="MathJax-Span-77" class="mrow"><span id="MathJax-Span-78" class="mi" style="font-style: italic;">T</span></span></span><span id="MathJax-Span-79" class="texatom"><span id="MathJax-Span-80" class="mrow"><span id="MathJax-Span-81" class="mo">?</span><span id="MathJax-Span-82" class="mi" style="font-style: italic;">T</span></span></span></span><span id="MathJax-Span-83" class="mspace"></span><span id="MathJax-Span-84" class="mi" style="font-style: italic;">?</span><span id="MathJax-Span-85" class="mo">(</span><span id="MathJax-Span-86" class="mi" style="font-style: italic;">a</span><span id="MathJax-Span-87" class="mo">+</span><span id="MathJax-Span-88" class="mi" style="font-style: italic;">i</span><span id="MathJax-Span-89" class="mi" style="font-style: italic;">t</span><span id="MathJax-Span-90" class="mo">)</span><span id="MathJax-Span-91" class="mi" style="font-style: italic;">?</span><span id="MathJax-Span-92" class="mo">(</span><span id="MathJax-Span-93" class="mi" style="font-style: italic;">b</span><span id="MathJax-Span-94" class="mo">?</span><span id="MathJax-Span-95" class="mi" style="font-style: italic;">i</span><span id="MathJax-Span-96" class="mi" style="font-style: italic;">t</span><span id="MathJax-Span-97" class="mo">)</span><span id="MathJax-Span-98" class="mspace"></span><span id="MathJax-Span-99" class="mi" style="font-style: italic;">d</span><span id="MathJax-Span-100" class="mi" style="font-style: italic;">t</span><span id="MathJax-Span-101" class="mo">=</span><span id="MathJax-Span-102" class="mi" style="font-style: italic;">?</span><span id="MathJax-Span-103" class="mo">(</span><span id="MathJax-Span-104" class="mi" style="font-style: italic;">a</span><span id="MathJax-Span-105" class="mo">+</span><span id="MathJax-Span-106" class="mi" style="font-style: italic;">b</span><span id="MathJax-Span-107" class="mo">)</span><span id="MathJax-Span-108" class="mtext"> as </span><span id="MathJax-Span-109" class="mi" style="font-style: italic;">T</span><span id="MathJax-Span-110" class="mo">?</span><span id="MathJax-Span-111" class="mi">?</span><span id="MathJax-Span-112" class="mo">.</span></span></span></span></div>
+<div class="MathJax_Display"></div>
+<div class="MathJax_Display"><span style="color: #000000;">\frac{1}{2T}\int_{-T}^{T}\, \eta (a+it) \eta (b-it)\,dt= \zeta(a+b) \text{ as }T \sim \infty.</span></div>
+<div class="MathJax_Display"></div>
+<div class="MathJax_Display">
+<h2><a style="color: #00588e;" href="http://www.physicsforums.com/blog.php?b=2950">some references</a></h2>
+<div class="smallfont shade" style="color: #777777;"><span class="shade" style="color: #777777;">Posted Mar28-11 at 01:59 AM by</span> <a style="color: #00588e;" href="http://www.physicsforums.com/blog.php?u=81">arivero</a></div>
+<hr style="color: #d1d1e1;" size="1" />
+<div id="entry_text_2950">
+<p>J.H. Schwarz, Phys.Lett.B37:315-319,1971 (also anticipated in a small comment in Phys. Rev. D 4, 1109–1111 (1971) )</p>
+<p>EDIT: other references using «fermion-meson»: <a style="color: #00588e;" href="http://dx.doi.org/10.1016/0550-3213(74)90529-X" target="_blank" rel="nofollow noopener">http://dx.doi.org/10.1016/0550-3213(74)90529-X</a> Nuclear Physics B Volume 74, Issue 2, 25 May 1974, Pages 321-342 L. Brink and D. B. Fairlie; <a style="color: #00588e;" href="http://www.slac.stanford.edu/spires/...=NUCIA,A11,749" target="_blank" rel="nofollow noopener">http://www.slac.stanford.edu/spires/&#8230;=NUCIA,A11,749</a> Nuovo Cim.A11:749-773, 1972 by Edward Corrigan and David I. Olive.</p>
+<p><a style="color: #00588e;" href="http://vixra.org/abs/1102.0034" target="_blank" rel="nofollow noopener">http://vixra.org/abs/1102.0034</a></p>
+</div>
+</div>
+<div class="MathJax_Display"></div>
+</div>
+</div>
+</div>
+<div></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/extractos-del-blog-de-physicsforums/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

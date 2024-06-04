@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Supersimetria y Compuestos (I)	</title>
+	<atom:link href="/blog/supersimetria-y-compuestos-i/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/supersimetria-y-compuestos-i/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Tue, 13 Nov 2012 18:04:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>
+		Por: Alejandro Rivero		</title>
+		<link>/blog/supersimetria-y-compuestos-i/#comment-11</link>
+
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Tue, 13 Nov 2012 18:04:31 +0000</pubDate>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=284#comment-11</guid>
+
+					<description><![CDATA[Por cierto que la grafica esta no la vereis a menudo, es simplemente amplitudes de decay en la vertical y masas en la horizontal, deberia ser tipica de un libro de texto sobre particulas elementales, pero no se por que no la ponen.]]></description>
+			<content:encoded><![CDATA[<p>Por cierto que la grafica esta no la vereis a menudo, es simplemente amplitudes de decay en la vertical y masas en la horizontal, deberia ser tipica de un libro de texto sobre particulas elementales, pero no se por que no la ponen.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

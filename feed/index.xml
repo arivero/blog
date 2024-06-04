@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Incidencias</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/</link>
 	<description>Un blog de Alejandro Rivero</description>
 	<lastBuildDate>Sun, 04 Feb 2024 19:54:52 +0000</lastBuildDate>
 	<language>es</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 	<item>
 		<title>Los mayores ya han pensado en eso.</title>
-		<link>/los-mayores-ya-han-pensado-en-eso/</link>
-					<comments>/los-mayores-ya-han-pensado-en-eso/#respond</comments>
+		<link>/blog/los-mayores-ya-han-pensado-en-eso/</link>
+					<comments>/blog/los-mayores-ya-han-pensado-en-eso/#respond</comments>
 		
 		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
 		<pubDate>Sun, 04 Feb 2024 00:41:41 +0000</pubDate>
 				<category><![CDATA[General]]></category>
-		<guid isPermaLink="false">/?p=2263</guid>
+		<guid isPermaLink="false">/blog/?p=2263</guid>
 
 					<description><![CDATA[De rebote y gracias a mi adicción a twitter, veo que se me había pasado por alto la «lección perdida de Feynman«, pese a que se publicó en 1996 y pese a que recientemente el grupo de geometría y mecánica de mi departamento la había revisitado, https://arxiv.org/abs/1605.01204. Lo interesante de la lección no es tanto [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -43,7 +43,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img fetchpriority="high" decoding="async" width="270" height="264" src="/wp-content/uploads/2024/02/image-3.png" alt="" class="wp-image-2270" style="width:450px;height:auto"/></figure>
+<figure class="wp-block-image size-full is-resized"><img fetchpriority="high" decoding="async" width="270" height="264" src="/blog/wp-content/uploads/2024/02/image-3.png" alt="" class="wp-image-2270" style="width:450px;height:auto"/></figure>
 
 
 
@@ -59,23 +59,23 @@
 
 
 
-<p>Yo ataqué el problema un par de veces, en el año 98, primero con el grupoide tangente <a href="https://arxiv.org/abs/math/9802102">https://arxiv.org/abs/math/9802102</a> y luego con un intento de analyzar el peso de la integral de camino, <a href="/research/9803035.pdf">/research/9803035.pdf</a>. Por lo que veo ya se habia publicado la lección perdida, pero de alguna forma se nos escapó la relación.</p>
+<p>Yo ataqué el problema un par de veces, en el año 98, primero con el grupoide tangente <a href="https://arxiv.org/abs/math/9802102">https://arxiv.org/abs/math/9802102</a> y luego con un intento de analyzar el peso de la integral de camino, <a href="/blog/research/9803035.pdf">/blog/research/9803035.pdf</a>. Por lo que veo ya se habia publicado la lección perdida, pero de alguna forma se nos escapó la relación.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/los-mayores-ya-han-pensado-en-eso/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog/los-mayores-ya-han-pensado-en-eso/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>sBootstrap: SO(32) and recursive anomalies?</title>
-		<link>/sbootstrap-so32-and-recursive-anomalies/</link>
-					<comments>/sbootstrap-so32-and-recursive-anomalies/#comments</comments>
+		<link>/blog/sbootstrap-so32-and-recursive-anomalies/</link>
+					<comments>/blog/sbootstrap-so32-and-recursive-anomalies/#comments</comments>
 		
 		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
 		<pubDate>Wed, 31 Jan 2024 15:18:41 +0000</pubDate>
 				<category><![CDATA[General]]></category>
-		<guid isPermaLink="false">/?p=2261</guid>
+		<guid isPermaLink="false">/blog/?p=2261</guid>
 
 					<description><![CDATA[Just a short memo. We have seem that the sBoostrap, which is really a way to produce Chan-Paton labels, drives naturally to SU(15) and then perhaps to SO(30). Which was very encouraging because we know an open string needs to have a SO(32) group asociated to it. Sometimes this group is justifyed as 2^5, with [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -98,20 +98,20 @@
 <p>There is still the question of why or how some particles get mass, some others travel free. We have not problems with the leptons, they could also be massless but unable to bind into the string due to the lack of colour. Even some coloured objects could we unable to bind if they have not both chiralities available. Well, the point here is that if we consider light quarks plus leptons we are into 84 degrees of freedom and then again in the world of 11D sugra representations.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/sbootstrap-so32-and-recursive-anomalies/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog/sbootstrap-so32-and-recursive-anomalies/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>El cobertizo de la calle Nola</title>
-		<link>/el-cobertizo-de-la-calle-nola/</link>
-					<comments>/el-cobertizo-de-la-calle-nola/#respond</comments>
+		<link>/blog/el-cobertizo-de-la-calle-nola/</link>
+					<comments>/blog/el-cobertizo-de-la-calle-nola/#respond</comments>
 		
 		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
 		<pubDate>Thu, 04 Jan 2024 00:47:54 +0000</pubDate>
 				<category><![CDATA[General]]></category>
-		<guid isPermaLink="false">/?p=2247</guid>
+		<guid isPermaLink="false">/blog/?p=2247</guid>
 
 					<description><![CDATA[La calle Nola tiene un estilo similar a la ciudad jardín, pero lleno de huertas que a vista aérea parecen todo patios interiores arbolados, solo que sin casas entre ellas, una limita con la siguiente, separadas por cuadrículas de muros. Desemboca -porque siendo onírica, no se sabe como se entra- en la acera derecha de [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -126,20 +126,20 @@
 <p>La ausencia de calles intermedias o callejones es similar a la de otras arquitecturas soñadas, donde muchas veces el cruce de una calle a otra exige subir al tejado de un edificio y atajar por alguna pasarela que lleva al siguiente. Esto no era raro en la calle Heroísmo de mi juventud, donde la chavalería conocía esos atajos para descender a casa de algún familiar.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/el-cobertizo-de-la-calle-nola/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog/el-cobertizo-de-la-calle-nola/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>At periapsis, we burn.</title>
-		<link>/at-periapsis-we-burn/</link>
-					<comments>/at-periapsis-we-burn/#respond</comments>
+		<link>/blog/at-periapsis-we-burn/</link>
+					<comments>/blog/at-periapsis-we-burn/#respond</comments>
 		
 		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
 		<pubDate>Tue, 12 Dec 2023 11:41:24 +0000</pubDate>
 				<category><![CDATA[General]]></category>
-		<guid isPermaLink="false">/?p=2241</guid>
+		<guid isPermaLink="false">/blog/?p=2241</guid>
 
 					<description><![CDATA[&#160; It is not rocket science&#8230; until it is. Se me estaba haciendo difícil entender el efecto o maniobra Oberth, porque siempre pienso que las maniobras asistidas incluyen intercambio de momento, y precisamente la pagina de la wikipedia arranca con un aviso «not to be confused with gravity assist». Sin intercambio de momento, la variación [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -162,20 +162,20 @@
 <p>La confusión viene de que si añadimos una transferencia de momento $L$ desde el planeta, eso va a la ecuación de balance de energias y aporta un termino $v_0 L$ para el cálculo de los incrementos de velocidad. Y eso, aunque tambien es una dependencia en $v_0$, sería parte de la asistencia de gravedad. Pero aquí el calculo ademas se complica porque hay que determinar de alguna forma las contribuciones tanto de momento como de energia que el planeta podría sumar o restar.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/at-periapsis-we-burn/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog/at-periapsis-we-burn/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Tangents</title>
-		<link>/tangents/</link>
-					<comments>/tangents/#respond</comments>
+		<link>/blog/tangents/</link>
+					<comments>/blog/tangents/#respond</comments>
 		
 		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
 		<pubDate>Mon, 02 Oct 2023 18:36:46 +0000</pubDate>
 				<category><![CDATA[General]]></category>
-		<guid isPermaLink="false">/?p=2232</guid>
+		<guid isPermaLink="false">/blog/?p=2232</guid>
 
 					<description><![CDATA[A couple weeks ago, the account @iwontoffendyou twitted the following problem. It was presented as a «round 1» exercise for employee interviews. So the logical path is first to try to answer either analytical or numerically, and only after a good enough answer is produced one can step back and look are more fun details. [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -183,7 +183,7 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/wp-content/uploads/2023/10/image-936x1024.png" alt="" class="wp-image-2233" style="width:414px;height:453px" width="414" height="453" srcset="/wp-content/uploads/2023/10/image-936x1024.png 936w, /wp-content/uploads/2023/10/image-274x300.png 274w, /wp-content/uploads/2023/10/image-768x840.png 768w, /wp-content/uploads/2023/10/image.png 1080w" sizes="(max-width: 414px) 100vw, 414px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/blog/wp-content/uploads/2023/10/image-936x1024.png" alt="" class="wp-image-2233" style="width:414px;height:453px" width="414" height="453" srcset="/blog/wp-content/uploads/2023/10/image-936x1024.png 936w, /blog/wp-content/uploads/2023/10/image-274x300.png 274w, /blog/wp-content/uploads/2023/10/image-768x840.png 768w, /blog/wp-content/uploads/2023/10/image.png 1080w" sizes="(max-width: 414px) 100vw, 414px" /></figure>
 
 
 
@@ -214,20 +214,20 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/tangents/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog/tangents/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>is Spin(8) triality the missing ingredient for SUSY in Connes&#8217; approach?</title>
-		<link>/is-spin8-triality-the-missing-ingredient-for-susy-in-connes-approach/</link>
-					<comments>/is-spin8-triality-the-missing-ingredient-for-susy-in-connes-approach/#comments</comments>
+		<link>/blog/is-spin8-triality-the-missing-ingredient-for-susy-in-connes-approach/</link>
+					<comments>/blog/is-spin8-triality-the-missing-ingredient-for-susy-in-connes-approach/#comments</comments>
 		
 		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
 		<pubDate>Mon, 07 Aug 2023 11:39:07 +0000</pubDate>
 				<category><![CDATA[General]]></category>
-		<guid isPermaLink="false">/?p=2224</guid>
+		<guid isPermaLink="false">/blog/?p=2224</guid>
 
 					<description><![CDATA[Thinking about a major puzzle in the NCG approach to the standard model, I remember that sci.physics.research, via Baez&#8217; weeks, was very fond of triality (in the way of Evans?) to justify why some dimensions allow supersymmetry. And this pivots over SO(8), for which I asked a couple of abusive questions in mathoverflow: Does ??(32)???8×?8 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -284,44 +284,44 @@ o----o----o     SU(4)xSU(2)xSU(2)
   
 </pre></div>]]></content:encoded>
 					
-					<wfw:commentRss>/is-spin8-triality-the-missing-ingredient-for-susy-in-connes-approach/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog/is-spin8-triality-the-missing-ingredient-for-susy-in-connes-approach/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Bjorken-Zeldovich see-saw</title>
-		<link>/bjorken-zeldovich-see-saw/</link>
-					<comments>/bjorken-zeldovich-see-saw/#respond</comments>
+		<link>/blog/bjorken-zeldovich-see-saw/</link>
+					<comments>/blog/bjorken-zeldovich-see-saw/#respond</comments>
 		
 		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
 		<pubDate>Sat, 05 Aug 2023 23:31:36 +0000</pubDate>
 				<category><![CDATA[General]]></category>
-		<guid isPermaLink="false">/?p=2219</guid>
+		<guid isPermaLink="false">/blog/?p=2219</guid>
 
 					<description><![CDATA[This is another use of square roots in the spirit of the eighties&#8230; but a lot more recent, from Bjorken 2013. I have seen some recent variations in Berglund-Hubsch-Minic 2023. Actually I found this while looking for Hubsch&#8217;s textbook. They seem also to fanzy the idea of a Higgs with two vacuui, one of them [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><a href="https://onlinelibrary.wiley.com/doi/10.1002/andp.201300724"><img decoding="async" width="1024" height="623" src="/wp-content/uploads/2023/08/image-1-1024x623.png" alt="" class="wp-image-2220" srcset="/wp-content/uploads/2023/08/image-1-1024x623.png 1024w, /wp-content/uploads/2023/08/image-1-300x183.png 300w, /wp-content/uploads/2023/08/image-1-768x467.png 768w, /wp-content/uploads/2023/08/image-1.png 1482w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://onlinelibrary.wiley.com/doi/10.1002/andp.201300724"><img decoding="async" width="1024" height="623" src="/blog/wp-content/uploads/2023/08/image-1-1024x623.png" alt="" class="wp-image-2220" srcset="/blog/wp-content/uploads/2023/08/image-1-1024x623.png 1024w, /blog/wp-content/uploads/2023/08/image-1-300x183.png 300w, /blog/wp-content/uploads/2023/08/image-1-768x467.png 768w, /blog/wp-content/uploads/2023/08/image-1.png 1482w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
 <p>This is another use of square roots in the spirit of the eighties&#8230; but a lot more recent, from <a href="https://onlinelibrary.wiley.com/doi/10.1002/andp.201300724">Bjorken 2013.</a> I have seen some recent variations in <a href="https://arxiv.org/abs/2307.16712">Berglund-Hubsch-Minic 2023.</a> Actually I found this while looking for Hubsch&#8217;s textbook. They seem also to fanzy the idea of a Higgs with two vacuui, one of them at Planck scale.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/bjorken-zeldovich-see-saw/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog/bjorken-zeldovich-see-saw/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The crisis in the sBootstrap</title>
-		<link>/the-crisis-in-the-sbootstrap/</link>
-					<comments>/the-crisis-in-the-sbootstrap/#comments</comments>
+		<link>/blog/the-crisis-in-the-sbootstrap/</link>
+					<comments>/blog/the-crisis-in-the-sbootstrap/#comments</comments>
 		
 		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
 		<pubDate>Thu, 03 Aug 2023 23:55:09 +0000</pubDate>
 				<category><![CDATA[General]]></category>
-		<guid isPermaLink="false">/?p=2205</guid>
+		<guid isPermaLink="false">/blog/?p=2205</guid>
 
 					<description><![CDATA[Twitter going all-in in speculative physics, it is a good excuse to mention a friend&#8217;s blog that is echoing my -now some ten or fifteen years old- speculative ruminations. Basically it was the idea that string theory was right until, say, 1974&#8230; The papers at that time were still considering supersymmetry between mesons and fermions, [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -421,27 +421,27 @@ o----o----o     SU(4)xSU(2)xSU(2)
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="792" src="/wp-content/uploads/2023/08/image-1024x792.png" alt="" class="wp-image-2215" srcset="/wp-content/uploads/2023/08/image-1024x792.png 1024w, /wp-content/uploads/2023/08/image-300x232.png 300w, /wp-content/uploads/2023/08/image-768x594.png 768w, /wp-content/uploads/2023/08/image-1536x1188.png 1536w, /wp-content/uploads/2023/08/image.png 1696w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="792" src="/blog/wp-content/uploads/2023/08/image-1024x792.png" alt="" class="wp-image-2215" srcset="/blog/wp-content/uploads/2023/08/image-1024x792.png 1024w, /blog/wp-content/uploads/2023/08/image-300x232.png 300w, /blog/wp-content/uploads/2023/08/image-768x594.png 768w, /blog/wp-content/uploads/2023/08/image-1536x1188.png 1536w, /blog/wp-content/uploads/2023/08/image.png 1696w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
 <p>A consideration here is if the «IR theory» to break is just SU(3)xU(1) or if there are some remnants of electroweak. On one side is very tempting to send W and Z0 to infinity mass. On the other hand,  it would be interesting to consider for instance what combinations of charged scalars can decay to neutral scalars, and the same for diquarks. It is very tempting to think that we have b(c+u) and b(c-u), then c(s+d) and c(s-d) and then u(s+d) and u(s-d), so that only one combination can feel the chiral interaction. And it could be related to the problem that all our composites are pseudoscalars, while for susy we need half of them scalars, half pseudoscalars.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/the-crisis-in-the-sbootstrap/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog/the-crisis-in-the-sbootstrap/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Un trabajo que deje sin hacer</title>
-		<link>/un-trabajo-que-deje-sin-hacer/</link>
-					<comments>/un-trabajo-que-deje-sin-hacer/#respond</comments>
+		<link>/blog/un-trabajo-que-deje-sin-hacer/</link>
+					<comments>/blog/un-trabajo-que-deje-sin-hacer/#respond</comments>
 		
 		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
 		<pubDate>Sat, 29 Jul 2023 23:23:31 +0000</pubDate>
 				<category><![CDATA[General]]></category>
-		<guid isPermaLink="false">/?p=2189</guid>
+		<guid isPermaLink="false">/blog/?p=2189</guid>
 
 					<description><![CDATA[Con la idea de interpretar el espectro del modelo estándar como una ruptura parcial de supersimetría, pregunté el otro dia en physics forums si realmente había o no supersimetría en mecánica cuántica, y naturalmente a los pocos posts me devolvieron la pelota recordandome todo lo que se había hecho en los años 80 y 90 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -466,7 +466,7 @@ o----o----o     SU(4)xSU(2)xSU(2)
 </pre></div>
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2023/07/image-1024x116.png" alt="" class="wp-image-2190" width="441" height="50" srcset="/wp-content/uploads/2023/07/image-1024x116.png 1024w, /wp-content/uploads/2023/07/image-300x34.png 300w, /wp-content/uploads/2023/07/image-768x87.png 768w, /wp-content/uploads/2023/07/image-1536x174.png 1536w, /wp-content/uploads/2023/07/image.png 2026w" sizes="(max-width: 441px) 100vw, 441px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" src="/blog/wp-content/uploads/2023/07/image-1024x116.png" alt="" class="wp-image-2190" width="441" height="50" srcset="/blog/wp-content/uploads/2023/07/image-1024x116.png 1024w, /blog/wp-content/uploads/2023/07/image-300x34.png 300w, /blog/wp-content/uploads/2023/07/image-768x87.png 768w, /blog/wp-content/uploads/2023/07/image-1536x174.png 1536w, /blog/wp-content/uploads/2023/07/image.png 2026w" sizes="(max-width: 441px) 100vw, 441px" /></figure>
 
 
 
@@ -474,11 +474,11 @@ o----o----o     SU(4)xSU(2)xSU(2)
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2023/07/image-1-1024x535.png" alt="" class="wp-image-2191" width="334" height="175" srcset="/wp-content/uploads/2023/07/image-1-1024x535.png 1024w, /wp-content/uploads/2023/07/image-1-300x157.png 300w, /wp-content/uploads/2023/07/image-1-768x401.png 768w, /wp-content/uploads/2023/07/image-1.png 1318w" sizes="(max-width: 334px) 100vw, 334px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" src="/blog/wp-content/uploads/2023/07/image-1-1024x535.png" alt="" class="wp-image-2191" width="334" height="175" srcset="/blog/wp-content/uploads/2023/07/image-1-1024x535.png 1024w, /blog/wp-content/uploads/2023/07/image-1-300x157.png 300w, /blog/wp-content/uploads/2023/07/image-1-768x401.png 768w, /blog/wp-content/uploads/2023/07/image-1.png 1318w" sizes="(max-width: 334px) 100vw, 334px" /></figure>
 
 
 
-<p>Volviendo a mi parte&#8230; Con LJ, Casahorran y Esteve hicieron el <a href="https://lib-extopc.kek.jp/preprints/PDF/1992/9203/9203668.pdf">preprint 91.36</a>, pero no entraron en la cuestion de las deltas porque lamentablemente eso me lo dejaron para mi tesis. Yo examiné cómo variaba la matriz de scattering ante cambios de escala y por tanto determiné todos los potenciales «de contacto» o «con soporte en un punto» que aparecian como lineas de renormalizacion en el sentido de Wilson-Kogut (lo que nos permitió localizar algun error en la nomenclatura de aquella epoca respecto a los «potenciales delta prima»). Por otro lado participé en la clasificación de familias de potenciales que tenian un significado geométrico. Pero no termine de estudiar la supersimetría los distintos casos con soporte en un punto (sección 4.4 de mi <a href="/research/tesis.pdf">tesis</a>), ni como esto se visualizaría en el espacio de teorías a la hora de ir aplicando <a href="https://arxiv.org/abs/hep-th/9411081">transformaciones</a> de escala y renormalización.  No recuerdo ni siquiera los detalles de la seccion 4.4, posiblemente en aquel entonces simplemente estabamos intentando extender los resultados previos que Boya publicó con Sudarshan <a href="https://arxiv.org/abs/hep-th/9410198v1">en 1994</a>.</p>
+<p>Volviendo a mi parte&#8230; Con LJ, Casahorran y Esteve hicieron el <a href="https://lib-extopc.kek.jp/preprints/PDF/1992/9203/9203668.pdf">preprint 91.36</a>, pero no entraron en la cuestion de las deltas porque lamentablemente eso me lo dejaron para mi tesis. Yo examiné cómo variaba la matriz de scattering ante cambios de escala y por tanto determiné todos los potenciales «de contacto» o «con soporte en un punto» que aparecian como lineas de renormalizacion en el sentido de Wilson-Kogut (lo que nos permitió localizar algun error en la nomenclatura de aquella epoca respecto a los «potenciales delta prima»). Por otro lado participé en la clasificación de familias de potenciales que tenian un significado geométrico. Pero no termine de estudiar la supersimetría los distintos casos con soporte en un punto (sección 4.4 de mi <a href="/blog/research/tesis.pdf">tesis</a>), ni como esto se visualizaría en el espacio de teorías a la hora de ir aplicando <a href="https://arxiv.org/abs/hep-th/9411081">transformaciones</a> de escala y renormalización.  No recuerdo ni siquiera los detalles de la seccion 4.4, posiblemente en aquel entonces simplemente estabamos intentando extender los resultados previos que Boya publicó con Sudarshan <a href="https://arxiv.org/abs/hep-th/9410198v1">en 1994</a>.</p>
 
 
 
@@ -489,20 +489,20 @@ o----o----o     SU(4)xSU(2)xSU(2)
 <p>Es tambien curioso que aunque sabiamos de la relacion entre las condiciones de contorno de un segmento y las de un soporte puntal en la linea no hicieramos mas enfasis en las posibles relaciones con condiciones de contorno de una teoria de cuerdas en un limite no relativista, donde no deja de ser una teoria en 1+1. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/un-trabajo-que-deje-sin-hacer/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog/un-trabajo-que-deje-sin-hacer/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>La complejidad de la formula de Koide</title>
-		<link>/la-complejidad-de-la-formula-de-koide/</link>
-					<comments>/la-complejidad-de-la-formula-de-koide/#respond</comments>
+		<link>/blog/la-complejidad-de-la-formula-de-koide/</link>
+					<comments>/blog/la-complejidad-de-la-formula-de-koide/#respond</comments>
 		
 		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
 		<pubDate>Sun, 09 Jul 2023 22:19:04 +0000</pubDate>
 				<category><![CDATA[General]]></category>
-		<guid isPermaLink="false">/?p=2133</guid>
+		<guid isPermaLink="false">/blog/?p=2133</guid>
 
 					<description><![CDATA[Vamos a asumir que la \(z_0\) y las \(z_n\) del ansatz de Koide pueden tener valores complejos. Por evitarnos un parametro, tomemos que es uno. Podemos poner $$z_n= \cos(\tau)\sqrt{2}\cos\left(\frac{2\pi n}{3} + \delta\right) + i\sin(\tau)\sqrt{2}\cos\left(\frac{2\pi n}{3} + \mu\right)$$ de forma que siguen sumando cero y todavia se cumple que la suma de los \(z_n z_n^*\) es [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -645,7 +645,7 @@ o----o----o     SU(4)xSU(2)xSU(2)
 <p>Obsérvese también que según en qué cuadrante estén  \(\delta\) y \(\mu\)  puede llegarse a obtener una tupla (0, m, m), algo que no podemos lograr con la ecuación de Koide.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/la-complejidad-de-la-formula-de-koide/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog/la-complejidad-de-la-formula-de-koide/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

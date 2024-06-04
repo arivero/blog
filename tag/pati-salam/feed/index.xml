@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pati-salam &#8211; Incidencias</title>
+	<atom:link href="/blog/tag/pati-salam/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Wed, 17 Jan 2018 19:24:28 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Alain encuentra un Higgs compuesto.</title>
+		<link>/blog/alain-encuentra-un-higgs-compuesto/</link>
+					<comments>/blog/alain-encuentra-un-higgs-compuesto/#comments</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Mon, 06 May 2013 21:23:21 +0000</pubDate>
+				<category><![CDATA[Arxiv]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[grand unification]]></category>
+		<category><![CDATA[pati-salam]]></category>
+		<category><![CDATA[theory of everything]]></category>
+		<guid isPermaLink="false">/blog/?p=434</guid>
+
+					<description><![CDATA[Pero en un sitio muy raro&#8230; para romper la simetria Pati-Salam. No obstante, esta ha sido la primera novedad interesante de los modelos de Connes y familia desde hace cinco años, por lo menos. Y puede que vaya bien encaminada. En los articulos del 2006, con Chamseddine y Marcolli, ya apuntaba que el algebra del [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Pero en un sitio muy raro&#8230; para romper la simetria Pati-Salam.</p>
+<p>No obstante, esta ha sido la primera novedad interesante de los modelos de Connes y familia desde hace cinco años, por lo menos. Y puede que vaya bien encaminada.</p>
+<p>En los articulos del 2006, con Chamseddine y Marcolli, ya apuntaba que el algebra del modelo estandar parecia venir del algebra de Pati-Salam, pero para romper de una a otra tenia que poner un postulado extra.</p>
+<p>Lo cual no era malo, porque en el fondo esperamos que la ruptura de Pati-Salam sea muy peculiar, y no otro Higgs mas en el bolso.</p>
+<p>Y lo que <a href="http://arxiv.org/abs/1304.8050">ahora</a> ha encontrado, con <a href="http://arxiv.org/find/hep-th/1/au:+Suijlekom_W/0/1/0/all/0/1">van Suijlekom</a> añadiendose a la fiesta, es que si eliminamos el postulado lo que ocurre es que el Higgs del Pati-Salam no es tal, sino un compuesto del Higgs que ya conocemos.</p>
+<p>Para mi, lo más inspirador es la notación con que lo presenta, dado que el hecho de construir el algebra \(A_{(2)}\) a partir del conmutador \([A_{(1)}, X]\) es lo que produce este efecto por el que (2) es compuesto de (1). Y me digo, si por otro lado teniamos ya que (1) hacia uso del conmutador \([D, X]\)&#8230; ¿No significara esto que en el fondo el Higgs es un compuesto de D, usease, del espectro de fermiones?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/alain-encuentra-un-higgs-compuesto/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>sBootstrap con Pati-Salam</title>
+		<link>/blog/sbootstra-con-pati-salam/</link>
+					<comments>/blog/sbootstra-con-pati-salam/#comments</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Thu, 03 Jan 2013 20:18:20 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[grand unification]]></category>
+		<category><![CDATA[m theory]]></category>
+		<category><![CDATA[pati-salam]]></category>
+		<category><![CDATA[string theory]]></category>
+		<category><![CDATA[superstrings]]></category>
+		<category><![CDATA[theory of everything]]></category>
+		<category><![CDATA[wrong turn]]></category>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=395</guid>
+
+					<description><![CDATA[Nada nuevo, solo una excusa para copiar el latex de la thread de physicsforums $latex \begin{array}{lllllll} &#38;\nu_?, t_{rgb}&#38; &#38; &#38; &#38; \\ &#38;\nu_?, b_{rgb}&#38; B^+,B_c^+ &#38; bu, bc&#38; bb, bs, bd &#38; \eta_b, \stackrel{b\bar s,b\bar d}{\bar bs,\bar bd} \\ \stackrel{\bar c\bar c}{cc},\stackrel{\bar c\bar u}{cu}&#38;\tau, c_{rgb} &#38; D^+, D_s^+&#38; sc,dc &#38; &#38; \eta_c, \stackrel{c\bar u}{\bar cu}\\ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Nada nuevo, solo una excusa para copiar el latex de la <a href="http://www.physicsforums.com/showthread.php?t=485247&amp;page=11">thread de physicsforums</a></p>
+<p>$latex \begin{array}{lllllll}<br />
+&amp;\nu_?, t_{rgb}&amp; &amp; &amp; &amp; \\<br />
+&amp;\nu_?, b_{rgb}&amp; B^+,B_c^+ &amp; bu, bc&amp; bb, bs, bd &amp; \eta_b, \stackrel{b\bar s,b\bar d}{\bar bs,\bar bd} \\<br />
+\stackrel{\bar c\bar c}{cc},\stackrel{\bar c\bar u}{cu}&amp;\tau, c_{rgb} &amp; D^+, D_s^+&amp; sc,dc &amp; &amp; \eta_c, \stackrel{c\bar u}{\bar cu}\\<br />
+\stackrel{\bar u\bar u}{uu}&amp;\mu, s_{rgb} &amp; \pi^+, K^+&amp; su, du&amp; ss, sd, dd &amp; K^0,\pi^0, \stackrel{s\bar d}{\bar sd}\\<br />
+&amp;\nu_?, d_{rgb} \\<br />
+&amp;e, u_{rgb}\end{array}$</p>
+<p>La observacion es que los escalares susy tienen una simetria global SU(3)xSU(2) de sabor, incluyendo incluso a los escalares del higgs, que serian esos seis de la primera columna. Y de ahi se podria pasar a que esto es fundamental y aqui termina la busqueda de subcomponentes, porque los componentes de quarks y leptones&#8230; serian los propios quarks.</p>
+<p><span id="more-395"></span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/sbootstra-con-pati-salam/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pati-Salam y 8 dimensiones extra</title>
+		<link>/blog/pati-salam-y-8-dimensiones-extra/</link>
+					<comments>/blog/pati-salam-y-8-dimensiones-extra/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Sat, 22 Dec 2012 11:01:58 +0000</pubDate>
+				<category><![CDATA[Active Research]]></category>
+		<category><![CDATA[grand unification]]></category>
+		<category><![CDATA[m theory]]></category>
+		<category><![CDATA[pati-salam]]></category>
+		<category><![CDATA[string theory]]></category>
+		<category><![CDATA[superstrings]]></category>
+		<category><![CDATA[theory of everything]]></category>
+		<category><![CDATA[wrong turn]]></category>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=383</guid>
+
+					<description><![CDATA[Aunque habia etiquetado como «wiki» la entrada sobre Kaluza-Klein y en teoria tendria simplemente que ampliarla, puede que sea mejor contarlo desde otra perspectiva. Y vamos, asi pongo una nueva entrada en el blog. Si habeis pensado ya un rato sobre Kaluza Klein, puede que hayais caido ya en que las dimensiones extra no son [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Aunque habia etiquetado como «wiki» la <a title="Notas sobre Kaluza – Klein" href="http://alejandro.rivero.nom.es/index.php/notas-sobre-kaluza-klein/">entrada sobre Kaluza-Klein</a> y en teoria tendria simplemente que ampliarla, puede que sea mejor contarlo desde otra perspectiva. Y vamos, asi pongo una nueva entrada en el blog.</p>
+<p>Si habeis pensado ya un rato sobre Kaluza Klein, puede que hayais caido ya en que las dimensiones extra no son las del grupo de Lie. Los ejemplos de U(1) y de \(U(1)^n\), que es el toro n-dimensional, son engañosos. En cuando uno se plantea que las isometrias de la n-esfera son las del grupo SO(n+1), se ve que la cosa no encaja y que en realidad el espacio que hace falta suele ser bastante más pequeño, en dimensiones, que el grupo que queremos obtener.</p>
+<p>En particular, el su(2) x su(2) del L-R Pati-Salam es de los obvios, porque sabemos que su algebra es equivalente a la de so(4), y por tanto la teoria de Kaluza Klein correspondiente va a ser solo la de la esfera S3.</p>
+<p>Y en cuando al grupo SU(4) de lepton+color, pues resulta que tambien hay una equivalencia de algebras, es igual a la de so(6), y por tanto basta con la esfera S5</p>
+<p>Conclusion: Para conseguir un espacio con isometrias «Pati-Salam» SU(4)xSU(2)xSU(2), nos basta con 8 dimensiones extra: S5xS3.</p>
+<p>Naturalmente, para el grupo GUT SO(10) necesitariamos 9 dimensiones extra: las de S9. Y para el grupo SU(5) podriamos aplicar una regla general con los grupos de isometrias de CPn: para CP2, sus isometrias son SU(3); para CP4, sus isometrias son SU(5).</p>
+<p>Por cierto, fijaos que si en vez de lepton-color empleamos \(U(1)_{B-L} \times SU(3)\) no cambiaria la cosa de dimensiones, seria S1xCP2 en vez de S5.</p>
+<p>Asi que ya tenemos un grupo GUT en 9 dimensiones extra, y dos de los otros en tan solo 8. ¿Tenemos algo interesante en 7? Pues pocas cosas, si a la clasificacion de metricas de Einstein en variedades 7-dimensionales compactas nos atenemos, pero entre ellas una que seguramente Witten encontró pensando en estos ejemplos: el cociente de la de Pati-Salam, S5xS3, por una accion de U(1) que produzca una variedad de 7 dimensiones, va a tener siempre al menos las simetrias del modelo estandar, SU(3)xSU(2)xU(1).</p>
+<p>Por otro lado, la maxima supergravedad no puede tener mas de siete dimensiones extra; ni ocho ni nueve. Y de otra parte, para conseguir las cargas y quiralidades del modelo estandar sabemos que siete no chuta y necesitamos al menos construir fermiones en ocho. Juntando las dos cosas, se puede intuir que algo raro va a haber en la ruptura de Pati-Salam a SM, y esa rareza, que desconocemos, debe ser la causa de que los bosones de esa ruptura, ni su gauge ni sus higgses, no aparezcan por ningun lado; no pueden jugar la misma partida que el resto de las interacciones gauge, porque no podemos pasar de siete dimensiones.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/pati-salam-y-8-dimensiones-extra/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

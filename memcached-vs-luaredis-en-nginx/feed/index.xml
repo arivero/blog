@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Memcached vs lua+redis en nginx	</title>
+	<atom:link href="/blog/memcached-vs-luaredis-en-nginx/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/memcached-vs-luaredis-en-nginx/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Tue, 25 Jun 2019 16:15:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>
+		Por: Alejandro Rivero		</title>
+		<link>/blog/memcached-vs-luaredis-en-nginx/#comment-2879</link>
+
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Tue, 25 Jun 2019 16:15:58 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=1653#comment-2879</guid>
+
+					<description><![CDATA[Una notica... los errores iniciales de conexion y envio del dato a veces se arreglan dando uno o dos intentos mas, lo malo es que esos intentos van duplicandose en el tiempo, asi que tampoco nos valen de mucho en una prueba de carga intensiva. En cualquier caso,  se puede intentar:
+echo 8 &gt;  /proc/sys/net/ipv4/tcp_synack_retries 
+echo 8 &gt;  /proc/sys/net/ipv4/tcp_syn_retries]]></description>
+			<content:encoded><![CDATA[<p>Una notica&#8230; los errores iniciales de conexion y envio del dato a veces se arreglan dando uno o dos intentos mas, lo malo es que esos intentos van duplicandose en el tiempo, asi que tampoco nos valen de mucho en una prueba de carga intensiva. En cualquier caso,  se puede intentar:<br />
+echo 8 >  /proc/sys/net/ipv4/tcp_synack_retries<br />
+echo 8 >  /proc/sys/net/ipv4/tcp_syn_retries</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

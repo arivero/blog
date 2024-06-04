@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Alejandro Rivero &#8211; Incidencias</title>
+	<atom:link href="/blog/author/arivero/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Sun, 04 Feb 2024 19:54:52 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Los mayores ya han pensado en eso.</title>
+		<link>/blog/los-mayores-ya-han-pensado-en-eso/</link>
+					<comments>/blog/los-mayores-ya-han-pensado-en-eso/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Sun, 04 Feb 2024 00:41:41 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">/blog/?p=2263</guid>
+
+					<description><![CDATA[De rebote y gracias a mi adicción a twitter, veo que se me había pasado por alto la «lección perdida de Feynman«, pese a que se publicó en 1996 y pese a que recientemente el grupo de geometría y mecánica de mi departamento la había revisitado, https://arxiv.org/abs/1605.01204. Lo interesante de la lección no es tanto [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>De rebote y gracias a mi adicción a twitter, veo que se me había pasado por alto la «l<a href="https://todoesrelativoono.wordpress.com/2023/03/15/sobre-la-conferencia-perdida-de-feynman/">ección perdida de Feynman</a>«, pese a que se publicó en 1996 y pese a que recientemente el grupo de geometría y mecánica de mi departamento la había revisitado,<a href=" https://arxiv.org/abs/1605.01204"> https://arxiv.org/abs/1605.01204</a>. </p>
+
+
+
+<p>Lo interesante de la lección no es tanto -aunque pueda ser parte de una respusta- el uso de la hodografa en el espacio de velocidades sino el hecho de que Feynman se interesara la discretización de caminos que emplea Newton.</p>
+
+
+
+<p> https://twitter.com/arivero/status/1753547162363826208/photo/1</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img fetchpriority="high" decoding="async" width="270" height="264" src="/blog/wp-content/uploads/2024/02/image-3.png" alt="" class="wp-image-2270" style="width:450px;height:auto"/></figure>
+
+
+
+<p>Este «Space Diagram» es, en mi opinión, el problema que retrasó años la publicación de los principia: Cómo probar la existencia de la curva clásica cuando necesitas probar que las áreas entre el camino discreto y la curva clásica tienden a cero en el límite continuo, y esas areas son esencialmente proporcionales a la cte de Planck. Pero eso ya lo he contado muchas veces, lo que veo interesante aquí es notar que al propio Feynman le interesó la cuestión&#8230; y que no debió de sacar nada en claro, puesto que no le valió para tirar hacia adelante en la cuestión de los fundamentos de la cuántica.</p>
+
+
+
+<p>Y quizas por eso la gente no lo mira con tanta atención, porque tienen en el fondo el instinto de que si hubiera algo que rascar, los grandes ya lo habrían hecho.</p>
+
+
+
+<p>En cualquier caso, en aquella época se formaria el Lore de que la integral de Feynman es una regularizacion de la delta de Dirac y que la probabilidad en cuántica debe ser compleja para que las soluciones clásicas interfieran entre sí de manera que las contribuciones de caminos con acción (¿o variación de la accion?) mucho mas grande que la cte de Planck se anulen, de forma que en el limite \hbar \to 0 se convierte la regularización en una autentica delta que selecciona el camino clasico. Eso era revolucionario en cuanto a fundamentos de la mecánica, y de la física.</p>
+
+
+
+<p>Yo ataqué el problema un par de veces, en el año 98, primero con el grupoide tangente <a href="https://arxiv.org/abs/math/9802102">https://arxiv.org/abs/math/9802102</a> y luego con un intento de analyzar el peso de la integral de camino, <a href="/blog/research/9803035.pdf">/blog/research/9803035.pdf</a>. Por lo que veo ya se habia publicado la lección perdida, pero de alguna forma se nos escapó la relación.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/los-mayores-ya-han-pensado-en-eso/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>sBootstrap: SO(32) and recursive anomalies?</title>
+		<link>/blog/sbootstrap-so32-and-recursive-anomalies/</link>
+					<comments>/blog/sbootstrap-so32-and-recursive-anomalies/#comments</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Wed, 31 Jan 2024 15:18:41 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">/blog/?p=2261</guid>
+
+					<description><![CDATA[Just a short memo. We have seem that the sBoostrap, which is really a way to produce Chan-Paton labels, drives naturally to SU(15) and then perhaps to SO(30). Which was very encouraging because we know an open string needs to have a SO(32) group asociated to it. Sometimes this group is justifyed as 2^5, with [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Just a short memo.</p>
+
+
+
+<p>We have seem that the sBoostrap, which is really a way to produce Chan-Paton labels, drives naturally to SU(15) and then perhaps to SO(30).  Which was very encouraging because we know an open string needs to have a SO(32) group asociated to it. Sometimes this group is justifyed as 2^5, with 5 being half of the dimension of space, and it is related to a SO(8192) for bosonic strings. </p>
+
+
+
+<p>Our justification to choose the charges, on the other hand, is that they correspond to light quarks. This should be, that there is some way to give mass to the particles in a SO(32) and only the light quarks survive, available to be used as Chan-Paton labels, and then it is Chan-Paton all the way down.</p>
+
+
+
+<p>But the real justification for SO(32) is to have an anomaly-free theory. So the question is if our recursivity could be related to anomaly-matching conditions in the way of &#8216;t Hooft.</p>
+
+
+
+<p>There is still the question of why or how some particles get mass, some others travel free. We have not problems with the leptons, they could also be massless but unable to bind into the string due to the lack of colour. Even some coloured objects could we unable to bind if they have not both chiralities available. Well, the point here is that if we consider light quarks plus leptons we are into 84 degrees of freedom and then again in the world of 11D sugra representations.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/sbootstrap-so32-and-recursive-anomalies/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>El cobertizo de la calle Nola</title>
+		<link>/blog/el-cobertizo-de-la-calle-nola/</link>
+					<comments>/blog/el-cobertizo-de-la-calle-nola/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Thu, 04 Jan 2024 00:47:54 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">/blog/?p=2247</guid>
+
+					<description><![CDATA[La calle Nola tiene un estilo similar a la ciudad jardín, pero lleno de huertas que a vista aérea parecen todo patios interiores arbolados, solo que sin casas entre ellas, una limita con la siguiente, separadas por cuadrículas de muros. Desemboca -porque siendo onírica, no se sabe como se entra- en la acera derecha de [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>La calle Nola tiene un estilo similar a la ciudad jardín, pero lleno de huertas que a vista aérea parecen todo patios interiores arbolados, solo que sin casas entre ellas, una limita con la siguiente, separadas por cuadrículas de muros. Desemboca -porque siendo onírica, no se sabe como se entra- en la acera derecha de la calle Doctor Cerrada a través de un pórtico peatonal, que la disimula y hace que los paseantes casuales no la identifiquen como calle. En el pórtico un cartel anuncia los días de riego. </p>
+
+
+
+<p>En cierto modo el abigarramiento de las huertas recuerda a los oasis de datileros de Al Ain, pero más organizado por la cuadrícula del parcelamiento. E indicaría también la presencia cercana de una fuente de agua, un riachuelo o acequia.</p>
+
+
+
+<p>La ausencia de calles intermedias o callejones es similar a la de otras arquitecturas soñadas, donde muchas veces el cruce de una calle a otra exige subir al tejado de un edificio y atajar por alguna pasarela que lleva al siguiente. Esto no era raro en la calle Heroísmo de mi juventud, donde la chavalería conocía esos atajos para descender a casa de algún familiar.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/el-cobertizo-de-la-calle-nola/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>At periapsis, we burn.</title>
+		<link>/blog/at-periapsis-we-burn/</link>
+					<comments>/blog/at-periapsis-we-burn/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Tue, 12 Dec 2023 11:41:24 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">/blog/?p=2241</guid>
+
+					<description><![CDATA[&#160; It is not rocket science&#8230; until it is. Se me estaba haciendo difícil entender el efecto o maniobra Oberth, porque siempre pienso que las maniobras asistidas incluyen intercambio de momento, y precisamente la pagina de la wikipedia arranca con un aviso «not to be confused with gravity assist». Sin intercambio de momento, la variación [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+
+
+
+
+<p>It is not rocket science&#8230; until it is. Se me estaba haciendo difícil entender el efecto o maniobra Oberth, porque siempre pienso que las maniobras asistidas incluyen intercambio de momento, y precisamente la <a href="https://en.wikipedia.org/w/index.php?title=Oberth_effect&amp;oldid=1151170562" title="">pagina de la wikipedia</a> arranca con un aviso «not to be confused with gravity assist». </p>
+
+
+
+<p>Sin intercambio de momento, la variación de velocidad de cohete y propelente depende solo de la energía química aportada y de las masas de cada parte. Así que de primeras parece que la velocidad a la este yendo el cohete en el momento del burning no tiene ningun merito, porque el incremento de velocidad es el mismo vayas lento o rápido. Pero la gracia esta en que la velocidad a fin de cuentas no solo se suma a la velocidad inicial sino que la energia cinetica es un cuadrado, y por tanto nos llevamos de regalo el termino $latex v_0 \delta v_M$, en la energía del cohete, contrarrestado por un $v_0 \delta v_m$ de signo opuesto, en la del propelente. Los dos terminos se compensan entre si precisamente si no hay aportación de momento extra.</p>
+
+
+
+<p>Si no estuviéramos en un pozo de potencial, esto seria solo un chiste de invariancia relativista -de Galileo-, porque la velocidad inicial la podemos ajustar cambiando el sistema de referencia, y lo que cuenta entonces es el incremento de velocidad. Pero al estar en un potencial, la energía que ganemos se notara a la salida. Esto es, al caer hemos obtenido un plus de energia a costa del potencial, y al salir pagamos exactamente ese mismo coste, pero gracias a haber quemado a alta velocidad la energia quimica se ha transferido en mayor parte al cohete que al fragmento de propelente, y a la salida tras devolver el potencial ganado todavia nos queda velocidad extra que no tendriamos si hubieramos quemado directamente fuera del pozo. Ese es el efecto Oberth.</p>
+
+
+
+<p>La confusión viene de que si añadimos una transferencia de momento $L$ desde el planeta, eso va a la ecuación de balance de energias y aporta un termino $v_0 L$ para el cálculo de los incrementos de velocidad. Y eso, aunque tambien es una dependencia en $v_0$, sería parte de la asistencia de gravedad. Pero aquí el calculo ademas se complica porque hay que determinar de alguna forma las contribuciones tanto de momento como de energia que el planeta podría sumar o restar.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/at-periapsis-we-burn/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tangents</title>
+		<link>/blog/tangents/</link>
+					<comments>/blog/tangents/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Mon, 02 Oct 2023 18:36:46 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">/blog/?p=2232</guid>
+
+					<description><![CDATA[A couple weeks ago, the account @iwontoffendyou twitted the following problem. It was presented as a «round 1» exercise for employee interviews. So the logical path is first to try to answer either analytical or numerically, and only after a good enough answer is produced one can step back and look are more fun details. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>A couple weeks ago, the account @iwontoffendyou <a href="https://twitter.com/iwontoffendyou/status/1704935240907518367" data-type="link" data-id="https://twitter.com/iwontoffendyou/status/1704935240907518367">twitted</a> the following problem.</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" src="/blog/wp-content/uploads/2023/10/image-936x1024.png" alt="" class="wp-image-2233" style="width:414px;height:453px" width="414" height="453" srcset="/blog/wp-content/uploads/2023/10/image-936x1024.png 936w, /blog/wp-content/uploads/2023/10/image-274x300.png 274w, /blog/wp-content/uploads/2023/10/image-768x840.png 768w, /blog/wp-content/uploads/2023/10/image.png 1080w" sizes="(max-width: 414px) 100vw, 414px" /></figure>
+
+
+
+<p>It was presented as a «round 1» exercise for employee interviews. So the logical path is first to try to answer either analytical or numerically, and only after a good enough answer is produced one can step back and look are more fun details.</p>
+
+
+
+<p>Two observations are then evident:</p>
+
+
+
+<p>That keeping the r=1 «perimetral» circle and the line fixed, the locus for the circles tangent both to line and perimetral is a parabola with focus in the origin and directrix x=1.</p>
+
+
+
+<p>That the radius has been chosen such that it is the onset of multiple solutions for tangents. The circle with center in the horizontal axis is also solution, and for r > 1 it divides in two inner solutions, touching either the positive or the negative branches of the parabola.</p>
+
+
+
+<p>Surely this particular choosing was done in order to simplify the algebraic approach, but it could be hoped that it also simplifies a constructive approach even if of «solid» type. Note that any intersection with a quadric already forbids the generalisation of a «plane» construction, even if it exists for particular values.</p>
+
+
+
+<p>As a practice, I have collected a book of constructions <a href="https://www.geogebra.org/m/j7bypm5b">in geogebra here</a>.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/tangents/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>is Spin(8) triality the missing ingredient for SUSY in Connes&#8217; approach?</title>
+		<link>/blog/is-spin8-triality-the-missing-ingredient-for-susy-in-connes-approach/</link>
+					<comments>/blog/is-spin8-triality-the-missing-ingredient-for-susy-in-connes-approach/#comments</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Mon, 07 Aug 2023 11:39:07 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">/blog/?p=2224</guid>
+
+					<description><![CDATA[Thinking about a major puzzle in the NCG approach to the standard model, I remember that sci.physics.research, via Baez&#8217; weeks, was very fond of triality (in the way of Evans?) to justify why some dimensions allow supersymmetry. And this pivots over SO(8), for which I asked a couple of abusive questions in mathoverflow: Does ??(32)???8×?8 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Thinking about a major puzzle in the NCG approach to the standard model, I remember that sci.physics.research, via Baez&#8217; weeks, was very fond of triality (in the way of Evans?) to justify why some dimensions allow supersymmetry. And this pivots over SO(8), for which I asked a couple of abusive questions in mathoverflow:</p>
+
+
+
+<p><a href="http://Does/ ??(32)???8×?8 relate to some group theoretical fact?">Does ??(32)???8×?8 relate to some group theoretical fact?</a></p>
+
+
+
+<p><a href="https://mathoverflow.net/questions/75875/why-su3-is-not-equal-to-so5">Why SU(3) is not equal to SO(5)?</a></p>
+
+
+
+<p>The second one included a nice ascii sequence of dynkin diagrams, using </p>
+
+
+<div class="wp-block-syntaxhighlighter-code "><pre class="brush: plain; title: ; notranslate">
+o====o  SO(5), isometries of the sphere S4
+o----o  SU(3) are the isometries of CP2
+o    o  SU(2)xSU(2), isometries of  S2xS2. Also SO(4), so isometries of S3
+</pre></div>
+
+
+<p>I compared</p>
+
+
+<div class="wp-block-syntaxhighlighter-code "><pre class="brush: plain; title: ; notranslate">
+        o                  o                         o
+       /                                        
+      /                                          
+o----o    SO(8)    o----o     SU(3)xSO(4)    o====o     SO(5)xSO(4)
+      \
+       \
+        o                  o                         o    
+</pre></div>
+
+
+<p>and I wonder if I should add Pati-Salam</p>
+
+
+<div class="wp-block-syntaxhighlighter-code "><pre class="brush: plain; title: ; notranslate">
+             o             
+                                             
+                                               
+o----o----o     SU(4)xSU(2)xSU(2)     
+     
+      
+             o                
+</pre></div>
+
+<div class="wp-block-syntaxhighlighter-code "><pre class="brush: plain; title: ; notranslate">
+  
+</pre></div>]]></content:encoded>
+					
+					<wfw:commentRss>/blog/is-spin8-triality-the-missing-ingredient-for-susy-in-connes-approach/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bjorken-Zeldovich see-saw</title>
+		<link>/blog/bjorken-zeldovich-see-saw/</link>
+					<comments>/blog/bjorken-zeldovich-see-saw/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Sat, 05 Aug 2023 23:31:36 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">/blog/?p=2219</guid>
+
+					<description><![CDATA[This is another use of square roots in the spirit of the eighties&#8230; but a lot more recent, from Bjorken 2013. I have seen some recent variations in Berglund-Hubsch-Minic 2023. Actually I found this while looking for Hubsch&#8217;s textbook. They seem also to fanzy the idea of a Higgs with two vacuui, one of them [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><a href="https://onlinelibrary.wiley.com/doi/10.1002/andp.201300724"><img decoding="async" width="1024" height="623" src="/blog/wp-content/uploads/2023/08/image-1-1024x623.png" alt="" class="wp-image-2220" srcset="/blog/wp-content/uploads/2023/08/image-1-1024x623.png 1024w, /blog/wp-content/uploads/2023/08/image-1-300x183.png 300w, /blog/wp-content/uploads/2023/08/image-1-768x467.png 768w, /blog/wp-content/uploads/2023/08/image-1.png 1482w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p>This is another use of square roots in the spirit of the eighties&#8230; but a lot more recent, from <a href="https://onlinelibrary.wiley.com/doi/10.1002/andp.201300724">Bjorken 2013.</a> I have seen some recent variations in <a href="https://arxiv.org/abs/2307.16712">Berglund-Hubsch-Minic 2023.</a> Actually I found this while looking for Hubsch&#8217;s textbook. They seem also to fanzy the idea of a Higgs with two vacuui, one of them at Planck scale.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/bjorken-zeldovich-see-saw/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The crisis in the sBootstrap</title>
+		<link>/blog/the-crisis-in-the-sbootstrap/</link>
+					<comments>/blog/the-crisis-in-the-sbootstrap/#comments</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Thu, 03 Aug 2023 23:55:09 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">/blog/?p=2205</guid>
+
+					<description><![CDATA[Twitter going all-in in speculative physics, it is a good excuse to mention a friend&#8217;s blog that is echoing my -now some ten or fifteen years old- speculative ruminations. Basically it was the idea that string theory was right until, say, 1974&#8230; The papers at that time were still considering supersymmetry between mesons and fermions, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://twitter.com/arivero/status/1687185517190815744" data-type="URL" data-id="https://twitter.com/arivero/status/1687185517190815744">Twitter</a> going all-in in speculative physics, it is a good excuse to mention <a href="https://t.co/CqgjgjU7et" data-type="URL" data-id="https://t.co/CqgjgjU7et">a friend&#8217;s blog</a> that is echoing my -now some ten or fifteen years old- speculative ruminations.</p>
+
+
+
+<p>Basically it was the idea that string theory was right until, say, <a href="http://insti.physics.sunysb.edu/~siegel/parodies/sam/sam.html">1974</a>&#8230;</p>
+
+
+
+<p>The papers at that time were still considering supersymmetry between mesons and fermions, or gluons and quarks.</p>
+
+
+
+<ul>
+<li><a href="https://inspirehep.net/literature/68389">https://inspirehep.net/literature/68389</a> Embryonic Dual Model for Pions and Fermions Charles B. Thorn(UC, Berkeley) 1971</li>
+
+
+
+<li><a href="https://inspirehep.net/literature/75918 ">https://inspirehep.net/literature/75918 </a>Dual quark-gluon model of hadrons  J.H. Schwarz(Princeton U.) 1971</li>
+
+
+
+<li><a href="https://inspirehep.net/literature/74339">https://inspirehep.net/literature/74339</a> Fermion meson vertices in dual theories Edward Corrigan(Cambridge U., DAMTP and CERN), David I. Olive(Cambridge U., DAMTP and CERN) Oct, 1972</li>
+
+
+
+<li><a href="https://inspirehep.net/literature/97031">https://inspirehep.net/literature/97031</a> A potential approach to spinor quarks Y.M. Cho(Chicago U., EFI) 1974</li>
+
+
+
+<li><a href="https://inspirehep.net/literature/838">https://inspirehep.net/literature/838</a> An Introduction to the Theory of Dual Models and Strings Joel Scherk(New York U.) Mar, 1974</li>
+
+
+
+<li><a href="https://inspirehep.net/literature/1899">https://inspirehep.net/literature/1899</a> Dual Field Theory of Quarks and Gluons Joel Scherk(Caltech), John H. Schwarz(Caltech) Jan, 1975</li>
+
+
+
+<li><a href="https://inspirehep.net/literature/116121">https://inspirehep.net/literature/116121</a> Models with Quark Confinement and Linear Trajectories Without Parity Doubling S.Y. Chu(UC, Riverside), P. Kaus(UC, Riverside) 1976</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<p>Any of these papers could have predicted three and only three generations by asking 1) a split between heavy and light quarks and 2) that gluonic strings only can be terminated by light quarks. This pair of postulates has unique solution within the standard model: 5+1 quarks</p>
+
+
+
+<p>In fact the 1975 paper is already going out of sync because it aims for the 10th dimension and then decides that whatever the susy particles are, they are not the ones they have. Nobody notices that the muon and tau have the same mass that corresponding same charge mesons?</p>
+
+
+
+<p>So the big dogma is «SUSY is fully broken at the GeV scale» while really we have three susy multiplets only mildly broken. Just happens that the scalars are mesons and diquarks.</p>
+
+
+
+<p>Now, about the sBootstrap proposal, which are the problems? Basically: </p>
+
+
+
+<ul>
+<li> 3 extra scalar squarks of charge +4/3. Not six, just three. </li>
+
+
+
+<li> no explanation of why fermions are point like while bosons are extended, at QCD scale.</li>
+</ul>
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<p>I can not find a cure for those. More specifically</p>
+</div>
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<ul>
+<li>We could use each +4/3 scalar and the corresponding anticolour -4/3 scalar to make a fermion, but the fermion is just the opposite than a neutrino is. It has different charge in each component.</li>
+</ul>
+
+
+
+<ul>
+<li>We could imagine that a spin 1/2 string makes the fermion, but it is unclear how it pairs to its corresponding scalars, and it is unclear why it should look as a point. Perhaps a spin 1/2 gauge particle can exists but only generates a potential of zero range? <a href="https://twitter.com/arivero/status/1687187086841917440/analytics"></a></li>
+</ul>
+</div>
+
+
+
+<p>But even without a cure, the sBootstrap should made for a nice startpoint in the nuclear or infrared scale, as one could start from three perfect massive supermultiplets, break supersymmetry to have a zero mass level for electron and up, then do second order perturbations plus the neutrino see-saw to recover the actual mass structure. Of course this is not possible in the current conception of the yukawa couplings of the standard model because they are seen as running down from an UV unification.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="792" src="/blog/wp-content/uploads/2023/08/image-1024x792.png" alt="" class="wp-image-2215" srcset="/blog/wp-content/uploads/2023/08/image-1024x792.png 1024w, /blog/wp-content/uploads/2023/08/image-300x232.png 300w, /blog/wp-content/uploads/2023/08/image-768x594.png 768w, /blog/wp-content/uploads/2023/08/image-1536x1188.png 1536w, /blog/wp-content/uploads/2023/08/image.png 1696w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>A consideration here is if the «IR theory» to break is just SU(3)xU(1) or if there are some remnants of electroweak. On one side is very tempting to send W and Z0 to infinity mass. On the other hand,  it would be interesting to consider for instance what combinations of charged scalars can decay to neutral scalars, and the same for diquarks. It is very tempting to think that we have b(c+u) and b(c-u), then c(s+d) and c(s-d) and then u(s+d) and u(s-d), so that only one combination can feel the chiral interaction. And it could be related to the problem that all our composites are pseudoscalars, while for susy we need half of them scalars, half pseudoscalars.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/the-crisis-in-the-sbootstrap/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Un trabajo que deje sin hacer</title>
+		<link>/blog/un-trabajo-que-deje-sin-hacer/</link>
+					<comments>/blog/un-trabajo-que-deje-sin-hacer/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Sat, 29 Jul 2023 23:23:31 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">/blog/?p=2189</guid>
+
+					<description><![CDATA[Con la idea de interpretar el espectro del modelo estándar como una ruptura parcial de supersimetría, pregunté el otro dia en physics forums si realmente había o no supersimetría en mecánica cuántica, y naturalmente a los pocos posts me devolvieron la pelota recordandome todo lo que se había hecho en los años 80 y 90 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Con la idea de interpretar el espectro del modelo estándar como una ruptura parcial de supersimetría, pregunté el otro dia en physics forums si realmente había o no <a href="https://www.physicsforums.com/threads/spontaneous-symmetry-breaking-and-quantum-mechanics.1053574/">supersimetría en mecánica cuántica</a>, y naturalmente a los pocos posts me devolvieron la pelota recordandome todo lo que se había hecho en los años 80 y 90</p>
+
+
+
+<p>Lo que me recordó a su vez que yo deje sin hacer el investigar supersimetría en la matriz de scattering de potenciales de soporte en un solo punto. Las interacciones de contacto en mecanica cuantica son un tema muy majo para introduccion a la investigación y por lo tanto entra en la categoria de cosas que se repiten cada diez años. La ultima version que veo es <a href="https://arxiv.org/abs/2205.05005">Heriban-Tusek</a>.</p>
+
+
+
+<p>El tema de SUSY QM atrajo mucho interes en los 80, como todo lo que construia Witten. En particular<a href="https://lib-extopc.kek.jp/preprints/PDF/1986/8607/8607594.pdf"> un preprint de Luis Joaquin Boya</a> llamaba la atencion sobre la supersimetria entre el potencial delta atractivo y el repulsivo (estamos hablando de mecanica cuantica no relativista en una dimension) </p>
+
+
+
+<p>Eso llevo a algunos otros colaboradores de Luis Joaquín a revisar posibles familias de potenciales que se podian conectar via supersimetria, y a <a href="https://lib-extopc.kek.jp/preprints/PDF/1991/9110/9110117.pdf">Casahorran y a Esteve </a>a interesarse por los casos en los que se pudiera ir más allá de la diferencia en el estado del vacio, explotando el dominio de los operadores, de forma que podian intentar que tan solo la mitad de los autoestados de un potencial fueran transvasables al otro. Yo creo que esta linea la empezo Casahorran <a href="https://www.worldscientific.com/doi/abs/10.1142/S0217751X91001325">con S. Nam</a> en sus colaboraciones en el MIT, usando la idea de emplear <a href="https://www.sciencedirect.com/science/article/abs/pii/037596019190721J">estados de energia negativa</a> (para poder tener mas juego en los limites asintoticos y la normalización), y luego la continuó en </p>
+
+
+<div class="wp-block-syntaxhighlighter-code "><pre class="brush: plain; title: ; notranslate">
+    CASAHORRÁN, J. (1996). A NEW SUPERSYMMETRIC VERSION OF THE ABRAHAM-MOSES METHOD FOR SYMMETRIC POTENTIALS. Reviews in Mathematical Physics, 8(5), 655–668.         doi:10.1142/S0129055X96000226
+
+</pre></div>
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" src="/blog/wp-content/uploads/2023/07/image-1024x116.png" alt="" class="wp-image-2190" width="441" height="50" srcset="/blog/wp-content/uploads/2023/07/image-1024x116.png 1024w, /blog/wp-content/uploads/2023/07/image-300x34.png 300w, /blog/wp-content/uploads/2023/07/image-768x87.png 768w, /blog/wp-content/uploads/2023/07/image-1536x174.png 1536w, /blog/wp-content/uploads/2023/07/image.png 2026w" sizes="(max-width: 441px) 100vw, 441px" /></figure>
+
+
+
+<p>y una serie de papers hasta llegar a (https://arxiv.org/abs/math-ph/9810022v1) una epoca en la que se extinguia el interes por el tema. Para entonces Nam ya estaba dedicandose a supersimetria en aplicaciones más cercanas a particulas, o a veces a teoria M  y sus <a href="https://arxiv.org/abs/hep-th/9707247">aplicaciones</a>:</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" src="/blog/wp-content/uploads/2023/07/image-1-1024x535.png" alt="" class="wp-image-2191" width="334" height="175" srcset="/blog/wp-content/uploads/2023/07/image-1-1024x535.png 1024w, /blog/wp-content/uploads/2023/07/image-1-300x157.png 300w, /blog/wp-content/uploads/2023/07/image-1-768x401.png 768w, /blog/wp-content/uploads/2023/07/image-1.png 1318w" sizes="(max-width: 334px) 100vw, 334px" /></figure>
+
+
+
+<p>Volviendo a mi parte&#8230; Con LJ, Casahorran y Esteve hicieron el <a href="https://lib-extopc.kek.jp/preprints/PDF/1992/9203/9203668.pdf">preprint 91.36</a>, pero no entraron en la cuestion de las deltas porque lamentablemente eso me lo dejaron para mi tesis. Yo examiné cómo variaba la matriz de scattering ante cambios de escala y por tanto determiné todos los potenciales «de contacto» o «con soporte en un punto» que aparecian como lineas de renormalizacion en el sentido de Wilson-Kogut (lo que nos permitió localizar algun error en la nomenclatura de aquella epoca respecto a los «potenciales delta prima»). Por otro lado participé en la clasificación de familias de potenciales que tenian un significado geométrico. Pero no termine de estudiar la supersimetría los distintos casos con soporte en un punto (sección 4.4 de mi <a href="/blog/research/tesis.pdf">tesis</a>), ni como esto se visualizaría en el espacio de teorías a la hora de ir aplicando <a href="https://arxiv.org/abs/hep-th/9411081">transformaciones</a> de escala y renormalización.  No recuerdo ni siquiera los detalles de la seccion 4.4, posiblemente en aquel entonces simplemente estabamos intentando extender los resultados previos que Boya publicó con Sudarshan <a href="https://arxiv.org/abs/hep-th/9410198v1">en 1994</a>.</p>
+
+
+
+<p>Dado que los potenciales de contacto tambien se clasifican via extensiones autoadjuntas que controlan los problemas de dominio de los operadores, es de esperar que Esteve y Casahorran hubieran pensado que los casos de ruptura de supersimetria que ellos estaban clasificando pudieran extenderse con los que ya estaba estudiando, pero por otro lado era una cosa bastante hipotetica dado que estamos hablando de potenciales donde no tienes un espectro discreto infinito con el que jugar. Asi que supongo que al ver que yo no encontraba nada de interes tampoco tiraron ellos para ese lado, pero tampoco llegaron a mencionarme explicitamente que lo investigaramos. O no me di cuenta. La cuestion de la conexion con extensiones autoadjuntas ha sido un tema recurrente en mi antiguo departamento, por ejemplo esta visita reciente en<a href="https://arxiv.org/abs/1510.08136" data-type="URL" data-id="https://arxiv.org/abs/1510.08136"> 2015</a> donde se sugiere una posible conexión general con ruptura espontanea de simetria. Tambien <a href="https://arxiv.org/abs/hep-th/0403048">https://arxiv.org/abs/hep-th/0403048</a>, <a href="https://arxiv.org/abs/2005.09931">https://arxiv.org/abs/2005.09931</a> y en general la tesis y posterior trabajo de <a href="https://arxiv.org/search/math-ph?searchtype=author&amp;query=Munoz-Castaneda%2C+J+M">Muñoz-Castaneda</a>.</p>
+
+
+
+<p>Es tambien curioso que aunque sabiamos de la relacion entre las condiciones de contorno de un segmento y las de un soporte puntal en la linea no hicieramos mas enfasis en las posibles relaciones con condiciones de contorno de una teoria de cuerdas en un limite no relativista, donde no deja de ser una teoria en 1+1. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/un-trabajo-que-deje-sin-hacer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>La complejidad de la formula de Koide</title>
+		<link>/blog/la-complejidad-de-la-formula-de-koide/</link>
+					<comments>/blog/la-complejidad-de-la-formula-de-koide/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Sun, 09 Jul 2023 22:19:04 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">/blog/?p=2133</guid>
+
+					<description><![CDATA[Vamos a asumir que la \(z_0\) y las \(z_n\) del ansatz de Koide pueden tener valores complejos. Por evitarnos un parametro, tomemos que es uno. Podemos poner $$z_n= \cos(\tau)\sqrt{2}\cos\left(\frac{2\pi n}{3} + \delta\right) + i\sin(\tau)\sqrt{2}\cos\left(\frac{2\pi n}{3} + \mu\right)$$ de forma que siguen sumando cero y todavia se cumple que la suma de los \(z_n z_n^*\) es [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+
+
+
+
+<p>Vamos a asumir que la \(z_0\) y las \(z_n\) del ansatz de Koide pueden tener valores complejos. Por evitarnos un parametro, tomemos que  \(z_0 z_0^*\) es uno. Podemos poner</p>
+
+
+
+<p><br>$$<br>z_n=  \cos(\tau)\sqrt{2}\cos\left(\frac{2\pi n}{3} + \delta\right) + i\sin(\tau)\sqrt{2}\cos\left(\frac{2\pi n}{3} + \mu\right)<br>$$<br><br>de forma que siguen sumando cero y todavia se cumple que la suma de los \(z_n z_n^*\) es \( 3 z_0 z_0^*\). Pero nos hemos comido un montón de fases.</p>
+
+
+
+<p>Vamos a ver donde llegamos: primero simplificamos el coseno de las sumas, y añadimos el termino \(z_0\) con una nueva fase r:</p>
+
+
+
+<p><br>$$<br>v_1 = c_r + \sqrt{2}c_\tau\left(-\frac{1}{2}c_\delta &#8211; \frac{\sqrt{3}}{2}s_\delta\right) + i s_r + i\sqrt{2}\left(-\frac{1}{2}c_\mu &#8211; \frac{\sqrt{3}}{2}s_\mu\right)s_\tau<br>$$<br>$$<br>v_2 = c_r + \sqrt{2}c_\tau\left(-\frac{1}{2}c_\delta + \frac{\sqrt{3}}{2}s_\delta\right) + i s_r + i\sqrt{2}\left(-\frac{1}{2}c_\mu + \frac{\sqrt{3}}{2}s_\mu\right)s_\tau<br>$$<br>$$<br>v_3 = c_r + \sqrt{2}c_\delta c_\tau + i s_r + i\sqrt{2}c_\mu s_\tau<br>$$</p>
+
+
+
+<p>Y multiplicando por el conjugado obtenemos las masas  \( m_n = v_n v_n^*\). Se puede comprobar que todavía es cierto que la suma de las tres masas es exactamente seis, cuando el valor absoluto de \(z_0\) es 1. Esto ocurre via el resultado intermedio</p>
+
+
+
+<p>$$<br>m_{\text{sum}} = 3 + 3 c_\delta^2 c_\tau^2 + 3 c_\tau^2 s_\delta^2 + 3 c_\mu^2 s_\tau^2 + 3 s_\mu^2 s_\tau^2<br>$$</p>
+
+
+
+<p>El rango de posibles valores para las masas se puede deducir examinando <br>$$<br>m_3 = 1 + 2 \sqrt{2}c_\delta c_\tau c_r +  2 c_\delta^2 c_\tau^2 +  2 \sqrt{2} c_\mu s_\tau s_r  + 2 c_\mu^2 s_\tau^2<br>$$</p>
+
+
+
+<p>$$<br>m_\text{MAX} = 3 + 2 \sqrt{2} \text{max}(|c_\tau c_r| +  |s_\tau s_r|)  <br>$$</p>
+
+
+
+<p><br> También es todavía fácil determinar los casos donde una masa es cero porque deben anularse por separado la parte real y la parte imaginaria. Por ejemplo si queremos que \( m_3 \) sea cero necesitamos imponer por separado:</p>
+
+
+
+<p>$$ c_r  = &#8211; \sqrt{2}c_\delta c_\tau $$ y $$  s_r  = -\sqrt{2}c_\mu s_\tau$$</p>
+
+
+
+<p>Por lo cual ademas \(1 = 2 (c_\delta^2  c_\tau^2+c_\mu^2 s_\tau^2)\). Podemos aplicar todo ello para las masas 1 y 2, la substitucion nos deja ya con.</p>
+
+
+
+<p></p>
+
+
+
+<p>$$<br>v_1 =  \sqrt{2}c_\tau\left(-\frac{3}{2}c_\delta &#8211; \frac{\sqrt{3}}{2}s_\delta\right)  + i\sqrt{2}\left(-\frac{3}{2}c_\mu &#8211; \frac{\sqrt{3}}{2}s_\mu\right)s_\tau<br>$$</p>
+
+
+
+<p>$$<br>v_2 =   \sqrt{2}c_\tau\left(-\frac{3}{2}c_\delta + \frac{\sqrt{3}}{2}s_\delta\right) +  i\sqrt{2}\left(-\frac{3}{2}c_\mu + \frac{\sqrt{3}}{2}s_\mu\right)s_\tau<br>$$</p>
+
+
+
+<p>$$<br>v_3 = 0<br>$$</p>
+
+
+
+<p>So</p>
+
+
+
+<p>$$m_1= \frac{1}{2} * ( 9 c_\delta^2 c_\tau^2 + 6 \sqrt{3} c_\delta s_\delta  c_\tau^2 + 3 s_\delta^2  c_\tau^2 +  9 c_\mu^2 s_\tau^2 + 6 \sqrt{3} c_\mu s_\mu  s_\tau^2 + 3 s_\mu^2  s_\tau^2 )$$</p>
+
+
+
+<p>$$m_2= \frac{1}{2} * ( 9 c_\delta^2 c_\tau^2 &#8211; 6 \sqrt{3} c_\delta s_\delta  c_\tau^2 + 3 s_\delta^2  c_\tau^2 +  9 c_\mu^2 s_\tau^2 &#8211; 6 \sqrt{3} c_\mu s_\mu  s_\tau^2 + 3 s_\mu^2  s_\tau^2 )$$</p>
+
+
+
+<p>La suma de las tres masas es </p>
+
+
+
+<p>$$m_1+m_2+m_3=3  ( 3 c_\delta^2 c_\tau^2 + s_\delta^2  c_\tau^2 +  3 c_\mu^2 s_\tau^2 + s_\mu^2  s_\tau^2 ) $$ lo que nos indica que los terminos en el parentesis deberian sumar 2&#8230; De hecho aplicando la igualdad adicional, vemos que </p>
+
+
+
+<p>$$m_1+m_2+m_3=3  ( 1 + c_\delta^2 c_\tau^2 + s_\delta^2  c_\tau^2 +  c_\mu^2 s_\tau^2 + s_\mu^2  s_\tau^2 ) = 3 (1 + ( c_\tau^2 +  s_\tau^2))= 6$$</p>
+
+
+
+<p>Asi que por ese lado todo bien. El problema es que ahora hay mas libertad que en el caso real. Tenemos:</p>
+
+
+
+<p>$$m_1=3 * (\sqrt{3} c_\delta s_\delta  c_\tau^2  +\sqrt{3} c_\mu s_\mu  s_\tau^2 +  1 )$$</p>
+
+
+
+<p>$$m_2= 3 * ( -\sqrt{3} c_\delta s_\delta  c_\tau^2   -\sqrt{3} c_\mu s_\mu  s_\tau^2 +  1  )$$</p>
+
+
+
+<p>$$2 (c_\delta^2  c_\tau^2+c_\mu^2 s_\tau^2 )=1$$<br><br>O, en terminos de angulos dobles:</p>
+
+
+
+<p>$$m_1=3/2 * (\sqrt{3} s_{2\delta}  c_\tau^2  +\sqrt{3} s_{2 \mu}  s_\tau^2 +  2 )$$</p>
+
+
+
+<p>$$m_2= 3/2 * ( -\sqrt{3} s_{2\delta}  c_\tau^2   -\sqrt{3}  s_{2\mu}  s_\tau^2 +  2 )$$</p>
+
+
+
+<p>$$c_{2\delta}  c_\tau^2+ c_{2\mu} s_\tau^2 =0$$</p>
+
+
+
+<p>y ahora podemos estudiar en qué condiciones, en funcion de \(\delta\) y \(\mu\), se garantiza que todos los senos y cosenos cuadrado esten entre cero y uno.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://www.wolframcloud.com/obj/ec9fb8f1-af6e-43f3-876c-15013956b39a" alt=""/></figure>
+
+
+
+<p>Las zonas excluidas son aquellas en las que la hipotesis de partida, \(m_3 = 0\), es imposible. Por ejemplo si tanto \(\delta\) como \(\mu\) son cero, entonces  </p>
+
+
+
+<p>$$<br>v_3 = c_r + \sqrt{2} c_\tau + i s_r + i\sqrt{2} s_\tau<br>$$</p>
+
+
+
+<p>$$<br>m_3 = 3 + 2 \sqrt 2 ( c_r c_\tau  + s_r s_\tau) > 0.17157&#8230; <br>$$</p>
+
+
+
+<p>Obsérvese también que según en qué cuadrante estén  \(\delta\) y \(\mu\)  puede llegarse a obtener una tupla (0, m, m), algo que no podemos lograr con la ecuación de Koide.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/la-complejidad-de-la-formula-de-koide/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

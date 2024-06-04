@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>m theory &#8211; Incidencias</title>
+	<atom:link href="/blog/tag/m-theory/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Thu, 18 Jan 2018 12:36:12 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Families from USp(32)</title>
+		<link>/blog/families-from-usp32/</link>
+					<comments>/blog/families-from-usp32/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Mon, 08 Jan 2018 10:30:54 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[grand unification]]></category>
+		<category><![CDATA[m theory]]></category>
+		<category><![CDATA[string theory]]></category>
+		<category><![CDATA[superstrings]]></category>
+		<category><![CDATA[theory of everything]]></category>
+		<category><![CDATA[wrong turn]]></category>
+		<guid isPermaLink="false">/blog/?p=1358</guid>
+
+					<description><![CDATA[The same trick to descent to three generations can be done starting from the 495 of Sp(32). We are on it, as usual, in physicsforums  https://www.physicsforums.com/threads/the-wrong-turn-of-string-theory-our-world-is-susy-at-low-energies.485247/page-13#post-5913658 As noted there, we still lack of a variant showing the L-R chirality of the SM.  I wonder if we could use some exotic models from E6 or E8 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>The <a href="/blog/families-from-so32/">same trick</a> to descent to three generations can be done starting from the 495 of Sp(32). We are on it, as usual, in physicsforums</p>
+<p><a href="https://www.physicsforums.com/threads/the-wrong-turn-of-string-theory-our-world-is-susy-at-low-energies.485247/page-13#post-5913658"> https://www.physicsforums.com/threads/the-wrong-turn-of-string-theory-our-world-is-susy-at-low-energies.485247/page-13#post-5913658</a></p>
+<p>As noted there, we still lack of a variant showing the L-R chirality of the SM.  I wonder if we could use some exotic models from E6 or E8 for this. Particularly I am thinking on some innovative usage of the 27-dim irrep of E6, perhaps decoloring it so that all the three generations can be put where colour usually is. It could be interesting for instance if it goes to 24+3 purging the +4/3 quarks.</p>
+<p>Models based on non commutative geometry with octonions or Jordan Algebras could be interesting to look at, for this task. Perhaps https://arxiv.org/abs/1604.01247 or something with hints of composite higgses.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/families-from-usp32/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>wrong turns</title>
+		<link>/blog/wrong-turns/</link>
+					<comments>/blog/wrong-turns/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Tue, 25 Jul 2017 13:03:05 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[grand unification]]></category>
+		<category><![CDATA[m theory]]></category>
+		<category><![CDATA[string theory]]></category>
+		<category><![CDATA[superstrings]]></category>
+		<category><![CDATA[theory of everything]]></category>
+		<category><![CDATA[wrong turn]]></category>
+		<guid isPermaLink="false">/blog/?p=1322</guid>
+
+					<description><![CDATA[Woit (What the Hell is Going On?) and Motl (wrong-turn-basins-gut-critics) have sparked a new round of the discussion on the existence, or not, of a wrong turn in the development of theoretical particle physics. The excuse this time is some comments of Nima Arkani-Hamed in a couple of recent lectures, but the running joke is [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Woit (<a href="http://www.math.columbia.edu/~woit/wordpress/?p=9444">What the Hell is Going On?</a>) and Motl (<a href="http://motls.blogspot.com.es/2017/07/wrong-turn-basins-gut-critics-and.html">wrong-turn-basins-gut-critics</a>) have sparked a new round of the discussion on the existence, or not, of a wrong turn in the development of theoretical particle physics. The excuse this time is some comments of Nima Arkani-Hamed in a couple of <a href="https://www.youtube.com/watch?v=dKVXxcbJ4YY">recent lectures</a>, but the running <a href="http://insti.physics.sunysb.edu/~siegel/parodies/sam/sam.html">joke</a> is already old, that something broke down around 1973-74.</p>
+<p>When this discussion happened <a href="https://www.physicsforums.com/threads/the-rovelli-point-of-wrong-turn.124999/">in 2006</a>, inspired by Rovelli&#8217;s hep-th/0310077, I proposed two examples of -arguable- wrong turns: one in the seventies with the different interpretations of the meaning of renormalizability, and one centuries ago in the Principia, with the decision, after some discarded drafts, of corfirming angular momentum as a fluent quantity, allowing for infinitesimal changes. The moral of the examples was that even after the long way we eventually return to the right route, and with a lot of mathematical and physical stuff actually useful, collected along the path.</p>
+<p>Them in 2011 I opened more specifically «The wrong turn of string theory», suggesting that it had been in mid 1970 the neglecting of its use as a theory of mesons, and that other way could have been the pairing of such mesons with their components, in an emulated, and recursive, sort of supersymmetry. Well, <a href="https://www.physicsforums.com/threads/the-wrong-turn-of-string-theory-our-world-is-susy-at-low-energies.485247/page-13">13 pages and some summers later</a> on this path, I found myself playing with group representations having 496 components as the best way to impose the needed symmetry. Perhaps there are some deep valleys across and bridges need to be deployed, but at the end it looks as that the destination allows for a number of turns, and it is a mater of taste to claim which ones are wrong.</p>
+<p>Minute <a href="https://www.youtube.com/watch?v=dKVXxcbJ4YY&amp;t=3365s">0:56:12</a> of the first talk is specially hillarious because Nima is directly naming -and dismissing as random- the only known case where a boson and a fermion of the same charge were found having the same approximate mass, all of it under a title «Where in the World are SUSY». I mean, pion-muon. Then he in the next phrase dismisses the next case, charmonium-tau. And it does not even pauses to notice the joke; I had expected at least a punchline «These are not the scalars you are looking for»</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/wrong-turns/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Families from SO(32)</title>
+		<link>/blog/families-from-so32/</link>
+					<comments>/blog/families-from-so32/#comments</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Wed, 19 Jul 2017 12:49:18 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[grand unification]]></category>
+		<category><![CDATA[m theory]]></category>
+		<category><![CDATA[string theory]]></category>
+		<category><![CDATA[superstrings]]></category>
+		<category><![CDATA[theory of everything]]></category>
+		<category><![CDATA[wrong turn]]></category>
+		<guid isPermaLink="false">/blog/?p=1245</guid>
+
+					<description><![CDATA[$latex \begin{array}{llll} 496=\\ {\bf (1,24,1^c) }&#38;+{\bf [1,15,\bar 3^c]}&#38;+{\bf [1, \bar {15}, 3^c]}&#38;+\\ 1,24,8^c&#38;+[1,10,\bar 6^c]&#38;+[1,\bar {10},6^c]&#38;+\\ (1,1,8^c)&#38;&#38;&#38;+\\&#38;(2,5,3^c)&#38;+(2,\bar 5,\bar 3^c)&#38;+\\ &#38;(1,1,1^c)&#38;+[1,1,1^c]\\ \end{array} $ (or from SO(30), or perhaps just O(10)xU(3) or U(5)xU(3)) Point is, the first three lines seem to contain three generations with electric and colour charge. It is possible to break the 24 and 15 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>$latex<br />
+\begin{array}{llll}<br />
+496=\\<br />
+{\bf (1,24,1^c) }&amp;+{\bf [1,15,\bar 3^c]}&amp;+{\bf [1, \bar {15}, 3^c]}&amp;+\\<br />
+1,24,8^c&amp;+[1,10,\bar 6^c]&amp;+[1,\bar {10},6^c]&amp;+\\<br />
+(1,1,8^c)&amp;&amp;&amp;+\\&amp;(2,5,3^c)&amp;+(2,\bar 5,\bar 3^c)&amp;+\\<br />
+&amp;(1,1,1^c)&amp;+[1,1,1^c]\\<br />
+\end{array}<br />
+$</p>
+<p>(or from SO(30), or perhaps just O(10)xU(3) or U(5)xU(3))</p>
+<p>Point is, the first three lines seem to contain three generations with<br />
+electric and colour charge. It is possible to break the 24 and 15<br />
+from su5 to su3 + su2, and then identify the electric charge.</p>
+<p>$latex<br />
+\begin{array}{lrrcrr}<br />
+&amp; Q_1 &amp; Q_2 &amp; su3 + su2 &amp; Q_3 &amp; N \\<br />
+(1,24,1^c) &amp;0&amp;0&amp; (8, 1) + (1, 3) +(1, 1)&amp;0 &amp; 12\\<br />
+&amp; 0 &amp; 0 &amp; (3,2) &amp; 5 &amp; 6\\<br />
+&amp; 0 &amp; 0 &amp; (\bar 3,2) &amp; -5 &amp;6\\<br />
+(1,15,\bar 3^c)&amp;0&amp;4&amp;(\bar 6,1)&amp;4&amp;6\\<br />
+&amp;0&amp;4&amp;(3,2)&amp;-1&amp;6\\<br />
+&amp;0&amp;4&amp;(1,3)&amp;-6&amp;3\\<br />
+(1, \bar {15}, 3^c)&amp;0&amp;-4&amp;\\<br />
+(1,24,8^c)&amp;0&amp;0&amp;\\<br />
+(1,10,\bar 6^c)&amp;0&amp;4&amp;(\bar 3,1)&amp;4\\<br />
+&amp;0&amp;4&amp;(3,2)&amp;-1\\<br />
+&amp;0&amp;4&amp;(1,1)&amp;-6\\<br />
+(1,\bar {10},6^c)&amp;0&amp;-4&amp;\\<br />
+(1,1,8^c)&amp;0&amp;0&amp;\\<br />
+(2,5,3^c)&amp;2&amp;\pm 2&amp;(3,1)&amp;2\\<br />
+&amp;2&amp;\pm 2&amp;(1,2)&amp;-3\\<br />
+(2,\bar 5,\bar 3^c)&amp;-2&amp;\pm 2&amp;\\<br />
+(1,1,1^c)&amp;0&amp;\\<br />
+(1,1,1^c)&amp;0&amp;<br />
+\end{array}<br />
+$</p>
+<p>We can choose 4(Q2+Q3)=-2/3 and Q3=-1/5 or 4(Q2+Q3)=1/3 and Q3=1/5</p>
+<p>Honest problem is, I do not know how to identify weak isospin, nor weak hypercharge,<br />
+given that we are looking, I guess, to scalars. Perhaps the repr is too big, doubled?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/families-from-so32/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>«No room for self-referring vague half-elementary, half-composite particles»</title>
+		<link>/blog/no-room-for-self-referring-vague-half-elementary-half-composite-particles/</link>
+					<comments>/blog/no-room-for-self-referring-vague-half-elementary-half-composite-particles/#comments</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Sun, 18 Jun 2017 21:15:19 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[grand unification]]></category>
+		<category><![CDATA[m theory]]></category>
+		<category><![CDATA[string theory]]></category>
+		<category><![CDATA[superstrings]]></category>
+		<category><![CDATA[theory of everything]]></category>
+		<category><![CDATA[wrong turn]]></category>
+		<guid isPermaLink="false">/blog/?p=731</guid>
+
+					<description><![CDATA[Comment to a post from Lubos in his blog. Copy paste for reference. http://motls.blogspot.com.es/2017/02/revival-of-bootstrap.html#comment-3171556156 As here you could be stressing the criticism of a comment ten years ago, allow me just a reminder for the people who was not here at that time. We set V as a five, (u,d,s,c,b), of SU(5). Then we go [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Comment to a post from Lubos in his blog. Copy paste for reference.</p>
+<p><a href="http://motls.blogspot.com.es/2017/02/revival-of-bootstrap.html#comment-3171556156">http://motls.blogspot.com.es/2017/02/revival-of-bootstrap.html#comment-3171556156</a></p>
+<p>As here you could be stressing the criticism of a comment ten years ago, allow me just a reminder for the people who was not here at that time. We set V as a five, (u,d,s,c,b), of SU(5). Then we go for composite scalars: the 24 out of V x V* = 24 +1 has six of charge +1, twelve neutrals and six of charge -1. The 15 out of V<em>xV</em>=15+10 has six of charge +2/3, six of charge -1/3, and three of 4/3. So this is the scalar content of three generations of the Supersymetrical Standard Model, except for the chiral 4/3 beastie.</p>
+<p>This «Nuclear superdemocracy» actually fixes the number of generations because you can not make the same with any, only with N=3 and one «top» quark out of the set. Not a thing that Chew could have attempted in the sixties, with only u,d,s and no argument to look for squarks nor sleptons.</p>
+<p>A peculiar coincidence is that the «fake sleptons», this is, the actual mesons bound with SU(3) colour, have approximately the same mass that the actual fermions, which is amusing when one considers that the origin of the mass is completely different: yukawas + higgs on one side, pure QCD on the other.</p>
+<p><img decoding="async" src="https://pbs.twimg.com/media/BRzvdCECUAIUBik.jpg" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/no-room-for-self-referring-vague-half-elementary-half-composite-particles/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>bootstraping a space from its tensor square</title>
+		<link>/blog/bootstraping-a-space-from-its-tensor-square/</link>
+					<comments>/blog/bootstraping-a-space-from-its-tensor-square/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Sat, 04 Feb 2017 18:12:45 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[grand unification]]></category>
+		<category><![CDATA[m theory]]></category>
+		<category><![CDATA[string theory]]></category>
+		<category><![CDATA[superstrings]]></category>
+		<category><![CDATA[theory of everything]]></category>
+		<category><![CDATA[wrong turn]]></category>
+		<guid isPermaLink="false">/blog/?p=1203</guid>
+
+					<description><![CDATA[Consider the tensor square r?r of an irreducible group representation r with itself, and decompose it as irreducible representations. What can we said about the circumstance of finding the initial representation in the list? Or perhaps about finding its conjugate, as for instance in E6: 27?27=351?(27¯?351¯) What groups have representations having this «bootstraping»? Can the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Consider the tensor square r?r of an irreducible group representation r with itself, and decompose it as irreducible representations. What can we said about the circumstance of finding the initial representation in the list? Or perhaps about finding its conjugate, as for instance in E6:</p>
+<p>27?27=351?(27¯?351¯)</p>
+<p>What groups have representations having this «bootstraping»? Can the irrep appear in both parts, symmetric and alternating, of the tensor square? Does it appear in an unique way, or can it be extracted from different combinations of the roots?</p>
+<p>Similarly, consider the tensor square A?2 of an algebra. Are there situations where the new algebra does contain the initial one as a subalgebra in a non trivial way? This seems to generalise the question of generating an algebra from a finite number of elements and its n-times product, call it A×n, but perhaps it is not more general&#8230; still I wonder what can be said generically about such action. What I am expecting is that some ideal J can be chosen in<br />
+A?2 such that the quotient recovers the initial algebra. Or some similar mechanism, anyway.</p>
+<p>The motivation of the post to be in BSM is, of course, my old observation that by choosing five quarks, out of all the set of three particle generations of the standard model, and pairing them we seem to be able to recover the full three generations, and I wondering if this phenomena could be tracked to some peculiar property in mathematical representation. Thinking it also in algebraic terms is interesting because the attempts to get generations out of the exceptional jordan algebra h3(O) or its twin h3(C?O) have some extra matter in the diagonal, an issue that also happens in the naive pairing.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/bootstraping-a-space-from-its-tensor-square/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Recopilando y poniendo orden en 84</title>
+		<link>/blog/recopilando-y-poniendo-orden-en-84/</link>
+					<comments>/blog/recopilando-y-poniendo-orden-en-84/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Mon, 13 Oct 2014 22:05:00 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[grand unification]]></category>
+		<category><![CDATA[m theory]]></category>
+		<category><![CDATA[string theory]]></category>
+		<category><![CDATA[superstrings]]></category>
+		<category><![CDATA[theory of everything]]></category>
+		<category><![CDATA[wrong turn]]></category>
+		<guid isPermaLink="false">/blog/?p=756</guid>
+
+					<description><![CDATA[Very drafty, hoy. Thinking aloud y todo eso. Ok, empezemos buscando en SO(9) un U(1) que se parezca a B-L. La irrep 9 descompone a SU(4) x SU(2): 9 &#8212;&#62; (1,3)+(6,1) Y el sextete de SU(4) descompone a SU(3)xU(1) (3)(-2)+(Overscript[3, _])(2) Por otro lado, tambien podriamos descomponer el triplete de SU(2), simplemente a un U(1): ((2))+((0))+((-2)) [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Very drafty, hoy. Thinking aloud y todo eso.</p>
+<p>Ok, empezemos buscando en SO(9) un U(1) que se parezca a B-L.</p>
+<p>La irrep 9 descompone a SU(4) x SU(2):</p>
+<p>9 &#8212;&gt; (1,3)+(6,1)</p>
+<p>Y el sextete de SU(4) descompone a SU(3)xU(1)</p>
+<p>(3)(-2)+(Overscript[3, _])(2)</p>
+<p>Por otro lado, tambien podriamos descomponer el triplete de SU(2), simplemente a un U(1):</p>
+<p>((2))+((0))+((-2))</p>
+<p>No estoy seguro de que realmente tengan la misma normalizacion, asi que voy a poner un factor «k» entre la carga U(1) que viene del triplete y la que viene del sextete).  Con ello, tendriamos que los nueve elementos de la fundamental de SO(9) tendrian carga</p>
+<p>2k, 2, 2, 2, 0, -2, -2, -2 -2k</p>
+<p>La fundamental de SU(4) descompone en (1)(-3)+(3)(1). Lo tradicional es normalizar de forma que el triplete de SU(3) tenga numero B-L igual a 1/3.  Asi que nuestros nueve elementos en la normalizacion usual (posiblemente habria sido mejor idea dividir entre otro factor dos, ademas) serian:</p>
+<p>2k/3, 2/3, 2/3, 2/3, 0, -2/3, -2/3, -2/3, -2k/3</p>
+<p>Ahora, vamos a construir un 84 tomando todas las posibles combinaciones de tres elementos, y asumiendo que este numero es aditivo. Nos sale una tabla:</p>
+
+<table id="tablepress-4" class="tablepress tablepress-id-4">
+<tbody class="row-hover">
+<tr class="row-1 odd">
+	<td class="column-1">abb</td><td class="column-2">2k/3+4/3</td><td class="column-3">3</td><td class="column-4">(15,3)</td>
+</tr>
+<tr class="row-2 even">
+	<td class="column-1">abc</td><td class="column-2">2k/3+2/3</td><td class="column-3">3</td><td class="column-4">(6,3)</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1">abd</td><td class="column-2">2k/3</td><td class="column-3">9</td><td class="column-4">(15,3)</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1">bbb</td><td class="column-2">2</td><td class="column-3">1</td><td class="column-4">(10,1)+(10,1)</td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1">acd</td><td class="column-2">2k/3-2/3</td><td class="column-3">3</td><td class="column-4">(6,3)</td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-1">bbc</td><td class="column-2">4/3</td><td class="column-3">3</td><td class="column-4">(15,3)</td>
+</tr>
+<tr class="row-7 odd">
+	<td class="column-1">bbd</td><td class="column-2">2/3</td><td class="column-3">9</td><td class="column-4">(10,1)+(10,1)</td>
+</tr>
+<tr class="row-8 even">
+	<td class="column-1">abe</td><td class="column-2">2/3</td><td class="column-3">3</td><td class="column-4">(6,3)</td>
+</tr>
+<tr class="row-9 odd">
+	<td class="column-1">add</td><td class="column-2">2k/3-4/3</td><td class="column-3">3</td><td class="column-4">(15,3)</td>
+</tr>
+<tr class="row-10 even">
+	<td class="column-1">bcd</td><td class="column-2">0</td><td class="column-3">9</td><td class="column-4">(15,3)</td>
+</tr>
+<tr class="row-11 odd">
+	<td class="column-1">ace</td><td class="column-2">0</td><td class="column-3">1</td><td class="column-4">(1,1)</td>
+</tr>
+<tr class="row-12 even">
+	<td class="column-1">bbe</td><td class="column-2">-2k/3+4/3</td><td class="column-3">3</td><td class="column-4">(15,3)</td>
+</tr>
+<tr class="row-13 odd">
+	<td class="column-1">ade</td><td class="column-2">-2/3</td><td class="column-3">3</td><td class="column-4">(6,3)</td>
+</tr>
+<tr class="row-14 even">
+	<td class="column-1">bdd</td><td class="column-2">-2/3</td><td class="column-3">9</td><td class="column-4">(10,1)+(10,1)</td>
+</tr>
+<tr class="row-15 odd">
+	<td class="column-1">cdd</td><td class="column-2">-4/3</td><td class="column-3">3</td><td class="column-4">(15,3)</td>
+</tr>
+<tr class="row-16 even">
+	<td class="column-1">bce</td><td class="column-2">-2k/3+2/3</td><td class="column-3">3</td><td class="column-4">(6,3)</td>
+</tr>
+<tr class="row-17 odd">
+	<td class="column-1">ddd</td><td class="column-2">-2</td><td class="column-3">1</td><td class="column-4">(10,1)+(10,1)</td>
+</tr>
+<tr class="row-18 even">
+	<td class="column-1">bde</td><td class="column-2">-2k/3</td><td class="column-3">9</td><td class="column-4">(15,3)</td>
+</tr>
+<tr class="row-19 odd">
+	<td class="column-1">cde</td><td class="column-2">-2k/3-2/3</td><td class="column-3">3</td><td class="column-4">(6,3)</td>
+</tr>
+<tr class="row-20 even">
+	<td class="column-1">dde</td><td class="column-2">-2k/3-4/3</td><td class="column-3">3</td><td class="column-4">(15,3)</td>
+</tr>
+</tbody>
+<tfoot>
+<tr class="row-21 odd">
+	<th class="column-1"></th><th class="column-2">total:</th><th class="column-3">84</th><th class="column-4">-->SU(4)xSU(2)</th>
+</tr>
+</tfoot>
+</table>
+<!-- #tablepress-4 from cache -->
+<p>Que en principio es bastante satisfactoria. Por ejemplo, con k=1 podriamos separar los elementos de carga entera de los de carga fraccionaria y el numero de componentes seria de 24 + 60, consistente con tres generaciones de leptones y cinco sabores de quarks, esto es, excluyendo el quark top.  Ello hace que el tensor totalmente antisimetrico de D=11 SUGRA sea muy apetecible como un mecanismo para proteger la masa de los fermiones del modelo estandar. Podria preocupar que SO(9) no tenga representaciones quirales, pero estamos jugando con color, carga electrica y numeros barionico y leptonico, que no necesitan que el grupo tenga representaciones complejas; aun asi el propio termino de masas no deja de ser algo que va de una quiralidad a la otra y se hace raro, pero de momento dejamos aparcada esa cuestion.</p>
+<p>Un poco mas preocupante es que la descomposicion directa de la 84 de SO(9) no hace tan visible esta tabla:</p>
+<p>84 = (1, 1) + (6, 3) + (10, 1) + (<span style="text-decoration: underline;">10</span>, 1) + (15, 3)</p>
+<p>¿como se reunen los elementos anteriores para formar los decupletes y hasta el triplete de quinces? La dependencia que hemos dejado en k no la verian en esta otra descompsicion ni los singletes de SU(2) ni el elemento central de los dos tripletes, eso es, solo la verian 12 componetes de (6,3) y 30 componentes de (15,3), un total de 42. .. que en efecto es el numero de componentes que dependen de k, pero siendo que es justo la mitad, no queda claro si ha sido solo casualidad.</p>
+<p>Fijandonos en los singletes podemos hacer mas asignaciones: (1,1)  ha de ser ace, que no ve el SU(4), y los decupletes (10,1) y (bar10, 1) podrian ser los elementos compuestos excusivamente de b y d, por tanto ciegos a SU(2). De hecho suman 20: bbb, bbd, ddb,ddd.</p>
+<p>Nos quedan pues otros 21, tambien en (6,3)+(15,3), que serian bbc 3 , abe 3 , bcd 9, cdd 3 , ade 3. El bcd esta forzosamente en (15,3).</p>
+<p>Veamos si el siguiente paso de los branching aclara las cosas. Los decupletes, al caer de SU(4) a SU(3)xU(1), se dividen en (1)(?6) + (3)(?2) + (6)(2). El sextete cae a (3)(?2) + (3)(2), y el 15 a (1)(0) + (3)(4) + (3)(?4) + (8)(0).  Las cargas parecen encajar si ponemos abe y ade en el (6,3) y dejamos en (15,3) los doblemente cargados bbc y cdd junto con bcd.</p>
+<p>En los decupletes, el asunto se complica, y parece que aqui lo de jugar con representacion y conjugada nos hace una mala pasada. Pareciera que podemos poner bbb y ddd a las cargas +6,-6&#8230;. pero de alguna manera bbd y dbb estarian a caballo entre las dos representaciones.</p>
+<p>Tambien me pregunto si en realidad es obligatorio hacer todo el paseillo de descomposicion o basta con asignar a los nueve elementos una carga y ver que sale. Sobre todo por asignar cargas asimetricas, dado que otra cosa que me interesa es dejar protegido al top pero desprotegidos a los neutrinos&#8230;</p>
+<p>Me explico: en Teoria M (¡hala, ya salio!) tenemos realmente dos 84 que son duales entre si. Uno es el campo de Ramond de la M2-brana y otro, tensor antisimetrico de seis componentes, seria el campo de la M5-brana. Estaria bien que la operacion de dualizar intercambiara la proteccion «de masa de Dirac» por la proteccion «de masa de Majorana». Esta ultima no es en el fondo mas que dar carga no nula a las particulas, para que no puedan ser iguales a su antiparticula.</p>
+<p>En este segundo caso en vez de la division 24 + 60 deberiamos encontrar una 12 + 72, con solo los neutrinos desprotegidos, o incluso una 6+78, con solo los neutrinos «right» desprotegidos.</p>
+<p>===========================A partir de aqui son notas (todavia más) sueltas</p>
+<p><span id="more-756"></span></p>
+<p>&nbsp;</p>
+<p>so in su3xsu2(u1):</p>
+<p>(1,1) (0?)<br />
+(3,3)(?2) + (-3,3)(2)<br />
+(1,1)(?6) + (3,1)(?2) + (6,1)(2)<br />
+(1,1)(?6) + (3,1)(?2) + (6,1)(2) o signo opuesto?<br />
+(1,3)(0) + (3,3)(4) + (-3,3)(?4) + (8,3)(0)</p>
+<p>de SU(3)&#8230;<br />
+3 octetes<br />
+2 sextetes.<br />
+14 tripletes<br />
+6 singletes</p>
+<p>so that 6+14<em>3+2</em>6+3*8 = 6+ 42 + 12 + 24 =</p>
+<p>por abs(carga??? O B-L number?):</p>
+<p>0: 28 (1,1), (1,3), (8,3)<br />
+2: 36 (3,3), (-3,3) (3,1) (6,1) (-?3,1) (-?6,1)<br />
+4: 18 (3,3), (3,-3)<br />
+6: 2 (1,1), (1,1)</p>
+<p>buscamos 84 = 12 + 72 vs 84 = 24 + 60 (y 60=24+36)</p>
+<p>k=0 divide en 12 + 72, claro. Lo mismo k=3 etc.</p>
+<p>k=2 divide en 24 + 60 de otra manera</p>
+<p>k=1/2 divide en 18 + 66 que podria ser mas apropiado para majorana.</p>
+<p>en general tenemos  fijos 12 + 30 y variando con k tenemos 42</p>
+<p>Por cierto, hay un paquetillo en mathematica llamado &lt;&lt; LieART` que si bien no permite mostrar representaciones explicitas de los grupos de matrices, ni encadenar descomposiciones, al menos viene bien para generar las que no salen en la tabla del Slansky.</p>
+<p>Ademas de las observaciones de Ramond sobre 84, es interesante echarles un vistazo a las de Boya en  math-ph/0409077. pdf y similares. En particular Luis Joaquin nota que</p>
+<p>84=120-36 = 105-21</p>
+<p>y argumenta que existe una variedad M84 que aparece tanto en la construccion Spin(7)&#8212;&gt;SO(15)&#8212;-&gt; M84 (la segunda resta) como en Spin(9)&#8212;-&gt;SO(16)&#8212;&#8211;&gt;M84  (la primera).</p>
+<p>SO(7) tiene tambien otro papel por cierta coincidencia: Uno podria dividir un tensor antisimetrico Aijk de 11 dimensiones (no de 9, ojo) en 4+7 haciendo que el primer indice tome valores en 1..4 y el resto en las otras siete, de 5 a 11. Tal tensor tambien tendria pues 84 componentes, aunque parecen ser mas bien cuatro copias de la 21 de SO(7).</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/recopilando-y-poniendo-orden-en-84/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>extractos del blog de physicsforums</title>
+		<link>/blog/extractos-del-blog-de-physicsforums/</link>
+					<comments>/blog/extractos-del-blog-de-physicsforums/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Fri, 22 Aug 2014 23:25:00 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[grand unification]]></category>
+		<category><![CDATA[m theory]]></category>
+		<category><![CDATA[physicsforums]]></category>
+		<category><![CDATA[string theory]]></category>
+		<category><![CDATA[superstrings]]></category>
+		<category><![CDATA[theory of everything]]></category>
+		<category><![CDATA[wrong turn]]></category>
+		<guid isPermaLink="false">/blog/?p=749</guid>
+
+					<description><![CDATA[Parece ser que en septiembre se borra el blog personal que existia en physicsforums. Afortunadamente solo tenia seis entradas, y por eso de no perderlas de vista las copio aqui. &#160; when did I solve the origin of generations? Posted Sep28-09 at 05:48 PM by arivero I though it was after 2007, because when in December [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Parece ser que en septiembre se borra el blog personal que existia en physicsforums. Afortunadamente solo tenia seis entradas, y por eso de no perderlas de vista las copio aqui.</p>
+<p>&nbsp;</p>
+<h1 id="blog_title" style="color: #333333;">when did I solve the origin of generations?</h1>
+<div class="smallfont shade" style="color: #777777;"><span class="shade" style="color: #777777;">Posted Sep28-09 at 05:48 PM by</span> <a style="color: #00588e;" href="http://www.physicsforums.com/blog.php?u=81">arivero</a></div>
+<div style="color: #333333;"></div>
+<hr style="color: #d1d1e1;" size="1" />
+<div id="blog_message" style="color: #333333;">
+<p>I though it was after 2007, because when in December 2006 the topic was raised by Alain Connes, I just answered the usual folklore: «You need at least three for CP violation».</p>
+<p>But in July 2005 I raise the topic of composite supersymmetry in this blog post<br />
+<a style="color: #00588e;" href="http://conjeturas.blogia.com/2005/072001-es-el-pion-un-partner-susy-del-muon-.php" target="_blank" rel="nofollow noopener">http://conjeturas.blogia.com/2005/07&#8230;-del-muon-.php</a><br />
+(regretly my other blog, «El ultimo hovercraft», was lost after a wrong backup)<br />
+The my webpage has a pdf dated</p>
+<p><a style="color: #00588e;" href="http://dftuz.unizar.es/~rivero/research/susy.pdf" target="_blank" rel="nofollow noopener">http://dftuz.unizar.es/~rivero/research/susy.pdf</a></p>
+<p>so it seems I was still in Teruel, 38 years old, when I noticed the role of composite susy. Still, I didn&#8217;t mention it to the public until december<br />
+<a style="color: #00588e;" href="http://arxiv.org/abs/hep-ph/0512065" target="_blank" rel="nofollow noopener">http://arxiv.org/abs/hep-ph/0512065</a></p>
+<p>Then in summer 2006 I left Teruel and go underground in England, then back to Zaragoza in January 2007. I remember I was obsesed by the «fermion cube» on one side, and also by some path to implement supersymmetry in spectrar triples.</p>
+<p>Two years later, <a style="color: #00588e;" href="http://arxiv.org/abs/0710.1526" target="_blank" rel="nofollow noopener">http://arxiv.org/abs/0710.1526</a> was basically the same content, except that by now I was convinced about kaluza klein and I was thinking that the problem of fitting (broken) SU(2) in the 10-dimensional space time was related to the three 4/3 particles I needed to get rid off, and whole only possible arrangement is chiral (and they are charged, at least back in 4D, so it is not clear if they can be majorana-arranged&#8230;).</p>
+</div>
+<div style="color: #333333;"></div>
+<div style="color: #333333;"></div>
+<div style="color: #333333;">
+<h1 id="blog_title">Koide doublets?</h1>
+<div class="smallfont shade" style="color: #777777;"><span class="shade" style="color: #777777;">Posted Oct20-09 at 09:30 AM by</span> <a style="color: #00588e;" href="http://www.physicsforums.com/blog.php?u=81">arivero</a></div>
+<div></div>
+<hr style="color: #d1d1e1;" size="1" />
+<div id="blog_message">From a point of view, there are no Koide doublets. If we define Koide&#8217;s relationship as coming from three matrix conditions:<br />
+M^{1/2}= A + B</p>
+<div class="MathJax_Display"></div>
+<div class="MathJax_Display">with</div>
+<p>1) A multiple of the identity<br />
+2) B traceless<br />
+3) <span id="MathJax-Span-18" class="mi" style="font-style: italic;">T</span><span id="MathJax-Span-19" class="mi" style="font-style: italic;">r</span><span id="MathJax-Span-20" class="mo">(</span><span id="MathJax-Span-21" class="msubsup"><span id="MathJax-Span-22" class="mi" style="font-style: italic;">A^</span><span id="MathJax-Span-23" class="mn">2</span></span><span id="MathJax-Span-24" class="mo">)</span><span id="MathJax-Span-25" class="mo">=</span><span id="MathJax-Span-26" class="mi" style="font-style: italic;">T</span><span id="MathJax-Span-27" class="mi" style="font-style: italic;">r</span><span id="MathJax-Span-28" class="mo">(</span><span id="MathJax-Span-29" class="msubsup"><span id="MathJax-Span-30" class="mi" style="font-style: italic;">B^</span><span id="MathJax-Span-31" class="mn">2</span></span><span id="MathJax-Span-32" class="mo">)</span></p>
+<p>Then the 3 in the 3/2 factor is really the dimension of the matrix, and thus the factor is 2/2 for Koide&#8217;s doublets and 1/2 for Koide «singlets». So in this sense there are no Koide doublets.</p>
+<p>If we consider that Koide&#8217;s is about «45 degrees off from (1,1,1)» the result is the same: the 3 comes from the number of components of (1,1,1). Visually, it is trivial, that 45 degrees off from (1,1) one of the components is going to dissapear.</p>
+<p>So the only extand posibility is to consider that a doublet is a triplet with a massless component. If we do the scan in this way, we find two interesting doublets, one composed by eta&#8217; and upsilon, and other composed by pion and D. Also, the kaon seem able to contribute to some doublet or triplet, but there are no a good match. Same in the barions, with Lambdas. And that is all: no more matches.</p>
+<p>Incidentally, I wonder if there are alternatives to conditions 1,2 above. For instance [A,B]=0, or Tr ((A+B)^2)=Tr(A^2)+Tr(B^2). I am afraid that these alternatives do not fix A beyond being diagonal.</p>
+</div>
+<div></div>
+<div>
+<h1 id="blog_title">Could it be Pati-Salam, at the end?</h1>
+<div class="smallfont shade" style="color: #777777;"><span class="shade" style="color: #777777;">Posted May14-10 at 11:43 PM by</span> <a style="color: #00588e;" href="http://www.physicsforums.com/blog.php?u=81">arivero</a></div>
+<div></div>
+<hr style="color: #d1d1e1;" size="1" />
+<div id="blog_message">Both<br />
+U(1)xSU(3)xSU(2)xSU(2)<br />
+and the full<br />
+SU(4)xSU(2)xSU(2)<br />
+live in 8 extra dimensions, as F-theory lives, and they probably need one of the extra dimensions to be infinitesimal, because U(1) B-L is not gauged, at least not at the scales we know.The manifolds, by the way, are<br />
+S1 x CP2 x S3<br />
+and<br />
+S5 x S3<br />
+respectively.</p>
+<p>The later is more complete and it allows to generate Witten&#8217;s manifols almost automagically. But the former group has an interesting counting if we consider the gauge bosons to be massless and supersymetry unbroken, with three generations of quarks and leptons. Then we have<br />
+96 sfermions<br />
+2 states of U(1)<br />
+16 of SU(3)<br />
+6 of SU(2)<br />
+6 of SU(2)<br />
+2 in the 4D graviton.</p>
+<p>128 total. And no obvious place for the higgs&#8230; technicolor/topcolor and susy?</p>
+</div>
+<div></div>
+<div>
+<h1 id="blog_title">this could be useful&#8230;</h1>
+<div class="smallfont shade" style="color: #777777;"><span class="shade" style="color: #777777;">Posted Oct4-10 at 05:09 PM by</span> <a style="color: #00588e;" href="http://www.physicsforums.com/blog.php?u=81">arivero</a><br />
+<span class="shade" style="color: #777777;">Updated Oct4-10 at 05:27 PM by</span> <a style="color: #00588e;" href="http://www.physicsforums.com/blog.php?u=81">arivero</a></div>
+<div></div>
+<hr style="color: #d1d1e1;" size="1" />
+<div id="blog_message">
+<p>If both F(s) and G(s) are absolutely convergent for s &gt; a and s &gt; b then we have</p>
+<div class="MathJax_Display"><span id="MathJax-Element-1-Frame" class="MathJax"><span id="MathJax-Span-1" class="math"><span id="MathJax-Span-2" class="mrow"><span id="MathJax-Span-3" class="mfrac"><span id="MathJax-Span-4" class="mn">1</span><span id="MathJax-Span-5" class="mrow"><span id="MathJax-Span-6" class="mn">2</span><span id="MathJax-Span-7" class="mi" style="font-style: italic;">T</span></span></span><span id="MathJax-Span-8" class="msubsup"><span id="MathJax-Span-9" class="mo">?</span><span id="MathJax-Span-10" class="texatom"><span id="MathJax-Span-11" class="mrow"><span id="MathJax-Span-12" class="mi" style="font-style: italic;">T</span></span></span><span id="MathJax-Span-13" class="texatom"><span id="MathJax-Span-14" class="mrow"><span id="MathJax-Span-15" class="mo">?</span><span id="MathJax-Span-16" class="mi" style="font-style: italic;">T</span></span></span></span><span id="MathJax-Span-17" class="mspace"></span><span id="MathJax-Span-18" class="mi" style="font-style: italic;">F</span><span id="MathJax-Span-19" class="mo">(</span><span id="MathJax-Span-20" class="mi" style="font-style: italic;">a</span><span id="MathJax-Span-21" class="mo">+</span><span id="MathJax-Span-22" class="mi" style="font-style: italic;">i</span><span id="MathJax-Span-23" class="mi" style="font-style: italic;">t</span><span id="MathJax-Span-24" class="mo">)</span><span id="MathJax-Span-25" class="mi" style="font-style: italic;">G</span><span id="MathJax-Span-26" class="mo">(</span><span id="MathJax-Span-27" class="mi" style="font-style: italic;">b</span><span id="MathJax-Span-28" class="mo">?</span><span id="MathJax-Span-29" class="mi" style="font-style: italic;">i</span><span id="MathJax-Span-30" class="mi" style="font-style: italic;">t</span><span id="MathJax-Span-31" class="mo">)</span><span id="MathJax-Span-32" class="mspace"></span><span id="MathJax-Span-33" class="mi" style="font-style: italic;">d</span><span id="MathJax-Span-34" class="mi" style="font-style: italic;">t</span><span id="MathJax-Span-35" class="mo">=</span><span id="MathJax-Span-36" class="munderover"><span id="MathJax-Span-37" class="mo">?</span><span id="MathJax-Span-38" class="texatom"><span id="MathJax-Span-39" class="mrow"><span id="MathJax-Span-40" class="mi" style="font-style: italic;">n</span><span id="MathJax-Span-41" class="mo">=</span><span id="MathJax-Span-42" class="mn">1</span></span></span><span id="MathJax-Span-43" class="texatom"><span id="MathJax-Span-44" class="mrow"><span id="MathJax-Span-45" class="mi">?</span></span></span></span><span id="MathJax-Span-46" class="mi" style="font-style: italic;">f</span><span id="MathJax-Span-47" class="mo">(</span><span id="MathJax-Span-48" class="mi" style="font-style: italic;">n</span><span id="MathJax-Span-49" class="mo">)</span><span id="MathJax-Span-50" class="mi" style="font-style: italic;">g</span><span id="MathJax-Span-51" class="mo">(</span><span id="MathJax-Span-52" class="mi" style="font-style: italic;">n</span><span id="MathJax-Span-53" class="mo">)</span><span id="MathJax-Span-54" class="msubsup"><span id="MathJax-Span-55" class="mi" style="font-style: italic;">n</span><span id="MathJax-Span-56" class="texatom"><span id="MathJax-Span-57" class="mrow"><span id="MathJax-Span-58" class="mo">?</span><span id="MathJax-Span-59" class="mi" style="font-style: italic;">a</span><span id="MathJax-Span-60" class="mo">?</span><span id="MathJax-Span-61" class="mi" style="font-style: italic;">b</span></span></span></span><span id="MathJax-Span-62" class="mtext"> as </span><span id="MathJax-Span-63" class="mi" style="font-style: italic;">T</span><span id="MathJax-Span-64" class="mo">?</span><span id="MathJax-Span-65" class="mi">?</span><span id="MathJax-Span-66" class="mo">.</span></span></span></span></div>
+<div class="MathJax_Display"></div>
+<p><span style="color: #000000;">\frac{1}{2T}\int_{-T}^{T}\,F(a+it)G(b-it)\,dt= \sum_{n=1}^{\infty} f(n)g(n)n^{-a-b} \text{ as }T \sim \infty.</span></p>
+<p>&#8230; in the context of dirichlet series, to decompose the Riemann zeta, finding a pair of functions where f(n)g(n)=1 for all n. Note that they not need to be multiplicate, do they?</p>
+<p>The simplest not trivial case, had we absolute convergence, would be the dirichlet eta function,</p>
+</div>
+<div>
+<div class="MathJax_Display"><span id="MathJax-Element-2-Frame" class="MathJax"><span id="MathJax-Span-67" class="math"><span id="MathJax-Span-68" class="mrow"><span id="MathJax-Span-69" class="mfrac"><span id="MathJax-Span-70" class="mn">1</span><span id="MathJax-Span-71" class="mrow"><span id="MathJax-Span-72" class="mn">2</span><span id="MathJax-Span-73" class="mi" style="font-style: italic;">T</span></span></span><span id="MathJax-Span-74" class="msubsup"><span id="MathJax-Span-75" class="mo">?</span><span id="MathJax-Span-76" class="texatom"><span id="MathJax-Span-77" class="mrow"><span id="MathJax-Span-78" class="mi" style="font-style: italic;">T</span></span></span><span id="MathJax-Span-79" class="texatom"><span id="MathJax-Span-80" class="mrow"><span id="MathJax-Span-81" class="mo">?</span><span id="MathJax-Span-82" class="mi" style="font-style: italic;">T</span></span></span></span><span id="MathJax-Span-83" class="mspace"></span><span id="MathJax-Span-84" class="mi" style="font-style: italic;">?</span><span id="MathJax-Span-85" class="mo">(</span><span id="MathJax-Span-86" class="mi" style="font-style: italic;">a</span><span id="MathJax-Span-87" class="mo">+</span><span id="MathJax-Span-88" class="mi" style="font-style: italic;">i</span><span id="MathJax-Span-89" class="mi" style="font-style: italic;">t</span><span id="MathJax-Span-90" class="mo">)</span><span id="MathJax-Span-91" class="mi" style="font-style: italic;">?</span><span id="MathJax-Span-92" class="mo">(</span><span id="MathJax-Span-93" class="mi" style="font-style: italic;">b</span><span id="MathJax-Span-94" class="mo">?</span><span id="MathJax-Span-95" class="mi" style="font-style: italic;">i</span><span id="MathJax-Span-96" class="mi" style="font-style: italic;">t</span><span id="MathJax-Span-97" class="mo">)</span><span id="MathJax-Span-98" class="mspace"></span><span id="MathJax-Span-99" class="mi" style="font-style: italic;">d</span><span id="MathJax-Span-100" class="mi" style="font-style: italic;">t</span><span id="MathJax-Span-101" class="mo">=</span><span id="MathJax-Span-102" class="mi" style="font-style: italic;">?</span><span id="MathJax-Span-103" class="mo">(</span><span id="MathJax-Span-104" class="mi" style="font-style: italic;">a</span><span id="MathJax-Span-105" class="mo">+</span><span id="MathJax-Span-106" class="mi" style="font-style: italic;">b</span><span id="MathJax-Span-107" class="mo">)</span><span id="MathJax-Span-108" class="mtext"> as </span><span id="MathJax-Span-109" class="mi" style="font-style: italic;">T</span><span id="MathJax-Span-110" class="mo">?</span><span id="MathJax-Span-111" class="mi">?</span><span id="MathJax-Span-112" class="mo">.</span></span></span></span></div>
+<div class="MathJax_Display"></div>
+<div class="MathJax_Display"><span style="color: #000000;">\frac{1}{2T}\int_{-T}^{T}\, \eta (a+it) \eta (b-it)\,dt= \zeta(a+b) \text{ as }T \sim \infty.</span></div>
+<div class="MathJax_Display"></div>
+<div class="MathJax_Display">
+<h2><a style="color: #00588e;" href="http://www.physicsforums.com/blog.php?b=2950">some references</a></h2>
+<div class="smallfont shade" style="color: #777777;"><span class="shade" style="color: #777777;">Posted Mar28-11 at 01:59 AM by</span> <a style="color: #00588e;" href="http://www.physicsforums.com/blog.php?u=81">arivero</a></div>
+<hr style="color: #d1d1e1;" size="1" />
+<div id="entry_text_2950">
+<p>J.H. Schwarz, Phys.Lett.B37:315-319,1971 (also anticipated in a small comment in Phys. Rev. D 4, 1109–1111 (1971) )</p>
+<p>EDIT: other references using «fermion-meson»: <a style="color: #00588e;" href="http://dx.doi.org/10.1016/0550-3213(74)90529-X" target="_blank" rel="nofollow noopener">http://dx.doi.org/10.1016/0550-3213(74)90529-X</a> Nuclear Physics B Volume 74, Issue 2, 25 May 1974, Pages 321-342 L. Brink and D. B. Fairlie; <a style="color: #00588e;" href="http://www.slac.stanford.edu/spires/...=NUCIA,A11,749" target="_blank" rel="nofollow noopener">http://www.slac.stanford.edu/spires/&#8230;=NUCIA,A11,749</a> Nuovo Cim.A11:749-773, 1972 by Edward Corrigan and David I. Olive.</p>
+<p><a style="color: #00588e;" href="http://vixra.org/abs/1102.0034" target="_blank" rel="nofollow noopener">http://vixra.org/abs/1102.0034</a></p>
+</div>
+</div>
+<div class="MathJax_Display"></div>
+</div>
+</div>
+</div>
+<div></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/extractos-del-blog-de-physicsforums/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>supersimetria y esa crisis de la fisica de particulas</title>
+		<link>/blog/supersimetria-y-esa-crisis-de-la-fisica-de-particulas/</link>
+					<comments>/blog/supersimetria-y-esa-crisis-de-la-fisica-de-particulas/#comments</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Tue, 22 Apr 2014 17:10:22 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[grand unification]]></category>
+		<category><![CDATA[m theory]]></category>
+		<category><![CDATA[string theory]]></category>
+		<category><![CDATA[superstrings]]></category>
+		<category><![CDATA[theory of everything]]></category>
+		<category><![CDATA[wrong turn]]></category>
+		<guid isPermaLink="false">/blog/?p=647</guid>
+
+					<description><![CDATA[Saca el Scientific American del mes de Mayo un articulo de cuatro paginas sobre la ausencia de supersimetria en los resultados del LHC y los sospechosos habituales (Motl, Woit) ya no tienen practicamente nada que añadir, asi que el debate es, de puro cansancio, más sereno. Basicamente, la cuestion esta en si la cosmologia, disfrazada [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Saca el Scientific American del mes de Mayo un articulo de cuatro paginas sobre la ausencia de supersimetria en los resultados del LHC y los sospechosos habituales (<a href="http://motls.blogspot.com.es/2014/04/another-anti-physics-issue-of-sciam.html">Motl</a>, <a href="https://www.math.columbia.edu/~woit/wordpress/?p=6836">Woit</a>) ya no tienen practicamente nada que añadir, asi que el debate es, de puro cansancio, más sereno.</p>
+<p>Basicamente, la cuestion esta en si la cosmologia, disfrazada como escala de Planck, es o no una rama de la fisica de particulas. La confusion en fisica fundamental esta desde el principio, o mejor dicho desde los Principia, dado que es un libro que establece a la vez conceptos fundamentales, como masa, fuerza y momento de cualquier particula, y conceptos cosmologicos o astrofisicos (o lo que sea, yo nunca he sabido como se les llama): la fuerza de Gravitacion Universal. Es lo que tiene la Universalidad.</p>
+<p>Uno de mis asombros desde primero de carrera fue enterarme de que muchos de mis compañeros se matriculaban en fisica por este asunto del cosmos: querian ser astronomos, estudiar el universo, su origen, esas cosas&#8230; Luego se encontraban con que nuestra facultad no tenia grandes contactos con los observatorios y acababan pasandose a materia condensada o a humanidades. Y en el plano teorico, estudiaban particulas porque la investigacion en relatividad general, hace veinticinco años, no tenia muchas novedades.</p>
+<p>Pues bien, resulta que esa tendencia era mas universal de lo que yo pensaba y en cuanto los fisicos tienen una oportunidad de hacer algun descubrimiento que tenga conexion con la fuerza de gravedad, salen disparados y olvidan en que estaban trabajando. Y en una costumbre muy general de nuestra rama, afirman que siguen trabajando en lo mismo. Asi se desarrolló la enfermedad cosmologica/astrofisica de la teoria de cuerdas. Una teoria de la interaccion fuerte transformada con entusiasmo en una teoria de la gravedad, y afirmando que seguia siendo una teoria de particulas. Y arrastrada con ella, la supersimetria, convertida en supergravedad. Una vez asimilada esta transformacion, los entusiastas ya pueden afirmar, y creerselo ellos mismos, que cualquier avance en observaciones astronomicas es un importante avance en el campo de las particulas elementales y por tanto el area avanza por buen camino. Eso choca, claro, con los pocos que se acuerdan de que el tema de investigacion es la estructura de la materia, que los resultados experimentales son los que salen en los aceleradores de particulas, y los resultados teoricos tendrian que estar en ese ambito.</p>
+<p>Pienso que esa es la psicologia subyacente, aunque sí que es cierto que hubo factores que ayudaron a este desplazamiento mental hacia la escala de Planck: la unificacion de acoplos, que ocurre cerca de esta escala, y la doctrina de la teoria efectiva, que nos dice que el encanto de la renormalizabilidad del modelo estandar es un simple efecto de ser una teoria de baja energia; y por tanto apunta hacia la de alta energia como la unica de la que se pueden sacar principios basicos con los que reducir los parametros que aun quedan libres en nuestro modelo de particulas.</p>
+<p><span id="more-647"></span></p>
+<p>Si nos fijamos simplemente en la estructura del modelo estandar, la principal regla que tenemos a nuestro alcance es la de la simetria aproximada: Cuando nos encontramos con que ciertos parametros estan cerca de cero, hemos de sospechar que existe una simetria que, de ser exacta, hacia que estos parametros sean cero. Cuando nos encontramos con que ciertos parametros tienen aproximadamente el mismo valor, lo mismo: sospechamos que hay una simetria que de ser exacta haria que esos valores fueran iguales.</p>
+<p>Lo primero que vemos es que las particulas se pueden clasificar en generaciones de masas similares, y de ahi la idea de los grupos de gran unificacion, que se ve reforzada -y como hemos visto, debilitada a la vez- con la coincidencia de acoplos. En realidad ya tenemos varias particulas exactamente unificadas: los tres colores de cada quark, que tienen una simetria SU(3) y la misma masa. Por otro lado, la particula up y down de cada generacion tienen masas próximas y se podrian decir unificadas por la simetria electrodebil, que esta rota. Queda la cuestion del neutrino, que debe resolverse dando a la vez masas de dirac y de majorana para producir un see-saw, y la de la cercania de la masa de los leptones a la de los quarks.</p>
+<p>Para explicar esta cercania de masas, entre leptones y quarks de cada generacion, podemos usar grupos simples como SU(5) o SO(10) o limitarnos a expandir la simetria de color y llevarla de un SU(3) a un SU(4) que incluya al electron como el «cuarto color» que decian Pati y Salam.</p>
+<p>Atentos a la gracia: si los consideramos como grupos de invarianza sobre variedades o espacios topologicos,<em> SO(10) es, como todos sabemos, el grupo de isometrias de la esfera de nueve dimensiones, S9. Pero tambien los otros andan cerca: SU(5) es el grupo de isometras de CP4, y el producto SU(4)xSU(2)xSU(2) puede considerarse similar al producto SO(6)xSO(4), el primer termino siendo pues las isometrias de la esfera S5 y el segundo las de S3. Añadir unificacion al modelo estandar vendria a ser lo mismo que considerar teorias con 8 dimensiones extra, caso de SU(5) o de Pati-Salam, o hasta con 9 dimensiones extra, caso de SO(10). </em></p>
+<p>En 1981, Witten escribió un articulo titulado «realistic kaluza-klein theories» en el que llamaba la atencion sobre este asunto y conseguia bajar a tan solo siete dimensiones extra a base de cocientar la variedad con algun grupo U(1), lo que de paso reducia el grupo de isometrias a SU(3)xSU(2)xSU(2) o directamente a SU(3)xSU(2)xU(1). Witten demostraba que esta era la dimension minima que debia tener un espacio con esta ultima simetria, y se preguntaba si tendria algo que ver con el hecho de que es tambien la dimension máxima de supergravedad. La teoria de cuerdas bajó el máximo de dimensiones a seis, pero luego vendrian M-Theory, F-Theory y S-Theory para dar condiciones que se pueden interpretar como siete, ocho u hasta nueve dimensiones. Es cierto que el salto mas allá de 7 es peculiar, pero tambien lo es la unificación; a fecha de hoy no tenemos claro si el U(1) de la simetria B-L que sale de regalo en Pati-Salam es en realidad una interaccion gauge como las otras o si es una simetria que actua de otra forma. En cualquier caso, los teoricos de cuerdas hicieron caso omiso de estas observaciones, entusiasmados por la simplicidad de otro tipo de variedades, las de Calabi-Yau. Si Witten tenia la esperanza de que con alguna transformación de dualidad se recuperaran las variedades «realisticas», nunca lo mencionó por escrito.</p>
+<p>Un grupo unificado explicaria por qué las generaciones de particulas tienen, cada una de ellas, masas similares. Pero quedaria por explicar por qué todas ellas -top quark aparte- tienen masa practicamente cero respecto a la escala que la produce, la del Higgs. De esto no sabemos nada pero se puede hacer una observacion numerologica respecto al numero de grados de libertad que hay que proteger, esto es, que deberian quedar con masa cero en el supuesto de que hubiera una explicación basada en una simetria restaurable.</p>
+<p>Para este contaje, hay que considerar que los neutrinos de cada generación tienen cuatro grados de libertad. Esto hace que el total de grados de libertad de los fermiones del modelo estandar sea 96. Sabemos que el top quark no esta protegido, por tanto hay que descartar sus tres colores, un total de 12 grados de libertad. La hipotetica simetria que mantenga a cero el resto de las masas debe aplicarse a 84 grados de libertad.</p>
+<p>Ahora, hay un objeto con 84 grados de libertad en supergravedad y en teoria-M, aunque vive mas bien en el lado bosonico. Es el tensor de tres indices que complementa al graviton (En D=11, el graviton tiene 44 grados de libertad y necesita un boson con otros 84 para sumar los mismos 128 que tiene el gravitino) y que es la fuente de la famosa 2-brana. <em>Es tentador pensar que una teoria de cuerdas construida alrededor de la escala de Higgs en vez de la de Planck seria capaz de proteger la masa de los fermiones ligeros.</em></p>
+<p>Por cierto que la 2-brana tiene un dual, la 5-brana, cuya fuente, tambien dualmente, vuelve a ser otro tensor de 84 grados de libertad. ¿Existe en el modelo estandar otra agrupacion de fermiones que separe ese numero de componentes? Pues sí, y tambien tiene que ver con la estructura de masas: simplemente volver a considerar los fermiones pero esta vez excluyendo, en vez del top, los neutrinos.</p>
+<p>Estas ultimas observaciones, he de avisar al lector casual, son ya especulaciones mias, y he dejado para el final la que ya conocen mis escasos y pacientes lectores: la cuestion de donde pueden estar escondidos los partners supersimetricos de los fermiones, si todo lo que estamos diciendo tiene lugar a escalar proximas a la del Higgs.</p>
+<p>La idea final es que los quarks ligeros, y solamente ellos, en el limite en el que actua esta proteccion de masa, son los que constituyen las terminaciones de cuerdas abiertas. Con esta regla, que se aplica a los cinco quark ligeros, se construye exactamente la cantidad requerida de escalares para complementar tres generaciones de quarks y leptones. Sin que sobre ni falte, asi que con un poquito de sal incluso se podria considerar esta ultima coincidencia como un postulado, que predice el numero de generaciones. Fuera de este limite, con los quarks ya masivos, conocemos muy bien estos objetos, o al menos su version leptonica: son los mesones correspondientes a la union de quarks mediante la cuerda de QCD. Que curiosamente, tienen escalas de masas similares a las de los leptones, a pesar de que ninguna de las reglas de unificacion ni de QCD exigen que se de esa similitud. Estariamos pues en un caso extremo de nuestra regla de simetria: ante la proximidad de la masa del pion y del muon, sospechamos que hay un limite en el que las dos particulas contribuyen piezas a un multiplete supersimetrico.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/supersimetria-y-esa-crisis-de-la-fisica-de-particulas/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>sBootstrap con Pati-Salam</title>
+		<link>/blog/sbootstra-con-pati-salam/</link>
+					<comments>/blog/sbootstra-con-pati-salam/#comments</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Thu, 03 Jan 2013 20:18:20 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[grand unification]]></category>
+		<category><![CDATA[m theory]]></category>
+		<category><![CDATA[pati-salam]]></category>
+		<category><![CDATA[string theory]]></category>
+		<category><![CDATA[superstrings]]></category>
+		<category><![CDATA[theory of everything]]></category>
+		<category><![CDATA[wrong turn]]></category>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=395</guid>
+
+					<description><![CDATA[Nada nuevo, solo una excusa para copiar el latex de la thread de physicsforums $latex \begin{array}{lllllll} &#38;\nu_?, t_{rgb}&#38; &#38; &#38; &#38; \\ &#38;\nu_?, b_{rgb}&#38; B^+,B_c^+ &#38; bu, bc&#38; bb, bs, bd &#38; \eta_b, \stackrel{b\bar s,b\bar d}{\bar bs,\bar bd} \\ \stackrel{\bar c\bar c}{cc},\stackrel{\bar c\bar u}{cu}&#38;\tau, c_{rgb} &#38; D^+, D_s^+&#38; sc,dc &#38; &#38; \eta_c, \stackrel{c\bar u}{\bar cu}\\ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Nada nuevo, solo una excusa para copiar el latex de la <a href="http://www.physicsforums.com/showthread.php?t=485247&amp;page=11">thread de physicsforums</a></p>
+<p>$latex \begin{array}{lllllll}<br />
+&amp;\nu_?, t_{rgb}&amp; &amp; &amp; &amp; \\<br />
+&amp;\nu_?, b_{rgb}&amp; B^+,B_c^+ &amp; bu, bc&amp; bb, bs, bd &amp; \eta_b, \stackrel{b\bar s,b\bar d}{\bar bs,\bar bd} \\<br />
+\stackrel{\bar c\bar c}{cc},\stackrel{\bar c\bar u}{cu}&amp;\tau, c_{rgb} &amp; D^+, D_s^+&amp; sc,dc &amp; &amp; \eta_c, \stackrel{c\bar u}{\bar cu}\\<br />
+\stackrel{\bar u\bar u}{uu}&amp;\mu, s_{rgb} &amp; \pi^+, K^+&amp; su, du&amp; ss, sd, dd &amp; K^0,\pi^0, \stackrel{s\bar d}{\bar sd}\\<br />
+&amp;\nu_?, d_{rgb} \\<br />
+&amp;e, u_{rgb}\end{array}$</p>
+<p>La observacion es que los escalares susy tienen una simetria global SU(3)xSU(2) de sabor, incluyendo incluso a los escalares del higgs, que serian esos seis de la primera columna. Y de ahi se podria pasar a que esto es fundamental y aqui termina la busqueda de subcomponentes, porque los componentes de quarks y leptones&#8230; serian los propios quarks.</p>
+<p><span id="more-395"></span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/sbootstra-con-pati-salam/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pati-Salam y 8 dimensiones extra</title>
+		<link>/blog/pati-salam-y-8-dimensiones-extra/</link>
+					<comments>/blog/pati-salam-y-8-dimensiones-extra/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Sat, 22 Dec 2012 11:01:58 +0000</pubDate>
+				<category><![CDATA[Active Research]]></category>
+		<category><![CDATA[grand unification]]></category>
+		<category><![CDATA[m theory]]></category>
+		<category><![CDATA[pati-salam]]></category>
+		<category><![CDATA[string theory]]></category>
+		<category><![CDATA[superstrings]]></category>
+		<category><![CDATA[theory of everything]]></category>
+		<category><![CDATA[wrong turn]]></category>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=383</guid>
+
+					<description><![CDATA[Aunque habia etiquetado como «wiki» la entrada sobre Kaluza-Klein y en teoria tendria simplemente que ampliarla, puede que sea mejor contarlo desde otra perspectiva. Y vamos, asi pongo una nueva entrada en el blog. Si habeis pensado ya un rato sobre Kaluza Klein, puede que hayais caido ya en que las dimensiones extra no son [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Aunque habia etiquetado como «wiki» la <a title="Notas sobre Kaluza – Klein" href="http://alejandro.rivero.nom.es/index.php/notas-sobre-kaluza-klein/">entrada sobre Kaluza-Klein</a> y en teoria tendria simplemente que ampliarla, puede que sea mejor contarlo desde otra perspectiva. Y vamos, asi pongo una nueva entrada en el blog.</p>
+<p>Si habeis pensado ya un rato sobre Kaluza Klein, puede que hayais caido ya en que las dimensiones extra no son las del grupo de Lie. Los ejemplos de U(1) y de \(U(1)^n\), que es el toro n-dimensional, son engañosos. En cuando uno se plantea que las isometrias de la n-esfera son las del grupo SO(n+1), se ve que la cosa no encaja y que en realidad el espacio que hace falta suele ser bastante más pequeño, en dimensiones, que el grupo que queremos obtener.</p>
+<p>En particular, el su(2) x su(2) del L-R Pati-Salam es de los obvios, porque sabemos que su algebra es equivalente a la de so(4), y por tanto la teoria de Kaluza Klein correspondiente va a ser solo la de la esfera S3.</p>
+<p>Y en cuando al grupo SU(4) de lepton+color, pues resulta que tambien hay una equivalencia de algebras, es igual a la de so(6), y por tanto basta con la esfera S5</p>
+<p>Conclusion: Para conseguir un espacio con isometrias «Pati-Salam» SU(4)xSU(2)xSU(2), nos basta con 8 dimensiones extra: S5xS3.</p>
+<p>Naturalmente, para el grupo GUT SO(10) necesitariamos 9 dimensiones extra: las de S9. Y para el grupo SU(5) podriamos aplicar una regla general con los grupos de isometrias de CPn: para CP2, sus isometrias son SU(3); para CP4, sus isometrias son SU(5).</p>
+<p>Por cierto, fijaos que si en vez de lepton-color empleamos \(U(1)_{B-L} \times SU(3)\) no cambiaria la cosa de dimensiones, seria S1xCP2 en vez de S5.</p>
+<p>Asi que ya tenemos un grupo GUT en 9 dimensiones extra, y dos de los otros en tan solo 8. ¿Tenemos algo interesante en 7? Pues pocas cosas, si a la clasificacion de metricas de Einstein en variedades 7-dimensionales compactas nos atenemos, pero entre ellas una que seguramente Witten encontró pensando en estos ejemplos: el cociente de la de Pati-Salam, S5xS3, por una accion de U(1) que produzca una variedad de 7 dimensiones, va a tener siempre al menos las simetrias del modelo estandar, SU(3)xSU(2)xU(1).</p>
+<p>Por otro lado, la maxima supergravedad no puede tener mas de siete dimensiones extra; ni ocho ni nueve. Y de otra parte, para conseguir las cargas y quiralidades del modelo estandar sabemos que siete no chuta y necesitamos al menos construir fermiones en ocho. Juntando las dos cosas, se puede intuir que algo raro va a haber en la ruptura de Pati-Salam a SM, y esa rareza, que desconocemos, debe ser la causa de que los bosones de esa ruptura, ni su gauge ni sus higgses, no aparezcan por ningun lado; no pueden jugar la misma partida que el resto de las interacciones gauge, porque no podemos pasar de siete dimensiones.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/pati-salam-y-8-dimensiones-extra/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

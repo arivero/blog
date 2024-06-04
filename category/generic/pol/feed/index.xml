@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>politica &#8211; Incidencias</title>
+	<atom:link href="/blog/category/generic/pol/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Thu, 13 Dec 2018 13:19:35 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Un indicador del nacionalismo via Twitter</title>
+		<link>/blog/un-indicador-del-nacionalismo-via-twitter/</link>
+					<comments>/blog/un-indicador-del-nacionalismo-via-twitter/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Sat, 30 Nov 2013 21:55:13 +0000</pubDate>
+				<category><![CDATA[Active Research]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[politica]]></category>
+		<guid isPermaLink="false">/blog/?p=584</guid>
+
+					<description><![CDATA[O más bien del regionalismo, y más concretamente de la existencia de hashtags regionales. En esta grafica tenemos hastags geoposicionados en los últimos seis meses, de forma que en la coordenada horizontal contamos el total de apariciones de un hashtag y en la vertical (¿alguien se acuerda de cual era la ordenada y cual la [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>O más bien del regionalismo, y más concretamente de la existencia de hashtags regionales.</p>
+<p>En esta grafica tenemos hastags geoposicionados en los últimos seis meses, de forma que en la coordenada horizontal contamos el total de apariciones de un hashtag y en la vertical (¿alguien se acuerda de cual era la ordenada y cual la abscisa?) el numero de apariciones dentro del rectangulo que contiene a Aragón (y de paso, algo de Castellon y media Navarra, claro).</p>
+<p><a href="/blog/wordpress/wp-content/uploads/2013/11/aragonSpain.png"><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-585" src="/blog/wordpress/wp-content/uploads/2013/11/aragonSpain.png" alt="aragonSpain" width="640" height="480" srcset="/blog/wp-content/uploads/2013/11/aragonSpain.png 640w, /blog/wp-content/uploads/2013/11/aragonSpain-300x225.png 300w, /blog/wp-content/uploads/2013/11/aragonSpain-600x450.png 600w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<p>Hay dos nubes de puntos: la obvia correspondiente a que muchos hastags del submuestreo aragones tienen la misma probabilidad de ser empleados en Aragón que en toda España, y de ahi la nube de la parte derecha, formando una diagonal cuya posición depende del porcentaje de poblacion. En el lado izquierdo tendremos la nube de palabras que se usan más frecuentemente en la región que en el resto de España; si estan pegadas a la diagonal, son exclusivas de la region.</p>
+<p>Asi pues, la diagonal paralela a la derecha nos indica lo que tenemos en comun, la nube de la izquierda nos indica los «regionalismos». Podriamos medir una contra la otra para decidir como de similar es la región al resto de españa. Pero en realidad la pista importante es lo que falta: no hay una nube clara de hashtags frecuentes españoles que a los aragoneses le importen un carajo; esa nube tendria que aparecer en la parte inferior derecha de la grafica y, al menos en este caso, no ocurre. O al menos, no es demasiado visible. Podriamos intentar asignar coordenadas a dos muestreos separados, uno para la region y otro para el resto de España, y en cada uno muestrear el mismo numero de puntos.</p>
+<p>Es tentador intentar hacer esta grafica para diferentes territorios, pero lo mas interesante es que ni siquiera tendrian por qué ser territorios; en vez de por geoposicion podriamos considerar dos grupos grandes de twitteros, y ver en que coinciden y en que difieren.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/un-indicador-del-nacionalismo-via-twitter/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Los filósofos del 15M</title>
+		<link>/blog/los-filosofos-del-15m/</link>
+					<comments>/blog/los-filosofos-del-15m/#comments</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Mon, 13 May 2013 19:12:24 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[politica]]></category>
+		<guid isPermaLink="false">/blog/?p=438</guid>
+
+					<description><![CDATA[La retranca del título se basa en un comentario que acabo de leer en el Heraldo, que se hace eco de una linea de opinión-matraca de este aniversario: que el Mayo Frances tenía sus filósofos en el movimiento y en cambio el 15M no tenia ninguno. El autor de la nota se lo habia pensado [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>La retranca del título se basa en un comentario que acabo de leer en el Heraldo, que se hace eco de una linea de opinión-matraca de este aniversario: que el Mayo Frances tenía sus filósofos en el movimiento y en cambio el 15M no tenia ninguno. El autor de la nota se lo habia pensado mejor y sustituia el «ninguno» por un anonimo «dos mentores nonagenarios que ya han fallecido».  Y por si acaso -que no por respeto- evita mencionar los nombres de esos dos que deben seguramente estar -como ya es otro topicazo- <em>detras del 15M</em>. Si son los que sospecho, me temo que se trata de disimular la evidencia de tambien eran mentores del 68 aquel, lo que tiraria al traste la crítica inicial.</p>
+<p>Conviene recordar que en Madrid el Mayo del 68 fue en <a href="http://www.filosofia.org/mon/cul/clc_cr65.htm">1965. Entre enero y febrero, para más fecha. </a>Y tambien heredaba ya de otras primaveras, en los campuses de Estados Unidos con sus hippies y su Vietnam, que de eso todos sabemos gracias a las peliculas de Hollywood y a la serie del equipo A.</p>
+<p>Bueno, pues en aquel febrerillo estaban ya los que son, creo, candidatos a anonimos «mentores»: Jose Luis Sampedro y Agustín Garcia-Calvo. Cada cual a su manera. Sampedro participando activamente en el «comité», de actividades antifranquistas, o anticomunistas, que estando ahi Ridruejo y Aranguren nunca quedaba claro. Y Agustín apoyando las asambleas de estudiantes, menos visible, aunque cuando sonó la campana de Huesca fué  una de las cabezas a cortar, perdiendo su catedra (junto con Aranguren y Tierno, en una especie de escarmiento global) hasta bien entrados los setenta.</p>
+<p><iframe width="560" height="315" src="http://www.youtube.com/embed/LOmh3jcV28g?" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe width="560" height="315" src="http://www.youtube.com/embed/4W_uVt9EuSY" frameborder="0" allowfullscreen></iframe></p>
+<p>Se ha dicho que la union entre los mayistas de los sesenta y los de ahora está en que aquello de lo que se protesta ahora es precisamente la culminación de aquello que los estudiantes de entonces veian que se les echaba encima. Desde luego los periodicos de la epoca estan llenos de progreso nacional, y de anuncios de pisos que van a ser la mejor inversion de tu vida, en barrios idilicos de Madrid. Aquél mismo dia de la manifestación, Franco entregaba el primer «carnet de periodista» de la nueva Ley de Prensa. Al dia siguiente, en la pagina 3 del ABC del 25 de Febrero de 1965, el ensayo de opinión se titulaba «El Niño Jesús de Praga». En la página 49 se informaba en dos parrafos de la «reunion tumultuaria» y manifestación de una «pretendida Asamblea de estudiantes libres» en cuyos disturbios «cuatro agentes de la autoridad y dos estudiantes resultaron con contusiones leves» y se daba un comunicado del Rectorado indicando que hasta nueva orden cada estudiante podría entrar solo en su propia Facultad.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/los-filosofos-del-15m/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>La cultura de la transición de fase.</title>
+		<link>/blog/la-cultura-de-la-transicion-de-fase/</link>
+					<comments>/blog/la-cultura-de-la-transicion-de-fase/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Fri, 16 Nov 2012 14:11:08 +0000</pubDate>
+				<category><![CDATA[Active Research]]></category>
+		<category><![CDATA[politica]]></category>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=290</guid>
+
+					<description><![CDATA[Ayer estuve en una presentacion, en el sotano de una libreria local, de algunos resultados del grupo 15mdata. Vienen a ser nuestra competencia, algo asi como ATLAS y CMS en el LHC. Hablamos un poco acerca del concepto de transición de fase, que nosotros empleabamos en algunas de nuestras exposiciones y que ellos tambien han [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Ayer estuve en una presentacion, en el sotano de una <a href="http://www.lapanterarossa.net/">libreria local</a>, de algunos resultados d<a href="http://datanalysis15m.wordpress.com/">el grupo 15mdata</a>. Vienen a ser nuestra competencia, algo asi como ATLAS y CMS en el LHC. Hablamos un poco acerca del concepto de transición de fase, que nosotros empleabamos en algunas de nuestras exposiciones y que ellos tambien han presentido, tanto sobre el terreno politico (un antes y un despues del 15m) como en las medidas estadisticas. </p>
+<p>Por supuesto, una transicion de fase es estrictamente algo bien definido, cuando se pasa por ejemplo de gas a liquido, que cambian las formas de enlazar de los atomos, los grados de cohesion del sistema, un monton de cosas. Hay ademas un tipo especial de transiciones en las que la longitud de correlacion en el sistema se hace infinita, que son las que estabamos buscando en el <a href="http://alejandro.rivero.nom.es/index.php/consenso-y-temperatura/" title="consenso y temperatura">post anterior</a> para intentar acelerar la formacion de consensos. La duda es si se da, en fenomenos como el 15m, esta CTF en un sentido precisamente de mecanica estadistica, ademas de darse por supuesto en el feeling y ambiente politico (como lo llamaba un colega, la «individuacion de un sujeto nuevo»). </p>
+<p><span id="more-290"></span></p>
+<p>La gente de 15mdata ha encontrado que durante los dias de revuelta hay cambios en la «dieta cognitiva» de la gente, aumenta el trafico de internet respecto al de voz, baja el uso de peliculas y de juegos online, <a href="http://assets.outliers.es/15memociones/">cambia la carga emocional </a>de los mensajes&#8230; Por otro lado, Miguel Aguilera ha hecho <a href="http://maguilera0.wordpress.com/2012/11/05/comsc-talk-measuring-the-collective-mind-of-the-15m-network/">un analisis multifractal</a> de los mensajes, encontrando coordinacion entre señales de distintos intervalos temporales, </p>
+<p>Y tambien en el antes y despues hay aspectos medibles: la <a href="http://assets.outliers.es/15mvocabulario/">cohexion del vocabulario</a> cambia. Asi que no anda tan descaminada la idea de la transición de fase, aunque haya que adaptarla a las ciencias sociales.</p>
+<p>Hablo <a href="https://twitter.com/toret">toret</a> ademas de enjambres y de inteligencia colectiva distribuida. De la replicación de Identidades Colectivas Madres, como cuando se expandieron los grupos de yayoflautas. Y de si estabamos en horizontalidad o más bien en un «liderazgo temporal distribuido»</p>
+<p>Ah, y estan intentando analizar el proceso segun funciona a varias capas por varios medios, sea virtual, sea territorializado. A ver que resultados sacan.</p>
+<p>Por cierto, que escondido en nuestro sitio <a href="http://15m.bifi.es/">15m.bifi.es</a>, sacando la lista de palabras y pulsando en la almohadilla, hay un «hashtaglab» donde se puede ver la evolucion de algunos hashtags en las horas anteriores y posteriores al inicio de las acampadas. Al estar restringida a usuarios españoles, nuestra base de twitts era mas pequeña, quizas hasta una decima parte en algun hashtag, pero tambien abarcaba más palabras clave, y con buena resolucion temporal.</p>
+
+<!-- iframe plugin v.5.1 wordpress.org/plugins/iframe/ -->
+<iframe loading="lazy" src="http://15m.bifi.es/hashtaglab/nolesvotes.html" height="700" scrolling="yes" width="100%" class="iframe-class" frameborder="0"></iframe>
+
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/la-cultura-de-la-transicion-de-fase/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Física y matemáticas en Agustín Garcia-Calvo</title>
+		<link>/blog/fisica-y-matematicas-en-agustin-garcia-calvo/</link>
+					<comments>/blog/fisica-y-matematicas-en-agustin-garcia-calvo/#comments</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Fri, 02 Nov 2012 23:06:13 +0000</pubDate>
+				<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[Revival]]></category>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=265</guid>
+
+					<description><![CDATA[Cuando Agustín entraba a tocar temas de física Priscilla, una de las cientificas del grupo de optica cuantica del CSIC, terminaba la tertulía medio enfadada, «no es así, no es así».  De poco valía que anunciara que iba a basarse en Lucrecío y no en la ortodoxia actual, porque es cierto que bastantes veces se [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Cuando Agustín entraba a tocar temas de física Priscilla, una de las cientificas del grupo de optica cuantica del CSIC, terminaba la tertulía medio enfadada, «no es así, no es así».  De poco valía que anunciara que iba a basarse en Lucrecío y no en la ortodoxia actual, porque es cierto que bastantes veces se salía, se desbordaba más bien, de ese curso. Pero la seguridad de mi amiga era más bien la necesaria de un investigador práctico, que simplemente pasa de puntillas por los puntos escabrosos.</p>
+<p>Los historiadores de la ciencia, que la miran desde la atalaya moderna, entienden la física antigua mucho peor que Agustín, que puede mirarla desde la trinchera de Parmenides. A veces un historiador moderno llega a vislumbrar esa receta de que Meliso, creyendo apoyar a Parmenides, le dio material a Democrito, pero simplemente el enunciarla retuerce las neuronas de cualquiera.  En cambio Garcia-Calvo, desde su punto de vista privilegiado, puede ver y explicar mucho mejor las propuestas de los atomistas.</p>
+<p>(EDIT: tened presente que Democrito es el que casa ser y no ser:  «en nada es más lo que es [lo que sea] que lo que no sea».)</p>
+<p>Así, percibe la importancía no solo de la paradoja de la flecha, sino de su versión estatica, la cuestión del cono y el cilindro. Ni siquiera con la enorme pista que da Arquimedes &#8211;¡y nada menos que en el Método!&#8211; esos historiadores le dan atención a ello. Pero otra cosa debieron pensar Cavalieri y Galileo cuando, discurriendo entre ellos sobre los métodos para sumar areas y volumenes, Galileo propuso a Cavalieri que estos metodos basados en la suma de infinitesimos deberian llamarse «métodos de indivisibles». Y cuando las dos paradojas se juntan, el propio Newton se asusta y corrige y reescribe varias veces sus argumentos sobre las areas barridas durante una orbita.</p>
+<p>Tambien gusta subrayar, por cierto, el hecho de que la palabra «atomo» traducida al latin haya pasado a significar la unidad minima de la sociedad, «individuo». En algún libro Agustin sugiere que seria un buen tema de investigación de tesina el averiguar si esto fue cosa de Ciceron mismo o de algun otro escritor politico romano. No se si se ha llegado a escribir dicha tesina.</p>
+<p>En las cuestiones del origen de la aritmetica, rondando a Pitagoras, le ayuda su faceta de poeta y su visión del ritmo, una forma clara de aproximarse a las divisiones del segmento (y hasta si hubiera querido a la criba de Eratostenes y al producto en Zeta de Euler). Desde este punto de vista de la división es como se entienden la duda sobre si <strong>1</strong> es un número, o el argumento de que en algunas definiciones el primer numero impar es el <strong>3</strong>, que poseyendo divisiones, todas son en partes desiguales.</p>
+<p>Un poco más liada estuvo esta duda, y otras, cuando saltó, en su libro «De Los Numeros», de la aritmetica primitiva a estudiar las formulas algebraicas , igualdades y sentencias típica de la notación matemática moderna. Aquí la lectura se hace dificil si no se tienen fundamentos de lingüista, y a mi muchas de las discusiones en ese libro me parecen mas bien sobre el problema de la producción de un lenguaje que sobre la cuestión de las operaciones algebraicas.</p>
+<p>Sospecho que en esto de la producción, en la expresion lineal de una frase, es en donde difiere Agustín de la linguistica a la Chomsky, porque mientras en la instancia organizativa no tiene ningun problema en utilizar un arbol (dibujado normalmente como conjuntos de Venn) de relaciones binarias, en la producción no se lo imagina uno admitiendo y explicando Merges y demás.   Avisados queden pues los estudiantes de gramatica que hayan de venir de que no les engañe el título de ese libro, y lo incluyan en sus lecturas junto al resto de tomos que Garcia-Calvo ha escrito sobre teoria linguistica. Los matemáticos en ciernes pueden sacar del libro un sentimiento de que algo más, algo no descrito, tiene que haber por debajo de sus expresiones, y que hay que andarse con cuidado a la hora de agarrar un signo igual o una variable. Que no es poca ganancia darse cuenta de ello, aunque creo yo que cualquier matemático de verdad, por su mera práctica. sí que esta prevenido sobre estas cosas, y el problema esta más bien en la matemática como se transmite a otros ámbitos.</p>
+<p>Por último, si estais interesados en las -no sé si famosas- visitas de Agustin al ArXiV, el libro que teneis que mirar es «¿Que és lo que pasa?», aunque solo sea para contrarrestar la impresión que he podido dar de no que con tanto Lucrecio y presocraticos pudiera no estar «al tanto» de las ideas modernas de la física.  El libro en sí se lee independientemente de «Contra el Tiempo», pero aunque lo extiende, no lo sustituye. Y el apendice tiene una tanda de notas sobre preprints de todo pelaje, que seguramente sorprendera al que sólo visita su sección y no se ha paseado por todo arxiv.org.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/fisica-y-matematicas-en-agustin-garcia-calvo/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tablas de Leontief de la Economia Aragonesa</title>
+		<link>/blog/tablas-de-leontief-de-la-economia-aragonesa/</link>
+					<comments>/blog/tablas-de-leontief-de-la-economia-aragonesa/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Fri, 14 Sep 2012 18:57:10 +0000</pubDate>
+				<category><![CDATA[Active Research]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[politica]]></category>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=189</guid>
+
+					<description><![CDATA[En 2005, que me conste, fue la ultima vez que se calculo el modelo de Leontief tanto para España en la Contabilidad Nacional como para Aragón en un trabajo de Perez y Parra. Lo cierto es que son cantidades demasiado agregadas para ver algo, pero como prueba de concepto he metido en el gephi la [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>En 2005, que me conste, fue la ultima vez que se calculo el modelo de Leontief tanto para España en la Contabilidad Nacional como para Aragón en un <a href="http://www.aragon.es/estaticos/ImportFiles/02/docs/Areas/Convocatorias/PremiosProyectos/2007/">trabajo de Perez y Parra</a>.</p>
+<p style="text-align: left;">Lo cierto es que son cantidades demasiado agregadas para ver algo, pero como prueba de concepto he metido en el gephi la tabla simetrica, sólo el 3% mas alto de los links internos. Esta es la pinta que tiene.</p>
+<p><a href="http://alejandro.rivero.nom.es/index.php/tablas-de-leontief-de-la-economia-aragonesa/perezparra2005b/" rel="attachment wp-att-190"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-190 aligncenter" title="PerezParra2005b" src="http://alejandro.rivero.nom.es/wordpress/wp-content/uploads/2012/09/PerezParra2005b-300x241.jpg" alt="" width="300" height="241" srcset="/blog/wp-content/uploads/2012/09/PerezParra2005b-300x241.jpg 300w, /blog/wp-content/uploads/2012/09/PerezParra2005b-600x483.jpg 600w, /blog/wp-content/uploads/2012/09/PerezParra2005b-800x644.jpg 800w, /blog/wp-content/uploads/2012/09/PerezParra2005b.jpg 910w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><span id="more-189"></span></p>
+<p>Como en la española. se ve el peso del sector de construcción; parece que se aprecia un poco menos el del transporte y un poco más el agrario, pero esto es subjetivo y ademas puede haber dado un vuelco con el tráfico de Inditex&#8230; estaria bien tener unas tablas mas actuales.</p>
+<p>La posicion de los nodos es con el algoritmo de fuerzas 2 del gephi, considerando solo los enlaces visualizados. He hecho otro positionamiento considerando todos los enlaces internos presentes en la tabla. No se si transmite más información, vosotros direis.</p>
+<p><a href="http://alejandro.rivero.nom.es/index.php/tablas-de-leontief-de-la-economia-aragonesa/perezparra2005a/" rel="attachment wp-att-191"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-191" title="PerezParra2005a" src="http://alejandro.rivero.nom.es/wordpress/wp-content/uploads/2012/09/PerezParra2005a.jpg" alt="" width="980" height="863" srcset="/blog/wp-content/uploads/2012/09/PerezParra2005a.jpg 980w, /blog/wp-content/uploads/2012/09/PerezParra2005a-300x264.jpg 300w, /blog/wp-content/uploads/2012/09/PerezParra2005a-600x528.jpg 600w, /blog/wp-content/uploads/2012/09/PerezParra2005a-800x704.jpg 800w" sizes="(max-width: 980px) 100vw, 980px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/tablas-de-leontief-de-la-economia-aragonesa/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

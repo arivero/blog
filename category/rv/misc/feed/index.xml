@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Elsewhere on the net &#8211; Incidencias</title>
+	<atom:link href="/blog/category/rv/misc/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Fri, 17 Aug 2012 23:05:17 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>¿El ultimo hovercraft, segunda epoca?</title>
+		<link>/blog/hello-world/</link>
+					<comments>/blog/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Thu, 16 Aug 2012 12:17:04 +0000</pubDate>
+				<category><![CDATA[Elsewhere on the net]]></category>
+		<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">http://192.168.1.33/wordpress/?p=1</guid>
+
+					<description><![CDATA[Hace tiempo tuve ya un blog, por obra y gracia del hosting de David de Ugarte, y entre viajes y diretes paso a mejor vida. Se llamaba «El ultimo hovercraft», y todavia se puede encontrar en archive.org. Puede que vaya poco a poco resucitando aquí algunos de esos posts. Por otro lado, esto es WordPress [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Hace tiempo tuve ya un blog, por obra y gracia del hosting de <a href="http://bitacora.lasindias.com/">David de Ugarte</a>, y entre viajes y diretes paso a mejor vida. Se llamaba «El ultimo hovercraft», y todavia se puede encontrar <a href="http://web.archive.org/web/20060927051512/http://arivero.ciberpunk.net/">en archive.org</a>. Puede que vaya poco a poco resucitando aquí algunos de esos posts.</p>
+<p>Por otro lado, esto es WordPress 3.x, estamos en el 2012, y se supone que se puede hacer más que ir añadiendo contenido semanal. Para el contenido potencialmente actualizable -iba a decir permanente, pero espero que todo sea permanente y no contingente- hay pestañicas y menus de navegación aparte.</p>
+<p>Además, tened en cuenta que suelo generar contenido en las redes sociales y también en los blogs del curro. Intentare enlazarlos  desde algun sitio, pero no esta de más darse un paseo por google si no encontrais algo que deberia estar.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

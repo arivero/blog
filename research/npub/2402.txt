@@ -1,0 +1,79 @@
+Re: LM9256
+    Standard model masses and models of nuclei
+    by Alejandro Rivero
+
+Dr. Alejandro Rivero
+EUPT
+Campus Universidad
+44003 Teruel
+SPAIN
+
+Dear Dr. Rivero,
+
+The complete file concerning the above manuscript has been reviewed by
+a Divisional Associate Editor.  The enclosed comments advise against
+publication in Physical Review Letters.  The Editors accept this
+advice.
+
+Your appeal has been considered, and our decision to reject is
+maintained.
+
+Yours sincerely,
+
+Christopher Wesselborg
+Senior Assistant Editor
+Physical Review Letters
+Email: prl@aps.org
+Fax: 631-591-4141
+http://prl.aps.org/
+
+
+----------------------------------------------------------------------------
+Report of the Divisional Associate Editor -- LM9256/Rivero
+----------------------------------------------------------------------------
+
+Dear Dr. Rivero,
+
+Your appeal, together with your manuscript and all related correspondence,
+was passed on me in my role as the Division Associate Editor. I read these
+materials and, unfortunately, I have to agree with the earlier decision
+that your manuscript is not suitable for publication in Physical Review
+Letters. Let me explain in detail the basis for such decision.
+
+In your ms. you point out that there is some similarity between the masses
+of the doubly magic nuclei Pb208 and Sn100 and the masses of the top quark
+and the Z (or W) bosons. You also speculate that there might be a similar
+relation between the mass of Sn132 and the yet undiscovered Higgs. You do
+not offer any reasons why this very approximate correlation should be
+anything else than an accident, but you imply that there might be some
+casual relation between these systems.
+
+Simply stating these observations is an insufficient basis for considering
+your manuscript for publication. The fact that these nuclei are magic is
+related to their binding energy (in fact to the binding energy
+differences) not to their total mass. The binding energy is only a very
+small fraction of the total nuclear mass, which in turn is mostly simply
+related to the number of nucleons in the nucleus (M = Z*m_p + N*m_n - B).
+Thus not only the systems are quite different (elementary particles vs.
+complex nuclei) but the quantity you use does not really reflect the
+feature (closed shells) that you use for your selection (not to speak
+about double magic Ca48 or Ni56 which you dismiss).
+
+So, let me repeat, since you have not shown that the relation is really
+accurate on one hand and at the same time you did not suggest any
+plausible physics explanation why there might be a casual relation between
+such fundamentally different objects, I must concur with the initial
+decision that you manuscript is not suitable for publication in Physical
+Review Letters.
+
+Sincerely yours,
+
+Petr Vogel
+DAE for nuclear theory
+Physical Review Letters
+
+
+Please see the following forms:
+
+  http://forms.aps.org/author/resubpolicy-prl.pdf
+    Resubmittal Policy (PRL) 

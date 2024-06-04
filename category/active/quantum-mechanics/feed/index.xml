@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mecanica Cuantica &#8211; Incidencias</title>
+	<atom:link href="/blog/category/active/quantum-mechanics/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Wed, 04 Dec 2013 13:43:24 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Quantum Free Fall</title>
+		<link>/blog/quantum-free-fall/</link>
+					<comments>/blog/quantum-free-fall/#comments</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Wed, 04 Dec 2013 12:57:15 +0000</pubDate>
+				<category><![CDATA[Mecanica Cuantica]]></category>
+		<guid isPermaLink="false">/blog/?p=594</guid>
+
+					<description><![CDATA[Abundando en el post sobre Newton, quizas la forma más corta de empezar a ver la mecanica cuantica es el movimiento en un campo de fuerzas constante, como el de un condensador, o como el de la caida parabolica de Galileo de toda la vida: El area del rectangulo mide \(v_0 \Delta t \Delta E [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Abundando en el post <a title="Un fundamento de la mecanica cuantica" href="/blog/index.php/un-fundamento-de-la-mecanica-cuantica/">sobre Newton</a>, quizas la forma más corta de empezar a ver la mecanica cuantica es el movimiento en un campo de fuerzas constante, como el de un condensador, o como el de la caida parabolica de Galileo de toda la vida:</p>
+<p><a href="/blog/wp-content/uploads/2013/12/FreeFall.png"><img decoding="async" class="aligncenter size-full wp-image-595" alt="FreeFall" src="/blog/wp-content/uploads/2013/12/FreeFall.png" width="238" height="209" /></a></p>
+<p>El area del rectangulo mide</p>
+<p style="text-align: center;">\(v_0 \Delta t \Delta E \over m g\)</p>
+<p>Y por tanto, lo que nos dice el principio de indeterminacion (<a title="Un precursor del principio de indeterminacion" href="/blog/index.php/un-precursor-del-principio-de-indeterminacion/">todavia el de Sommerfeld</a>, en este caso: \(\Delta t \Delta E \ge \hbar\)) es que no podemos construir un rectangulo de area infinitesimalmente pequeña. El area minima, si estamos haciendo «gravedad galileana cuantica», seria \(v_0 \hbar \over m g\). O en general, con una fuerza constante de intensidad F, \(v_0 \hbar \over F\)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/quantum-free-fall/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Un fundamento de la mecanica cuantica</title>
+		<link>/blog/un-fundamento-de-la-mecanica-cuantica/</link>
+					<comments>/blog/un-fundamento-de-la-mecanica-cuantica/#comments</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Wed, 30 Oct 2013 13:49:57 +0000</pubDate>
+				<category><![CDATA[Active Research]]></category>
+		<category><![CDATA[Mecanica Cuantica]]></category>
+		<guid isPermaLink="false">/blog/?p=566</guid>
+
+					<description><![CDATA[Estamos acostumbrados a la cuantización con su espacio de fase (x,p) y sus reglas de conmutación para posición y momento, y por ello a la hora de discutir sus fundamentos no parece lógico irse mas alla del formalismo hamiltoniano clásico; o como mucho de los principios de minima accion. Pero incluso esos formalismos tuvieron sus [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Estamos acostumbrados a la cuantización con su espacio de fase (x,p) y sus reglas de conmutación para posición y momento, y por ello a la hora de discutir sus fundamentos no parece lógico irse mas alla del formalismo hamiltoniano clásico; o como mucho de los principios de minima accion. Pero incluso esos formalismos tuvieron sus origenes, y tirando para atras me encuentro este dibujo primitivo de un rectangulo producto de \(\Delta x\) y \(\Delta p\):</p>
+<figure style="width: 253px" class="wp-caption aligncenter"><a href="http://www.newtonproject.sussex.ac.uk/view/texts/diplomatic/NATP00089"><img decoding="async" alt=" MS Add. 3965.7, ff. 55-62* Theor. 3." src="http://www.newtonproject.sussex.ac.uk/mainui/images/texts/NATP00089-3.png" width="253" height="153" /></a><figcaption class="wp-caption-text">MS Add. 3965.7, ff. 55-62*</figcaption></figure>
+<p>Veamoslo: la linea RQ es, se nos dice en el texto, proporcional a la fuerza y al intervalo de tiempo al cuadrado, y por tanto, dado que la fuerza aplicada en el intervalo de tiempo genera la variación de momento, lo es tambien a este último.</p>
+<p style="text-align: center;">\(\overline {RQ} \sim F (\Delta t)^2 \sim (F\Delta t)\Delta t\sim \Delta p \Delta t\)</p>
+<p> Por otro lado, la linea RP (y tambien la PQ, claro, en el límite) es el intervalo espacial recorrido \(\Delta x\), asi que el area de la «<em>figura indefinitè parva QRPT</em>» es proporcional al producto de las variaciones de posicion y momento,</p>
+<p style="text-align: center;">\({\bar {\overline {QRPT}}\over \Delta t} \sim \Delta p \Delta x\)</p>
+<p>Por tanto, y quizas un pelin anacronicamente, podemos decir que la primera pieza de la mecanica cuantica ya estaba dibujada de la mano de Newton <a title="The Portsmouth Collection" href="http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD%2FGBR%2F0012%2FMS%20Add.3958-4007%2FMS%20Add.3965%3A7">en 1684</a>.</p>
+<p>Naturalmente, estamos aun en mecanica clasica y esperamos que el area QRPT tienda a cero mas rapidamente que \(\Delta t\). lo que ocurre por obvia y gracia de la aceleración centripeta y, en ultima instancia, de la parabola de Galileo. Aunque en el uso inmediato de la figura Newton  no tiene que preocuparse de ello, porque el intervalo de tiempo, ley de Kepler mediando, es proporcional al area barrida, y por ello puede usar el producto de SP y QT en sus consideraciones.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/un-fundamento-de-la-mecanica-cuantica/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Un precursor del principio de indeterminacion</title>
+		<link>/blog/un-precursor-del-principio-de-indeterminacion/</link>
+					<comments>/blog/un-precursor-del-principio-de-indeterminacion/#comments</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Sun, 27 Oct 2013 19:39:04 +0000</pubDate>
+				<category><![CDATA[Mecanica Cuantica]]></category>
+		<guid isPermaLink="false">/blog/?p=554</guid>
+
+					<description><![CDATA[Pongamos que tenemos que tomar una decisión sobre una variacion de recursos \(\Delta Q\), que tendremos que donar, absorber, distribuir, o alguna operación de ese estilo. Quizas algo de High Frequency Trading, donde tenemos que competir con otros agentes. El tiempo que necesitaremos para esta decisión podria depender de la magnitud de este cambio: \(\Delta [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Pongamos que tenemos que tomar una decisión sobre una variacion de recursos \(\Delta Q\), que tendremos que donar, absorber, distribuir, o alguna operación de ese estilo. Quizas algo de High Frequency Trading, donde tenemos que competir con otros agentes. El tiempo que necesitaremos para esta decisión podria depender de la magnitud de este cambio:</p>
+<p style="text-align: center;">\(\Delta t \geq f(\Delta Q)\)</p>
+<p>Una estrategia valida sería tener un cluster de maquinas paralelas disponibles, en Amazon o en algun sistema de Cloud, para calcular la operación, y asignar máquinas al cálculo de forma proporcional  a la magnitud que estemos considerando: a más importancia del cambio, más nos podemos permitir gastar y más máquinas metemos en el saco, dividiendo el tiempo de cálculo total. De esta manera, al paralelizar el proceso, tendremos situaciones en las que el tiempo de tomar la decision se reducirá y en algunos casos llegaremos a situaciones de alto paralelismo en las que incluso sera inversamente proporcional a la magnitud \(\Delta Q\):</p>
+<p style="text-align: center;">\(\Delta t \geq{K\over \Delta Q}\)</p>
+<p>O lo que es lo mismo:</p>
+<p style="text-align: center;">\(\Delta Q \Delta t \geq K\)</p>
+<p>Esto es, un proceso meramente economico ¡puede estar afectado por un principio de indeterminación!</p>
+<p>De hecho, este principio es bastante similar a uno del que me enteré el otro dia gracias al <a href="http://www.experientiadocet.com/2013/10/charla-en-quantum13-bohr-no-fue-el.html">video de una charla</a> de <a href="https://twitter.com/EDocet">@EDocet</a>.</p>
+<p style="text-align: center;">\(\Delta E \Delta t \geq h\)</p>
+<p>Y que fue propuesto por Sommerfeld en 1911 como idea para intentar explicar la emisión y scattering de determinados tipos de radiación: que el tiempo necesario para emitir tal radiación fuera inversamente proporcional a la energia implicada. Lo cual de golpe es anti-intuitivo, aunque en el turno de preguntas Poincaré, creo recordar, sugirió que habia modelos de colisiónes donde habia dependencias todavia más raras con el radio de las bolas que colisionaban. El asunto quedo subsumido en los principios de cuantización de Bohr-Sommerfeld, que eran para orbitas cerradas y por ello más faciles de manejar, y no tengo noticias de que se le diera más vueltas. Pero ahi estaba la idea, y cuando unos años despues Heisenberg obtenia con precisión matemática su principio de incertidumbre, no le pillaba demasiado de sorpresa porque sabia que estaba dando rigor a una intuición de uno de sus mentores.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/un-precursor-del-principio-de-indeterminacion/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Menos que orden árbol</title>
+		<link>/blog/menos-que-orden-arbol/</link>
+					<comments>/blog/menos-que-orden-arbol/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Sun, 29 Sep 2013 16:30:50 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Mecanica Cuantica]]></category>
+		<guid isPermaLink="false">/blog/?p=525</guid>
+
+					<description><![CDATA[En QFT es muy típico hacer una primera estimación a «orden árbol», sin considerar creación de pares particula/antiparticula. Pero particularmente me resulta muy educativo considerar las diferentes fuerzas muy a la antigua, como si estuvieramos en Bohr-Sommerfeld, o incluso en Bohr a secas: considerar la vieja condicion de equilibrio de fuerzas en una orbita circular: [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>En QFT es muy típico hacer una primera estimación a «orden árbol», sin considerar creación de pares particula/antiparticula. Pero particularmente me resulta muy educativo considerar las diferentes fuerzas muy a la antigua, como si estuvieramos en Bohr-Sommerfeld, o incluso en Bohr a secas: considerar la vieja condicion de equilibrio de fuerzas en una orbita circular:</p>
+<p>\({V^2 \over r} = {F / m}\)</p>
+<p>Moviendo la masa orbitante al lado izquierdo, podemos poner la formula en función del momento angular, y por tanto comparar directamente con la acción minima de mecanica cuántica, la cte de Planck \(h\) (y algunos factores multiplos de pi que siempre me olvido, y que me voy a ahorrar para este comentario)</p>
+<p>\(L {V \over r^2} = F\)</p>
+<p>El primer caso de interes es el electromagnetismo, o simplemente un campo electrostatico en tres dimensiones espaciales, poniendo \(F = K / r^2\).  El dato del radio se simplifica a uno y otro lado y nos queda</p>
+<p>\(L={K\over V}\)</p>
+<p>Ahora ponemos un poco de ciencia moderna: por un lado V no puede rebasar la velocidad de la luz, y por otro no puede ser mayor que la cte de Planck. Estas dos condiciones</p>
+<p>\(L &lt; {K \over c}; \;\) \(h &lt; L\)</p>
+<p>Son las que definen la cte de estructura fina, \(\alpha \approx {K\over c h}\), que cobra su sentido en la zona cercana a la  «saturacion» de las desigualdades, cuando el sistema es a la vez relativista y cuantico. El hecho de que la cte de estructura fina sea pequeña implica que el regimen relativista esta bien regido por la mecanica cuantica, tenemos «autorizacion clasica» para ir a momentos angulares hasta 137 veces más pequeños que la cte de Planck, y es logico que la cuántica tenga algo que decir, pues tiene que prohibir esos nivels. Por cierto, que si calcularamos el radio en función de la velocidad, veriamos que a velocidad c corresponde el radio cero.</p>
+<p>Si la constante de estructura fina fuera de orden unidad o mayor, entonces ya no esta tan claro que tengamos algo que hacer con la mecanica cuántica: simplemente las reglas del electromagnetismo dejarian las orbitas estables fuera del dominio de la teoria de Bohr-Sommerfeld.</p>
+<p>Otra fuerza interesante es la fuerza constante que se supone tienen los potenciales confinantes como el de QCD. En tal caso, no hay forma de simplificar los radios, y la condicion cuantica parece ser (con las unidades adecuadas para la cte de fuerza, K).</p>
+<p>\(h&lt; L &lt; {K r^2 \over c}\)</p>
+<p>Pero la condicion «relativista» es mas intriguante. El radio depende de la velocidad, a partir de la ecuacion inicial v^2/r=K/m, o lo que es lo mismo</p>
+<p>\(r={m v^2 \over K}\)</p>
+<p>asi que en realidad</p>
+<p>\(L={K\over v}({m v^2\over K})^2= {m^2 \over K} v^3 = \)</p>
+<p>Y en el limite relativista tambien el momento angular tiene un máximo, no un minimo (y de hecho se va a infinito). Nuestra teoria juguete «de cuerdas de Bohr-Sommerfeld» dice que</p>
+<p>\(h&lt;{m^2\over K}v^3&lt;{m^2\over K}c^3\)</p>
+<p>Y si la particula orbitante tiene masa en reposo distinta de cero, aplicamos \(m=m_0/\sqrt{1-v^2/c^2}\)</p>
+<p>\(h&lt;{m_0^2\over K}{v^3\over 1-v^2/c^2}&lt;\infty\)</p>
+<p>El resultado es llamativo. Para una masa en reposo lo suficientemente grande, los estados ligados cuanticos ni siquiera son relativistas. La cuerda cuantica relativista cobra mas sentido cuando la particula en el extremo es massless, sin masa en reposo, y entonces v=c. Dejamos como «ejercicio» el considerar qué pasa en cada caso con el radio del estado «fundamental» cuantico, esto es, el de momento angular L=h.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/menos-que-orden-arbol/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mis dudas sobre mecanica cuantica</title>
+		<link>/blog/mis-dudas-sobre-mecanica-cuantica/</link>
+					<comments>/blog/mis-dudas-sobre-mecanica-cuantica/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Tue, 03 Sep 2013 21:39:39 +0000</pubDate>
+				<category><![CDATA[Arxiv]]></category>
+		<category><![CDATA[Mecanica Cuantica]]></category>
+		<category><![CDATA[Wiki-like]]></category>
+		<guid isPermaLink="false">/blog/?p=511</guid>
+
+					<description><![CDATA[&#8230; y, espero, las de más gente. La semana pasada un amigo subió un documento animando a pensar, y escribir, sobre las cuestiones de fundamentos de la Mecánica Cuántica: http://arxiv.org/abs/1308.5619 «Shut up and let me think! Or why you should work on the foundations of quantum mechanics as much as you please« por Pablo Echenique-Robba [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>&#8230; y, espero, las de más gente. La semana pasada un amigo subió un documento animando a pensar, y escribir, sobre las cuestiones de fundamentos de la Mecánica Cuántica:</p>
+<p style="text-align: center;"><a href="http://arxiv.org/abs/1308.5619">http://arxiv.org/abs/1308.5619</a></p>
+<p style="text-align: center;">«<em>Shut up and let me think! Or why you should work on the foundations of quantum mechanics as much as you please</em>«</p>
+<p style="text-align: center;">por Pablo Echenique-Robba</p>
+<p>Y como espero que muchos de los que llegan a estas paginas tienen ese «restless intellect», no me parece mala idea abrir el tema a ver que se oye en los comentarios, y aprovecharme de la jugada de apertura para exponer mi propia idea:</p>
+<p style="text-align: center;">Puede que muchas de las dudas lo sean sobre los fundamentos de la mecánica clásica.</p>
+<p>Esto parece que no se tiene en pie, porque casi todos los articulos de fundamentos se ponen a discutir páginas y páginas sobre el problema de la médida y el colapso de la función de onda, y muy poquito sobre la cuestión de la evolución de la función de onda. Mi sospecha es que es un efecto farola («lampost effect»); que es lo que mejor dominamos, lo de la preparación de un estado cuántico y lo de su proyección en otros y cosas asi, y que por ello nos ponemos a discutir sobre ello. Pero la explicación última lleva a intentar entender la relación entre observables clásicos y cuanticos, y si existen los primeros, y si hacen falta.</p>
+<p>Una primera evidencia de que hay algo que no se entiende en la mecánica clásica es esta: que no funciona. Que la Naturaleza no la emplea. Y sabemos exactamente lo que la Naturaleza no traga; no tiene problemas -que sepamos- con el tiempo continuo o con el espacio indefinidamente divisible. Pero se le atragantan las variaciones de momento angular. No solo el momento angular total debe conservarse; ademas dos subsistemas no pueden transferirse una cantidad cualquiera, arbitrariamente pequeña, de momento angular. Éste debe ser un múltiplo de la constante de Planck.</p>
+<p>En el caso de la teoria de la relatividad, la constante <em>c</em> viene obligada por la teoria de campos clásica: una vez hemos puesto las leyes del electromagnetismo, su incompatibilidad con las transformaciones de Galileo sólo se soluciona incorporando una velocidad máxima. Entendemos pues lo suficiente de teoria de campos para que nadie se llame a engaño en cuanto a la necesidad de la mecánica relativista. Pero la constante <em>h</em> no parece que venga obligada de ninguna parte.</p>
+<p>Hay otros indicios de que algo suena mal en la mecánica clásica, pero son muy pequeños. Uno de ellos es histórico, cuando te das cuenta de que los inventores del calculo infinitesimal tuvieron muchas más dudas para aplicarlo a la integración de recorridos que a la integración de longitudes y volumenes. Ya en la antiguedad, Democrito resuelve la cuestion de los infinitesimos para el volumen de la piramide y no se atreve a aplicar la misma solución a la flecha de Zenon. Y siglos despues, Newton va retrasando y retrasando la publicación de los Principia, y en cada retraso retoca y vuelve a llenar de comentarios las secciones del libro I sobre la orbita bajo fuerzas centrales, donde el principal protagonista es la conservación del momento angular y la ley de areas de Kepler.</p>
+<p>Otro indicio viene del cálculo númerico; es muy llamatico que el desarrollo de la precision arbitrariamente grande en los algoritmos de Runge-Kutta venga dado por unos árboles, que descubrio Cayley pero que emplea un tal Butcher en este contexto, similares a los que se ha descubierto que gobiernan la inserción de loops en el proceso de renormalización de la serie perturbativa de diagramas de Feynman.</p>
+<p>La propia serie de Feynman es otra pista: viene de expandir la integral de camino, la cúal es un desarrollo que F. tomó de un argumento de Dirac sobre las relaciones entre la mecánica cuántica y la clasica. Venia Dirac a decir que un cierto objecto clásico, la transformacion de contacto, llevaba a usar el Langrangiano como mecanismo para transferir el sistema desde un estado en tiempo <em>t</em> a otro en un tiempo distinto <em>t&#8217;</em>.</p>
+<p>La acción, el langrangiano, tiene unidades de momento angular. Supongo que en el siglo XIX los estudiosos de la mecánica clásica consiguieron solucionar el problema de la dinámica de un objeto cuando el potencial en el que se mueve no es de fuerzas centrales, y por tanto no se conserva el momento angular. Encontraron otra cantidad, basada tambien en el producto de posición y momento, que permitia realizar la integración del recorrido, o más bien encontrar el recorrido directamente mediante un principio de busqueda de máximos y minimos, al igual que en el caso del potencial central se puede encontrar el radio de la orbita circular añadiendo simplemente una fuerza ficticia y buscando el minimo del nuevo potencial. ¿Entendemos lo suficiente estas tecnicas de mecánica lagrangiana? Si funcionan, ¿por qué diablos la Naturaleza las rechaza y prefiere regularizarlas y suavizarlas mediante la cte de Planck?</p>
+<p>Me pregunto, volviendo al principio, cuantas de las dudas que decimos tener de «mecanica cuantica» no son sino dudas respecto a todos estos procesos de limite, de extremos y de principios de máxima acción, que hemos pasado de entender y que simplemente hemos dejado para el curso siguiente, y ahora el curso siguiente ha llegado y nos ha sorprendido. Y ojo, que seguramente ahi habrá escondidas muchas cosas que sí que se entienden perfectamente en mecánica clásica, pero que queda más elegante, o menos vergonzoso, discutir diciendo que estamos hablando de una duda de mecánica cuántica.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/mis-dudas-sobre-mecanica-cuantica/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Delta de Feynman</title>
+		<link>/blog/delta-de-feynman/</link>
+					<comments>/blog/delta-de-feynman/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Sun, 14 Jul 2013 14:34:50 +0000</pubDate>
+				<category><![CDATA[Arxiv]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Mecanica Cuantica]]></category>
+		<category><![CDATA[Revival]]></category>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=182</guid>
+
+					<description><![CDATA[Hace tiempo preparé un pequeño comentario explicando que la regularización como integral  compleja de la delta de dirac es sospechosamente parecida a la tecnica de Feynman; podemos emplear la delta para codificar una condicion de minimo f &#8216;(0)=0, y eso aplicado en funcionales, en el Langragiano, es lo que hace la integral de camino famosa. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Hace tiempo preparé un pequeño comentario explicando que la regularización como integral  compleja de la delta de dirac es sospechosamente parecida a la tecnica de Feynman; podemos emplear la delta para codificar una condicion de minimo f &#8216;(0)=0, y eso aplicado en funcionales, en el Langragiano, es lo que hace la integral de camino famosa. No lo conte muy bien, pero aqui esta mas o menos: <a href="http://dftuz.unizar.es/~rivero/research/9803035.pdf">http://dftuz.unizar.es/~rivero/research/9803035.pdf</a></p>
+<p>Una pieza que se me quedó por ensamblar es el significado del principio de acción en mecanica clasica. Feynman lo entendio en una charla de pub con Dirac, en la que este le habló de las «transformaciones de contacto» y de su necesitdad en mecanica clásica, y de ahi nos perdemos en la oscuridad de la investigacion del siglo XIX. La pista de que tenga, h, unidades de momento angular, ¿significa que es en realidad la forma correcta de generalizar los potenciales centrales al campo de fuerzas genérico? ¿Es esta integral lo mejor que se puede ofrecer para minimizar pequeñisimos remolinos, cada uno cumpliendo la ley de campos centrales?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/delta-de-feynman/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

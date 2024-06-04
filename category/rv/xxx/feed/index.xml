@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Arxiv &#8211; Incidencias</title>
+	<atom:link href="/blog/category/rv/xxx/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Wed, 17 Jan 2018 19:26:03 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Mis dudas sobre mecanica cuantica</title>
+		<link>/blog/mis-dudas-sobre-mecanica-cuantica/</link>
+					<comments>/blog/mis-dudas-sobre-mecanica-cuantica/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Tue, 03 Sep 2013 21:39:39 +0000</pubDate>
+				<category><![CDATA[Arxiv]]></category>
+		<category><![CDATA[Mecanica Cuantica]]></category>
+		<category><![CDATA[Wiki-like]]></category>
+		<guid isPermaLink="false">/blog/?p=511</guid>
+
+					<description><![CDATA[&#8230; y, espero, las de más gente. La semana pasada un amigo subió un documento animando a pensar, y escribir, sobre las cuestiones de fundamentos de la Mecánica Cuántica: http://arxiv.org/abs/1308.5619 «Shut up and let me think! Or why you should work on the foundations of quantum mechanics as much as you please« por Pablo Echenique-Robba [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>&#8230; y, espero, las de más gente. La semana pasada un amigo subió un documento animando a pensar, y escribir, sobre las cuestiones de fundamentos de la Mecánica Cuántica:</p>
+<p style="text-align: center;"><a href="http://arxiv.org/abs/1308.5619">http://arxiv.org/abs/1308.5619</a></p>
+<p style="text-align: center;">«<em>Shut up and let me think! Or why you should work on the foundations of quantum mechanics as much as you please</em>«</p>
+<p style="text-align: center;">por Pablo Echenique-Robba</p>
+<p>Y como espero que muchos de los que llegan a estas paginas tienen ese «restless intellect», no me parece mala idea abrir el tema a ver que se oye en los comentarios, y aprovecharme de la jugada de apertura para exponer mi propia idea:</p>
+<p style="text-align: center;">Puede que muchas de las dudas lo sean sobre los fundamentos de la mecánica clásica.</p>
+<p>Esto parece que no se tiene en pie, porque casi todos los articulos de fundamentos se ponen a discutir páginas y páginas sobre el problema de la médida y el colapso de la función de onda, y muy poquito sobre la cuestión de la evolución de la función de onda. Mi sospecha es que es un efecto farola («lampost effect»); que es lo que mejor dominamos, lo de la preparación de un estado cuántico y lo de su proyección en otros y cosas asi, y que por ello nos ponemos a discutir sobre ello. Pero la explicación última lleva a intentar entender la relación entre observables clásicos y cuanticos, y si existen los primeros, y si hacen falta.</p>
+<p>Una primera evidencia de que hay algo que no se entiende en la mecánica clásica es esta: que no funciona. Que la Naturaleza no la emplea. Y sabemos exactamente lo que la Naturaleza no traga; no tiene problemas -que sepamos- con el tiempo continuo o con el espacio indefinidamente divisible. Pero se le atragantan las variaciones de momento angular. No solo el momento angular total debe conservarse; ademas dos subsistemas no pueden transferirse una cantidad cualquiera, arbitrariamente pequeña, de momento angular. Éste debe ser un múltiplo de la constante de Planck.</p>
+<p>En el caso de la teoria de la relatividad, la constante <em>c</em> viene obligada por la teoria de campos clásica: una vez hemos puesto las leyes del electromagnetismo, su incompatibilidad con las transformaciones de Galileo sólo se soluciona incorporando una velocidad máxima. Entendemos pues lo suficiente de teoria de campos para que nadie se llame a engaño en cuanto a la necesidad de la mecánica relativista. Pero la constante <em>h</em> no parece que venga obligada de ninguna parte.</p>
+<p>Hay otros indicios de que algo suena mal en la mecánica clásica, pero son muy pequeños. Uno de ellos es histórico, cuando te das cuenta de que los inventores del calculo infinitesimal tuvieron muchas más dudas para aplicarlo a la integración de recorridos que a la integración de longitudes y volumenes. Ya en la antiguedad, Democrito resuelve la cuestion de los infinitesimos para el volumen de la piramide y no se atreve a aplicar la misma solución a la flecha de Zenon. Y siglos despues, Newton va retrasando y retrasando la publicación de los Principia, y en cada retraso retoca y vuelve a llenar de comentarios las secciones del libro I sobre la orbita bajo fuerzas centrales, donde el principal protagonista es la conservación del momento angular y la ley de areas de Kepler.</p>
+<p>Otro indicio viene del cálculo númerico; es muy llamatico que el desarrollo de la precision arbitrariamente grande en los algoritmos de Runge-Kutta venga dado por unos árboles, que descubrio Cayley pero que emplea un tal Butcher en este contexto, similares a los que se ha descubierto que gobiernan la inserción de loops en el proceso de renormalización de la serie perturbativa de diagramas de Feynman.</p>
+<p>La propia serie de Feynman es otra pista: viene de expandir la integral de camino, la cúal es un desarrollo que F. tomó de un argumento de Dirac sobre las relaciones entre la mecánica cuántica y la clasica. Venia Dirac a decir que un cierto objecto clásico, la transformacion de contacto, llevaba a usar el Langrangiano como mecanismo para transferir el sistema desde un estado en tiempo <em>t</em> a otro en un tiempo distinto <em>t&#8217;</em>.</p>
+<p>La acción, el langrangiano, tiene unidades de momento angular. Supongo que en el siglo XIX los estudiosos de la mecánica clásica consiguieron solucionar el problema de la dinámica de un objeto cuando el potencial en el que se mueve no es de fuerzas centrales, y por tanto no se conserva el momento angular. Encontraron otra cantidad, basada tambien en el producto de posición y momento, que permitia realizar la integración del recorrido, o más bien encontrar el recorrido directamente mediante un principio de busqueda de máximos y minimos, al igual que en el caso del potencial central se puede encontrar el radio de la orbita circular añadiendo simplemente una fuerza ficticia y buscando el minimo del nuevo potencial. ¿Entendemos lo suficiente estas tecnicas de mecánica lagrangiana? Si funcionan, ¿por qué diablos la Naturaleza las rechaza y prefiere regularizarlas y suavizarlas mediante la cte de Planck?</p>
+<p>Me pregunto, volviendo al principio, cuantas de las dudas que decimos tener de «mecanica cuantica» no son sino dudas respecto a todos estos procesos de limite, de extremos y de principios de máxima acción, que hemos pasado de entender y que simplemente hemos dejado para el curso siguiente, y ahora el curso siguiente ha llegado y nos ha sorprendido. Y ojo, que seguramente ahi habrá escondidas muchas cosas que sí que se entienden perfectamente en mecánica clásica, pero que queda más elegante, o menos vergonzoso, discutir diciendo que estamos hablando de una duda de mecánica cuántica.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/mis-dudas-sobre-mecanica-cuantica/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Delta de Feynman</title>
+		<link>/blog/delta-de-feynman/</link>
+					<comments>/blog/delta-de-feynman/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Sun, 14 Jul 2013 14:34:50 +0000</pubDate>
+				<category><![CDATA[Arxiv]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Mecanica Cuantica]]></category>
+		<category><![CDATA[Revival]]></category>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=182</guid>
+
+					<description><![CDATA[Hace tiempo preparé un pequeño comentario explicando que la regularización como integral  compleja de la delta de dirac es sospechosamente parecida a la tecnica de Feynman; podemos emplear la delta para codificar una condicion de minimo f &#8216;(0)=0, y eso aplicado en funcionales, en el Langragiano, es lo que hace la integral de camino famosa. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Hace tiempo preparé un pequeño comentario explicando que la regularización como integral  compleja de la delta de dirac es sospechosamente parecida a la tecnica de Feynman; podemos emplear la delta para codificar una condicion de minimo f &#8216;(0)=0, y eso aplicado en funcionales, en el Langragiano, es lo que hace la integral de camino famosa. No lo conte muy bien, pero aqui esta mas o menos: <a href="http://dftuz.unizar.es/~rivero/research/9803035.pdf">http://dftuz.unizar.es/~rivero/research/9803035.pdf</a></p>
+<p>Una pieza que se me quedó por ensamblar es el significado del principio de acción en mecanica clasica. Feynman lo entendio en una charla de pub con Dirac, en la que este le habló de las «transformaciones de contacto» y de su necesitdad en mecanica clásica, y de ahi nos perdemos en la oscuridad de la investigacion del siglo XIX. La pista de que tenga, h, unidades de momento angular, ¿significa que es en realidad la forma correcta de generalizar los potenciales centrales al campo de fuerzas genérico? ¿Es esta integral lo mejor que se puede ofrecer para minimizar pequeñisimos remolinos, cada uno cumpliendo la ley de campos centrales?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/delta-de-feynman/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Alain encuentra un Higgs compuesto.</title>
+		<link>/blog/alain-encuentra-un-higgs-compuesto/</link>
+					<comments>/blog/alain-encuentra-un-higgs-compuesto/#comments</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Mon, 06 May 2013 21:23:21 +0000</pubDate>
+				<category><![CDATA[Arxiv]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[grand unification]]></category>
+		<category><![CDATA[pati-salam]]></category>
+		<category><![CDATA[theory of everything]]></category>
+		<guid isPermaLink="false">/blog/?p=434</guid>
+
+					<description><![CDATA[Pero en un sitio muy raro&#8230; para romper la simetria Pati-Salam. No obstante, esta ha sido la primera novedad interesante de los modelos de Connes y familia desde hace cinco años, por lo menos. Y puede que vaya bien encaminada. En los articulos del 2006, con Chamseddine y Marcolli, ya apuntaba que el algebra del [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Pero en un sitio muy raro&#8230; para romper la simetria Pati-Salam.</p>
+<p>No obstante, esta ha sido la primera novedad interesante de los modelos de Connes y familia desde hace cinco años, por lo menos. Y puede que vaya bien encaminada.</p>
+<p>En los articulos del 2006, con Chamseddine y Marcolli, ya apuntaba que el algebra del modelo estandar parecia venir del algebra de Pati-Salam, pero para romper de una a otra tenia que poner un postulado extra.</p>
+<p>Lo cual no era malo, porque en el fondo esperamos que la ruptura de Pati-Salam sea muy peculiar, y no otro Higgs mas en el bolso.</p>
+<p>Y lo que <a href="http://arxiv.org/abs/1304.8050">ahora</a> ha encontrado, con <a href="http://arxiv.org/find/hep-th/1/au:+Suijlekom_W/0/1/0/all/0/1">van Suijlekom</a> añadiendose a la fiesta, es que si eliminamos el postulado lo que ocurre es que el Higgs del Pati-Salam no es tal, sino un compuesto del Higgs que ya conocemos.</p>
+<p>Para mi, lo más inspirador es la notación con que lo presenta, dado que el hecho de construir el algebra \(A_{(2)}\) a partir del conmutador \([A_{(1)}, X]\) es lo que produce este efecto por el que (2) es compuesto de (1). Y me digo, si por otro lado teniamos ya que (1) hacia uso del conmutador \([D, X]\)&#8230; ¿No significara esto que en el fondo el Higgs es un compuesto de D, usease, del espectro de fermiones?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/alain-encuentra-un-higgs-compuesto/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cómo salvé a las teorias supersímetricas (y II)</title>
+		<link>/blog/como-salve-a-las-teorias-supersimetricas-y-ii/</link>
+					<comments>/blog/como-salve-a-las-teorias-supersimetricas-y-ii/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Sun, 18 Nov 2012 17:31:09 +0000</pubDate>
+				<category><![CDATA[Arxiv]]></category>
+		<category><![CDATA[Revival]]></category>
+		<category><![CDATA[grand unification]]></category>
+		<category><![CDATA[m theory]]></category>
+		<category><![CDATA[string theory]]></category>
+		<category><![CDATA[superstrings]]></category>
+		<category><![CDATA[theory of everything]]></category>
+		<category><![CDATA[wrong turn]]></category>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=323</guid>
+
+					<description><![CDATA[Esta es la segunda parte de Composites y SUSY, tras el intermedio motivador de la desintegracion del Z0. Me ha dicho amarashiki que tendria que ser muy didactico para convencerle, o para convencer a alguien. Voy a intentarlo, aunque no se si saldrá bien, ni lo de ser didactico, ni lo de convencer. Con sembrar [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Esta es la segunda parte de <a title="Supersimetria y Compuestos (I)" href="http://alejandro.rivero.nom.es/index.php/supersimetria-y-compuestos-i/">Composites y SUSY</a>, tras el intermedio motivador de la <a title="La Z0 y los pseudoescalares." href="http://alejandro.rivero.nom.es/index.php/la-z0-y-los-pseudoescalares/">desintegracion del Z0</a>.</p>
+<p>Me ha dicho <a href="http://thespectrumofriemannium.wordpress.com/">amarashiki</a> que tendria que ser muy didactico para convencerle, o para convencer a alguien. Voy a intentarlo, aunque no se si saldrá bien, ni lo de ser didactico, ni lo de convencer. Con sembrar duda suficiente para que recomendeis esta entrada del blog, me conformo.</p>
+<p>Lo habiamos dejado en plantearnos si los escalares susy podian ser compuestos. No significa necesariamente que tengan subestructura real, basta con que tengan una simetria «global de sabor». ¿La tienen?</p>
+<p>Tomemos primero los sleptons, los escalares leptonicos. Como hay tres generaciones de particulas, y cada fermion tiene dos escalares asociados, tendremos en total <strong>24</strong> sleptons: <strong>6</strong> de carga negativa, <strong>6</strong> de carga positiva y <strong>12</strong> neutros.</p>
+<p>Si queremos organizarlos como compuestos, tendremos que usar un producto de dos representaciones del mismo grupo de simetria de sabor. Resulta que sí que tenemos un candidato: <strong>SU(5)</strong>, cuya representacion <strong>24</strong> puede obtenerse a partir del producto de las representaciones \(\bf 5 \times \bar 5\). Ello nos da un <strong>24 + 1</strong>, y nos quedamos con la <strong>24</strong>. La barrita encima del segundo cinco indica que cogemos las «antiparticulas».</p>
+<p>Pero ¿tiene esto las cargas adecuadas?. Podemos ver que sí, acogiendonos a la descomposicion de <strong>SU(5)</strong> en dos subgrupos de sabor, <strong>SU(3) x SU(2)</strong>, cada uno con una carga electrica fija. Si le damos al <strong>SU(3)</strong> una carga \(x\) y al <strong>SU(2)</strong> una carga \(x+1\), los distintos pares «particula/antiparticula» iran sumando bien <strong>1</strong>, bien <strong>-1</strong>, bien <strong>0</strong>. Se puede ver que la construccion completa monta lo que queriamos, y en particular seis de carga negativa a base de una «particula» del <strong>SU(3)</strong> combinada con una «antiparticula» del <strong>SU(2)</strong>.</p>
+<p>¿No estoy siendo lo suficientemente didactico? Pues bueno, voy a poner una regla mnemotecnica que ayudará bastante: etiquetemos las particulas de carga \(x\) con los nombres <em>d,s,b</em>. Y las particulas de carga \(x+1\) con los nombres <em>u,c</em>. De forma que la representacion fundamental de <strong>SU(5)</strong> la podemos etiquetar con los nombres (<em>d,s,b,u,c</em>), y la construccion del producto es basicamente unir una «particula» de la fundamental con una «antiparticula» de la antifundamental, y luego quitar la diagonal para quedarnos con el <strong>24</strong>. Fijaos que obviamente todas las de la diagonal son neutras; de aqui es de donde estamos sacando los s-neutrinos.</p>
+<p>Pues eso, ya tenemos los leptones escalares. Vamos con los squarks.</p>
+<p>Resulta que funciona el mismo truco. Es rarisimo que funcione, pero justo da la coincidencia de que tenemos tres generaciones y eso ayuda mucho. Total, que vamos a usar para construir los anti-squarks el producto de \(\bf 5 \times 5\), y obviamente usaremos para los squarks el \(\bf \bar 5 \times \bar 5\).</p>
+<p>En este caso, tiramos de teoria de grupos y vemos que el producto \(\bf 5 \times 5\) se descompone en \(\bf \bar {15}+ \bar {10}\). Es una molestia, porque solo necesitamos doce anti-squarks de un color dado: seis de carga electrica <strong>-2/3</strong>, y seis de carga electrica <strong>+1/3</strong>. Pero podemos ver que los doce se encuentran en la representacion \(\bf \bar{15}\), la cual contiene justo seis de carga \(2 x + 1\), seis de carga \(2 x\), y tres de carga \(2 x + 2\).</p>
+<p>Total, que poniendo, como ya os estabais suponiendo todos, \(x=-1/3\), sale lo que queremos: seis anti-squarks de carga <strong>+1/3</strong> y seis anti-squarks de carga <strong>-2/3</strong>.</p>
+<p>En resumen, hemos conseguido construir todas las particulas escalares supersimetricas a base de cinco piezas en los compuestos: tres «tipo D», <em>d,s,b</em>, de carga -1/3 y dos «tipo U», <em>u,c</em>, de carga +2/3 ¡Caramba, que curioso!</p>
+
+<table id="tablepress-3" class="tablepress tablepress-id-3">
+<thead>
+<tr class="row-1">
+	<th class="column-1">fermion</th><th class="column-2">boson</th><th class="column-3">carga<br />
+electrica</th><th class="column-4">color</th><th class="column-5"></th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2">
+	<td class="column-1">electron, muon, neutrino</td><td class="column-2">las 6 parejas de tipo (D,anti-U)</td><td class="column-3">-1</td><td class="column-4">singlete</td><td class="column-5"></td>
+</tr>
+<tr class="row-3">
+	<td class="column-1">neutrinos</td><td class="column-2">12 combinaciones de tipo (D,anti-D) o (U,anti-U)</td><td class="column-3">0</td><td class="column-4">singlete</td><td class="column-5"></td>
+</tr>
+<tr class="row-4">
+	<td class="column-1">up, charm, top</td><td class="column-2">las 6 parejas de tipo (anti-D,anti-D)</td><td class="column-3">+2/3</td><td class="column-4">triplete</td><td class="column-5"></td>
+</tr>
+<tr class="row-5">
+	<td class="column-1">down, strange, bottom</td><td class="column-2">las 6 parejas de tipo (anti-D,anti-U)</td><td class="column-3">-1/3</td><td class="column-4">triplete</td><td class="column-5"></td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-3 from cache -->
+<p>De momento, estos <em>d,s,b,u,c</em> son preones, subcomponentes de los squarks. Pero vaya, tiene su delito que tengan que tener la misma carga electrica y carga de color que los quarks que ya conocemos. ¿Nos lo tomamos mas en serio? A ver si va a resultar que los preones de los squarks son los quarks, unidos por la fuerza de color&#8230;</p>
+<p>pero entonces&#8230; ¿no faltaría alguien? En efecto, el quark top no hace de preon. Es como si el quark top no pudiera formar particulas compuestas con los demas quarks. Que cosa tan rara, ello podria ocurrir por ejemplo si la masa del top fuera superior a la de la W y muchisimo mas alta que la escala de QCD, de forma que se desintegrara antes de poder formar enlaces. ¡Anda, si es así! Aqui hay ademas un detalle interesante, en cierto modo esto <strong>solo funciona con tres generaciones</strong>. Con mas de tres, podriamos por supuesto seguir haciendo el mismo truco pero tendriamos que poner generaciones enteras en la masa del top, o mayor, y no habria manera de sacar un numero aceptable de neutrinos.</p>
+<p>pero entonces, ¡wait! los preones de los sleptons&#8230; ¿decimos que son pares quark-antiquark, y su composicion incluye unirlos con la fuerza de color? ¿Eso son los mesones, no? Pues vaya, para que este lio fuera cierto, si la supersimetria esta solo debilmente rota, los mesones tendrian que tener la misma masa que los leptones escalares.</p>
+<p>Pues o mucho ha cambiado la cosa desde que escribí los articulos (todo esto lo fuí contando en <a href="http://arxiv.org/abs/hep-ph/0512065">hep-ph/0512065</a>, <a href="http://arxiv.org/abs/0710.1526">0710.1526</a> y <a href="http://arxiv.org/abs/0910.4793">0910.4793</a>), o resulta que sí que la tienen. Ademas si bien es posible justificar que el lepton tau pesa mas o menos lo mismo que los mesones con quarks de segunda o tercera generacion, la cercania de la masa entre el muon y el pion no tiene ninguna justificacion conocida. Y ahi esta.</p>
+<p>Vamos, que podemos,<br />
+1) asumir que los squarks y sleptons tienen una simetria de sabor compatible con el ser compuestos.<br />
+Y tirando a ser un pelin mas heterodoxos,<br />
+2) observar que los preones de los compuestos se parecen asombrosamente a los propios quarks, y que las masas que conocemos que forman los quarks en la interacción fuerte, los mesones, estan en consonancia con una ruptura suave de la supersimetria.<br />
+y 3) sospechar que hemos encontrado el famoso requisito de bootstrap que se postulo en el equipo de Chew en los sesenta, en el que para acabar este sinvivir de ir encontrando preones de preones y subcomponentes de subcomponentes, en algun planteamiento todas las particulas debian estar compuestas de ellas mismas. No se encontró entonces una solución no trivial, pero ni se sabia cuantas generaciones habia, ni se tenia la herramienta de la supersimetria.</p>
+<p>En resumen, SUSY esta salvada, con los resultados del LHC, porque no hay que buscar nuevos squarks ni sleptons. Y claro, no hay Nobeles para el descubrimiento de la primera particula supersimetrica&#8230; porque ya se dieron a lo descubierto en los años cincuenta y han estado ahi delante de nuestras narices todo este tiempo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/como-salve-a-las-teorias-supersimetricas-y-ii/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Supersimetria y Compuestos (I)</title>
+		<link>/blog/supersimetria-y-compuestos-i/</link>
+					<comments>/blog/supersimetria-y-compuestos-i/#comments</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Tue, 13 Nov 2012 11:39:11 +0000</pubDate>
+				<category><![CDATA[Arxiv]]></category>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=284</guid>
+
+					<description><![CDATA[Voy a adelantarme en el revival de mis articulos antiguos para entrar en cómo rescaté la supersimetria en el 2005. O, más modestamente, como podría rescatarse. Pero por mantener el tono historicista, empezaré por la motivación: el rechazo de la idea, dominante desde fines de los setenta, de que todo ocurre a la escala de [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Voy a adelantarme en el revival de mis articulos antiguos para entrar en cómo rescaté la supersimetria en el 2005. O, más modestamente, como podría rescatarse. Pero por mantener el tono historicista, empezaré por la motivación: el rechazo de la idea, dominante desde fines de los setenta, de que todo ocurre a la escala de Gran Unificación y en los aceleradores de ahora se ve sólo la variacion de constantes que trae el grupo de renormalizacion al ir descendiendo la energia.</p>
+<p>Ojo, esta idea, la de bajar desde GUT, tiene al menos un exito parcial: la masa del electron, que resulta estar en el rango adecuado, usando la cte de estructura fina para descender desde la masa de Planck. Esto lo explica Polchinski en su segundo tomo, aunque hay heterodoxos que han preferido otras interpretaciones (estoy pensando en Nottale, claro).</p>
+<p>El caso es que en el 2005, enredando en los foros, empezamos a ver que habia bastantes formas en las que las cantidades a baja energia encajaban. Algunas serian simple coincidencias, y otras algunas de esas sumas globales de diagramas que ya en tiempos medio enloquecieron a Cvitanovic cuando calculaba g-2. Pero para ser coincidencias, habia demasiadas. </p>
+<p>Justo mientras estaba leyendo sobre Koide, y por enredar con las graficas de MacGregor y familia, me habia llamado la atencion que la amplitud de decay de la Z0 se alineaba con la del resto de particulas neutras&#8230;</p>
+<p><img decoding="async" src="http://dftuz.unizar.es/~rivero/research/nonstrong.jpg" alt="" /></p>
+<p>&#8230; lo que es milagroso porque obviamente los piones son compuestos, y la Z0 es uno de nuestros bosones gauge elementales. Pero con este detalle, que reporté en <a href="http://arxiv.org/abs/hep-ph/0507144">hep-ph/0507144</a> y <a href="http://arxiv.org/abs/hep-ph/0603145">hep-ph/0603145</a>,ya tenia la mosca detras de la oreja respecto a la «compositeness».</p>
+<p>Y claro, los articulos de Koide del 81 se basaban en esto, en compuestos.   Lo que no era demasiado satisfactorio en el 2005. La siguiente pieza era que habia estado pensando en la estabilidad del pion cuando su masa es exactamente igual que la del muon, y en la extraña coincidencia de que una masa «de Higgs-Yukawa» sea casi igual que una masa «de QCD». Asi que en algun momento se fusionaron estas ideas, y me planteé: puede ser que la formula de Koide sea solo un indicio que se aprecia mejor en los leptones que en los mesones, y que en primer orden realmente la masa del pion sea como la del muon y lo mismo ocurra con el tau y algun otro meson&#8230; de manera que la explicacion de Koide no necesitaria que los quarks y leptones fueran compuestos, sino simplemente que fueran supersimetricos a compuestos.</p>
+<p>Lo que significa que ya hemos encontrado los sleptons y squarks: son los mesones y diquarks.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/supersimetria-y-compuestos-i/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>la masa del top, y predicciones.</title>
+		<link>/blog/la-masa-del-top-y-predicciones/</link>
+					<comments>/blog/la-masa-del-top-y-predicciones/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Mon, 12 Nov 2012 15:28:14 +0000</pubDate>
+				<category><![CDATA[Active Research]]></category>
+		<category><![CDATA[Arxiv]]></category>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=275</guid>
+
+					<description><![CDATA[Parece que HPC2012 no va a sacar medidas nuevas de la masa del Top, y por otro lado el Tevatron ya da por definitiva su medida, 173.18 ± 0.56 ± 0.75 GeV donde la suma en cuadratura de los errores sería ± .936 GeV De otra parte, sí que hubo una combinacion Atlas/CMS en Julio, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Parece que <a href="http://www.icepp.s.u-tokyo.ac.jp/hcp2012/">HPC2012</a> no va a sacar medidas nuevas de la masa del Top, y por otro lado el Tevatron ya <a href="http://www.science20.com/quantum_diaries_survivor/top_quark_mass_final_word_tevatron-96258">da por definitiva</a> su medida,</p>
+<p>173.18 ± 0.56 ± 0.75 GeV</p>
+<p>donde la suma en cuadratura de los errores sería ± .936 GeV</p>
+<p>De otra parte, sí que hubo una <a href="http://cdsweb.cern.ch/record/1460441">combinacion Atlas/CMS</a> en Julio, que daba 173.34  ± 1.42, pero el CMS en solitario tiene -en Septiembre- <a href="https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsTOP11018">otra preliminar</a> que es mejor, 173.36 ±.986.</p>
+<p>Suelo estar al tanto de estas medidas por ver su cercania a dos predicciones intuitivas que me gusta llevar en la cabeza. Por un lado, yukawa del top igual a uno, que corresponde a una masa de 174.10 GeV, si se puede considerar que este yukawa corresponde a la medida directa. Por otro,<a href="http://www.science20.com/quantum_diaries_survivor/alejandro_rivero_fermion_mass_coincidences_and_other_fun_ideas-85187"> mi prediccion</a> de la masa a partir de una escalera de Koide, o <a href="http://prezi.com/e2hba7tkygvj/koide-waterfall/">catarata de Koide</a> segun se mire, y que daba 173.26385 GeV.</p>
+<p>Si nos creemos que podemos hacer la media ponderada de una medida del Tevatron y otra del LHC, que a fin de cuentas son independientes pero miden la misma particula, y aplicamos que la sigma cuadrado final es la suma de (peso*sigma)^2 de las dos que estamos combinando, entonces podemos «mejorar» la medida:</p>
+<p>Combinando Tevatron y LHC del Verano, tendriamos 173.228  ± .782 GeV.</p>
+<p>Combinando Tevatron y CMS de Septiembre, tendriamos  173.265 ± .679 GeV.</p>
+<p>Asi que parece que tal como van las cosas la posibilidad Yukawa=1 estaria una sigma fuera mientras que la prediccion via Koide se asienta en la zona central de la combinacion. No obstante, las combinaciones del LHC parece que estan siendo sistematicamente mas altas que las del Tevatron,  asi que todavia hay margen para que al ir aumentando la precision se vaya la zona central un poquito mas para arriba. A ver cuando sacan los calculos con toda la luminosidad de este año!</p>
+<pre class="brush: plain; title: ; notranslate">
+define top(massfactor,anglefactor) {
+me=0.000510998910
+mmu=0.1056583668
+mtau=((sqrt(me)+sqrt(mmu))*(2+sqrt(3)*sqrt(1+2*sqrt(me*mmu)/(sqrt(me)+sqrt(mmu))^2)))^2
+m=(me+mmu+mtau)/6
+pi=4*a(1); cos=(sqrt(me/m)-1)/sqrt(2); tan=sqrt(1-cos^2)/cos
+delta=pi+a(tan)-2*pi/3
+mc=massfactor*m*(1+sqrt(2)*c(anglefactor*delta+4*pi/3))^2
+ms=massfactor*m*(1+sqrt(2)*c(anglefactor*delta+2*pi/3))^2
+mb=massfactor*m*(1+sqrt(2)*c(anglefactor*delta))^2
+mtop=((sqrt(mc)+sqrt(mb))*(2+sqrt(3)*sqrt(1+2*sqrt(mc*mb)/(sqrt(mc)+sqrt(mb))^2)))^2
+return mtop
+}
+top(3,3)
+173.2639415940
+</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/la-masa-del-top-y-predicciones/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Aquello del grupoide</title>
+		<link>/blog/aquello-del-grupoide/</link>
+					<comments>/blog/aquello-del-grupoide/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Sun, 09 Sep 2012 01:56:50 +0000</pubDate>
+				<category><![CDATA[Arxiv]]></category>
+		<category><![CDATA[Revival]]></category>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=180</guid>
+
+					<description><![CDATA[La mecanica cuantica tiene muchos parecidos razonables a la topologia algebraica moderna, con todas sus teoremas del indice y cantidades que deben ser multiplos de enteros; numeros enteros, realmente. Los metodos primitivos de exigir que un volumen del espacio de fase sea un multiplo entero de la cte de Planck, o de que una orbita [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>La mecanica cuantica tiene muchos parecidos razonables a la topologia algebraica moderna, con todas sus teoremas del indice y cantidades que deben ser multiplos de enteros; numeros enteros, realmente. Los metodos primitivos de exigir que un volumen del espacio de fase sea un multiplo entero de la cte de Planck, o de que una orbita contenga un numero dado de longitudes de onda, son apropiados para estas técnicas. Pero, ¿qué podemos decir del formalismo mas avanzado, de la «mecánica de matrices». Puede que los textos de Heisenberg y familia tuvieran un sabor de aplicación matemática, pero desde luego no se ve su reaparicón en matemáticas.</p>
+<p>Por ello era muy interesante la idea de Connes del «grupoide tangente», una variedad que era el pegado de las familas de espacios no commutativos que podias parametrizar con la cte de planck, con el espacio topologico de mecánica clasica, el fibrado tangente. Al considerar el conjunto de funciones sobre esta variedad, automaticamente tenias a la vez la física cuantica, en cualquier coordenada \(\epsilon > 0\), y la fisíca clasica, en la coordenada \(\epsilon=0\). Y si digo epsilon y no hache, es porque una de las cosas bonitas del grupoide es que abria las puerta a un mejor entendimiento del concepto de derivada: la parte «de secantes» en el grupoide tangente es una especie de haz (sheave) de derivadas discretas, y la mecánica cuantica es la forma sorprendente de trabajar con ellas sin necesidad de tomar el límite continuo.</p>
+<p>Con esta visíón se explican otros trabajos en los que me metí en los años posteriores: la visión del cono de Demócrito, la extraña pausa de Newton al arrancar los principia, o la peculiar estructura de los arboles de Connes y Kreimer. Todo ello lo ire mencionando en posteriores notas, pero para entenderlo creo que es importante no perder de vista el grupoide.</p>
+<p>Como dije en un post anterior, publicamos un articulo sobre el tema, <a href="http://dftuz.unizar.es/~rivero/research/9802102.pdf" title="arxiv math/9802102">http://dftuz.unizar.es/~rivero/research/9802102.pdf</a> y ademas en plan personal preparé un par de notas:</p>
+<p><a href="http://dftuz.unizar.es/~rivero/research/9710026.pdf" title="arxiv dg-ga/9710026">http://dftuz.unizar.es/~rivero/research/9710026.pdf</a>;</p>
+<p>y <a href="http://dftuz.unizar.es/~rivero/research/ode.pdf" title="un borrador posterior">http://dftuz.unizar.es/~rivero/research/ode.pdf</a></p>
+<p>Por cierto que lo de que en ingles sea «group» y por tanto «groupoide» y «groupie», me deja siempre ortograficamente desconcertado al escribirlo en otros idiomas.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/aquello-del-grupoide/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Connes-Lott &#8230; y Coquereux y más gente.</title>
+		<link>/blog/connes-lott-y-coquereux-y-mas-gente/</link>
+					<comments>/blog/connes-lott-y-coquereux-y-mas-gente/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Mon, 27 Aug 2012 13:30:21 +0000</pubDate>
+				<category><![CDATA[Arxiv]]></category>
+		<category><![CDATA[Revival]]></category>
+		<category><![CDATA[grand unification]]></category>
+		<category><![CDATA[theory of everything]]></category>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=41</guid>
+
+					<description><![CDATA[He mencionado un seminario en Karpatz. No se si sabreís que esta escuela se celebra en Febrero. Allí fuimos Jose Luis Lopez y un servidor, en tren hasta la frontera con Polonia, o Silesia o como se llame, y en un autobus hasta la nieve, que salimos del bus con ropa de verano en medio [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>He mencionado un seminario en Karpatz. No se si sabreís que esta escuela se celebra en Febrero. Allí fuimos Jose Luis Lopez y un servidor, en tren hasta la frontera con Polonia, o Silesia o como se llame, y en un autobus hasta la nieve, que salimos del bus con ropa de verano en medio de lo que parecia una tempestad.</p>
+<p>Total, que entre otras charlas había una de Robert Coquereaux sobre Geometría No Commutativa para modelar el Higgs, con unos ejemplos triviales practicamente de matrices 2&#215;2, y me quede convencido. El año de Leipzig mis apuntes de la charla de Connes se habian limitado a dos lineas: el título y una nota: «parece interesante».</p>
+<p>A la vuelta, ¡resulto que el departamento acababa de reclutar a dos investigadores que trabajaban en ese tema! Pepe Gracia-Bondía y Joe Varilly, que pasearon por medio mundo su  «<a href="http://www.sciencedirect.com/science/article/pii/039304409390038G">preprint amarillo</a>«. Poco despues, en el verano de 1995, Connes organizaba una sesion de los cursos de verano de Les Houches sobre el tema, y presentaba un nuevo concepto, «reality», que simplificaba mucho el formalismo. Así que allí acudí y fue un mes bastante intenso, con los nuevos resultados e incluso alguna que otra esperanza, que no cuajo, de acabar encontrando una simetria de quantum group&#8230; quizas para las generaciones, pero no lo juraria.</p>
+<p>Un resumen de aquellos primeros diez años de geometria no conmutativa podeis consultarlo, de manera bastante incomoda, aqui:<br />
+<a href="http://dftuz.unizar.es/~rivero/research/ncactors.html">http://dftuz.unizar.es/~rivero/research/ncactors.html</a></p>
+<p>Mis intentos de investigación personal fueron bastante malos; preparé un articulo, <a href="http://arxiv.org/abs/hep-th/9605006">hep-th/9605006</a>, sobre la posibilidad de incluir otro boson Z&#8217;, pero me desanimé despues de que una crítica bastante contundente de Joe. Mejor terminó el <a href="http://arxiv.org/abs/dg-ga/9710026">intento</a> de sacar algo en claro del «Tangent Grupoid», porque se pusieron manos a la obra Pepin, Jesus y Eduardo y finalmente <a title="Connes' Tangent Groupoid and Strict Quantization" href="http://arxiv.org/abs/math/9802102">salió un report</a> publicable, aunque con muchas manos para tan poco tema. Lo que a mi me preocubaba del grupoide tangente era su aplicación pata entender la discretización del espacio y por ello de las derivadas. Pensaba que en esa ambiguedad de la derivada no sólo podia encerrarse la ambiguedad en las reglas de cuantización (conmutadores, etc) sino tambien la justificación para necesitar al menos tres generaciones, asociada al hecho de que necesitabamos obtener al menos derivadas segundas en mecanica clásica. Algo de esto lo conté en un borrador <a href="http://arxiv.org/abs/hep-th/9804169">hep-th/9804169</a>, y la cuestión de como funciona esta discretización se convirtio en uno de mis motivos subsconcientes -o no tanto-.</p>
+<p>Parte del estudio del grupoide tangente lo incorporó otro de los coautores senior, Joe Varilly, en las <a href="http://arxiv.org/abs/physics/9709045">lecciones</a> que estuvo dando en Monsaraz, en el Alentejo de Portugal. Allí colaboré como tutor, con poco trabajo de mi parte; no había aparecido ninguna posibilidad de hacer estancias de postdoct en este tema y preferí pasar a trabajar en la empresa privada. Posiblemente no fué demasiado buena idea. Es dificil pensar algo de calidad mientras estas currando en cosas diversas; por ello la investigación «amateur» no es una opción demasiado recomendable.</p>
+<p>Por cierto que lo de usar NCG para determinar el modelo estandar no es tema cerrado, y hablaré de ello en otros posts. Este año ha habido un par de publicaciones dandle vueltas a las predicciones que se pueden obtener cuando el flujo de renormalizacion se mete por medio:</p>
+<p>Ali H. Chamseddine, Alain Connes «<a href="http://arxiv.org/abs/1208.1030">Resilience of the Spectral Standard Model</a>»<br />
+Christopher Estrada, Matilde Marcolli «<a href="http://arxiv.org/abs/1208.5023">Asymptotic safety, hypergeometric functions, and the Higgs mass in spectral action models</a>«</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/connes-lott-y-coquereux-y-mas-gente/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Los tiempos de la Lattice</title>
+		<link>/blog/los-tiempos-de-la-lattice/</link>
+					<comments>/blog/los-tiempos-de-la-lattice/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Sat, 18 Aug 2012 16:58:06 +0000</pubDate>
+				<category><![CDATA[Arxiv]]></category>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=55</guid>
+
+					<description><![CDATA[Lamentablemente estoy ya muy desconectado de la investigación de teoria de campos en la lattice. Pero es interesante ver los dos primeros articulos en los que colabore como programador a veces, administrador otras, y hasta soldador y montador si se terciaba. En el Arxiv tenemos dos: [hep-lat/9210014] The U(1)-Higgs Model: Critical Behaviour in the Confinig-Higgs [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Lamentablemente estoy ya muy desconectado de la investigación de teoria de campos en la lattice. Pero es interesante ver los dos primeros articulos en los que colabore como programador a veces, administrador otras, y hasta soldador y montador si se terciaba. En el Arxiv tenemos dos:</p>
+<p style="padding-left: 30px;">[<a href="http://arxiv.org/abs/hep-lat/9210014">hep-lat/9210014</a>] The U(1)-Higgs Model: Critical Behaviour in the Confinig-Higgs region</p>
+<p style="padding-left: 30px;">[<a href="http://arxiv.org/abs/hep-lat/9302007v1">hep-lat/9302007</a>] Instanton-like Contributions to the Dynamics of Yang-Mills Fields on the Twisted Torus</p>
+<p>que quizás son representativos de otras lineas que seguí luego, aunque en el mundo analitico: los instantones con Casahorran y con mi director de tesis, Boya. Y el dichoso Higgs. En esos tiempos J. L. Alonso le estuvo dando vueltas, como especulación, a las consecuencias de la existencia de soluciones antiferromagneticas en el campo de Higgs en la lattice, y si eso podia explicar la diferencia entre las masas entre fermiones y bosones masivos, o quizas entre fermiones cargados y neutrinos, ya no lo recuerdo bien <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> . Pero la idea de tener que llevar al limite una solución antiferro conectaba bastante bien, en mi fuero interno, con la separacion del Higgs en dos capas, en una dimensión discreta a la que apuntaban los modelos de Connes-Lott.</p>
+<p>Tambien en aquella epoca nos metimos en el asunto de los ordenadores de proposito especifico, colaborado con el grupo APE de Roma. Preparamos varias maquinas basadas en Transputers, en particular una que llamabamos <a title="Reconfigurable Transputer Network" href="http://cdsweb.cern.ch/record/400950">RTN</a>, de 64 procesadores. Mi primera misión en el extranjero fue llegarme a Roma I para traer las placas base ya terminadas y verificadas por nuestro ingeniero, Jarda, que compartiamos con APE. Al pasar la frontera, el guardia civil del scanner me preguntó si llevaba «un piano electronico» en la maleta. Naturalmente le conteste que sí.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/los-tiempos-de-la-lattice/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

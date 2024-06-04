@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>self &#8211; Incidencias</title>
+	<atom:link href="/blog/tag/self/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Sat, 18 Aug 2012 00:38:00 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Local Quantum Field Theory</title>
+		<link>/blog/local-quantum-field-theory/</link>
+					<comments>/blog/local-quantum-field-theory/#respond</comments>
+		
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Sat, 18 Aug 2012 00:14:20 +0000</pubDate>
+				<category><![CDATA[Revival]]></category>
+		<category><![CDATA[biographical]]></category>
+		<category><![CDATA[physics]]></category>
+		<category><![CDATA[self]]></category>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=32</guid>
+
+					<description><![CDATA[¿Cómo llegué a torcer mi camino hacia la geometría no conmutativa y los modelos de Connes-Lott? De la manera más tonta, posiblemente equivocada, a través de las \(C^*\)-algebras, y más en concreto, a través de su uso en una versión axiomatica de la teoría de campos de la que era fanático, la «Local Quantum Field [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>¿Cómo llegué a torcer mi camino hacia la geometría no conmutativa y los modelos de Connes-Lott? De la manera más tonta, posiblemente equivocada, a través de las \(C^*\)-algebras, y más en concreto, a través de su uso en una versión axiomatica de la teoría de campos de la que era fanático, la «Local Quantum Field Theory» de Araki, Haag, y Kastler.</p>
+<p>De hecho, cuando se presentó el borrador del libro de Haag, en un congreso de la IAMP en Leipzig, llegue a escaquear el libro y encerrarme un par de horas en una fotocopiadora que alguien habia dejado a disposición de los congresistas (o no). La fotocopiadora estaba para el arrastre, seguramente la habría estrenado Angela Merkel cuando estaba doctorándose en esa facultad (tenia ya mano para las inversiones: restauró un bar de estudiantes alucinante, con Guinnes de barril y música en directo). Pero el caso es que me volví para Zaragoza con el draft completo. Un par de años después lo compramos desde el departamento.</p>
+<p><span id="more-32"></span></p>
+<p>El enfoque de esta teoría, asignando a cada «diamante» local un álgebra de observables, y buscando las condiciones que debía cumplir un álgebra sobre otra cuando correspondían a entornos uno en el interior de otro, o según fueran entornos con relaciones tipo tiempo o tipo espacio, me parecía bastante razonable. En cierto modo era continuar las ideas de v. Neumann cuando empezó a darle al tarro de la lógica cuantica y las «orthomodular lattices» de proposiciones. Y había una pequeña posibilidad de que los axiomas incorporaran estructuras gauge, a partir de unos resultados de Doplitcher y Roberts. De alguna manera, cuando más tarde oí de las álgebras de la geometría no conmutativa, pensé que tendrían que estar relacionadas con estas de Araki y Haag; a la confusión pudo ayudar algunos argumentos mal entendidos de una charla de Doplitcher en Karpatz, algo sobre intertwinning operators entre representaciones de álgebras.</p>
+<p>Lamentablemente el libro fué en realidad el canto del cisne de este formalismo. El año antes, durante un interrail en el que vagabundeé por Hamburgo, me había colado en la hemeroteca del DESY y había visto encima de una mesa bastantes de los originales de Haag, pero no tuve conciencia de que estaba haciendo limpieza para jubilarse. Araki estuvo unos años como secretario de la IAMP, sin mucha más actividad, y Kastler, que también estaba para jubilarse, picó en el mismo anzuelo que yo aunque con más conocimiento de causa, ya que Connes era su discípulo predilecto.</p>
+<p>Por cierto que nunca tuve claro si esa teoría de automorfismos modulares de Tomita-Takesaki, en la que Dixmier, Connes y quizás el propio Kastler eran expertos, tenia algún uso para definir una flecha del tiempo, a partir de ese \(\Delta^{it} x \Delta^{-it}\). Supongo que no. Ahora que lo miro en la wikipedia, veo que Borchers, el alemán de Gottinga (o al menos la única persona que conozco que aun aplaude a la alemana, golpeando la mesa), ha seguido publicando sobre Tomita-Takesaki al menos hasta entrado el siglo XXI <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" />  He aquí otro pecado de juventud: cuando dejé el tema, este hombre tenia algunos resultados en los que era crucial la diferencia entre 1+1 y 3+1 en el número de dimensiones, y me resultaba totalmente absurdo, no físico, el presumir de simetrías que eran peculiares de 1+1&#8230; Naturalmente, con ese prejuicio, me estaba condenando ya al bando anti-cuerdas.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/local-quantum-field-theory/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

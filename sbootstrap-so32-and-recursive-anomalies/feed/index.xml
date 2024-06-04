@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: sBootstrap: SO(32) and recursive anomalies?	</title>
+	<atom:link href="/blog/sbootstrap-so32-and-recursive-anomalies/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/sbootstrap-so32-and-recursive-anomalies/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Thu, 01 Feb 2024 06:10:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>
+		Por: Mitchell Porter		</title>
+		<link>/blog/sbootstrap-so32-and-recursive-anomalies/#comment-8193</link>
+
+		<dc:creator><![CDATA[Mitchell Porter]]></dc:creator>
+		<pubDate>Thu, 01 Feb 2024 06:10:53 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=2261#comment-8193</guid>
+
+					<description><![CDATA[Comment #7 of fzero
+
+https://www.physicsforums.com/threads/so-32-heterotic-string-theory.829219/ 
+
+suggests that the reasoning which leads to SO(32) open string in ten dimensions (as a way to cancel gauge and gravity anomalies), can be repeated for specific compactifications. 
+
+Meanwhile, I always thought leptons and the electroweak sector might emerge in the IR, via a Seiberg duality with a UV theory which is just quark and gluon superfields. The emergent composite fields in the IR of a Seiberg duality must obey some kind of anomaly matching. 
+
+Actually, I&#039;m reminded of a &quot;Hanany-Witten transition&quot;, in which new branes emerge at a brane intersection, which has been a string model of some Seiberg dualities. It would be interesting if emergence of an electroweak sector could be understood that way.]]></description>
+			<content:encoded><![CDATA[<p>Comment #7 of fzero</p>
+<p><a href="https://www.physicsforums.com/threads/so-32-heterotic-string-theory.829219/" rel="nofollow ugc">https://www.physicsforums.com/threads/so-32-heterotic-string-theory.829219/</a> </p>
+<p>suggests that the reasoning which leads to SO(32) open string in ten dimensions (as a way to cancel gauge and gravity anomalies), can be repeated for specific compactifications. </p>
+<p>Meanwhile, I always thought leptons and the electroweak sector might emerge in the IR, via a Seiberg duality with a UV theory which is just quark and gluon superfields. The emergent composite fields in the IR of a Seiberg duality must obey some kind of anomaly matching. </p>
+<p>Actually, I&#8217;m reminded of a «Hanany-Witten transition», in which new branes emerge at a brane intersection, which has been a string model of some Seiberg dualities. It would be interesting if emergence of an electroweak sector could be understood that way.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

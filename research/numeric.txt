@@ -1,0 +1,290 @@
+At 09:21 03/06/02 +0200, you wrote:
+Dear Alejandro, unfortunately I cvould not find the discussion on Baez's
+server. I scanned the last two or three month. May be, it occurred under a
+diferent label. Could you please give me a more specific hint?
+
+
+Manfred,
+
+Actually there was problems with the thread, a message was completely lost. So
+better I put here the relevant messages, then including also the email exchange.
+
+=========================================================
+
+Hello everyone. Given two manifolds X and Y, the latter being equipped with a metric g, and an embedding f: X -> Y, one can pull the metric g back to X in the standard way. This in turn induces a measure on X. My questions are then: 1) How does this work within the framework of non-commutative geometry? 2) Does the construction generalise to discrete and noncommutative spaces? The embedding creates a homomorphism from the algebra of functions on Y to those on X, so that this would seem to be the basic datum in the noncommutative case, but what about the Hilbert spaces H, derivative operators D, and other pieces of the noncommutative geometry picture? In particular, I am interested in the case in which X is discrete and Y is a manifold with metric, and even more particularly in the measure on X induced by the pulled back metric/operator D, if it exists. Thanks very much. Ian Jermyn. Ian.Jermyn@sophia.inria.fr
+============================================================
+
+Hello Ian. You are in France, so you have a lot of experts around to ask, happy you! Exactly as you describe, the embedding X->Y creates the dual homomorphism F(Y)->F(X) in the function algebra. Which of course is the only datum we have in the noncommutative setting. The Dirac operator and the differentials [D,A] are defined on F(Y) so they will have a well defined action in F(X) through the homomorphism, will them? At first glance, my only doubt resides in the differential algebra; remember you have quotiented through an ideal to get the good representation of this algebra; I do not know if you need to recalculate again. About the metric g, it is not between us anymore. In some algebras one can use a set of coordinate functions X_i and then imagine the operator via g_ij [F,X_i][F,X_j], F = sign[D]. This is not very useful because the direct analysis of D is a powerful tool, even to get Riemaniann curvature, etc. 
+> The embedding creates a homomorphism from the algebra of functions on Y to 
+> those on X, so that this would seem to be the basic datum in the 
+> noncommutative case, but what about the Hilbert spaces H, derivative 
+> operators D, and other pieces of the noncommutative geometry picture? In 
+> particular, I am interested in the case in which X is discrete and Y is a 
+> manifold with metric, and even more particularly in the measure on X induced 
+> by the pulled back metric/operator D, if it exists. 
+Hmm, I am *very* interested on this. Can you detail, here or privately? Alejandro
+
+==============================================================
+Hi Alejandro. Thanks for your reply. I have inserted my comments below.
+
+"alejandro.rivero" <rivero@sol.unizar.es> wrote in message
+news:<ee8203c6.0205150457.4a10235b@posting.google.com>...
+> "Ian Jermyn" <Ian.Jermyn@sophia.inria.fr> wrote in message
+news:<abqnhf$ff4$1@news-sop.inria.fr>...
+>
+> The Dirac
+> operator and the differentials [D,A] are defined on F(Y) so they
+> will have a well defined action in F(X) through the homomorphism,
+> will them?
+
+Well, the Dirac operator, F(Y) and [D, a], a in F(Y) are represented as operators on a
+Hilbert space H(Y) that is part of the data for Y being a manifold with metric. What I do
+not see how to do is this: in the general case the data one has are the algebra
+homomorphism f*: F(Y) -> F(X), the Hilbert space for Y, H(Y), a representation of F(Y) in
+H(Y), p(Y), and the operator D(Y) in H(Y) (maybe some other operators to, like a grading
+and a real structure, and all satisfying certain conditions). As far as I know, at this
+stage one does not have a separate Hilbert space for X, and certainly not the other
+operators. So one must construct from the data: a Hilbert space H(X), a representation
+p(X) of F(X) in H(X), an operator D(X) and so on. While it is easy to write down the type
+of relations that these quantities must satisfy (basically a bunch of commutative
+squares), I do not see how to construct them in general.
+
+In the commutative case, one has that H(Y) is the spinor bundle, and this can be pulled
+back from Y to X using f, and I think then that one can construct the relevant
+representation (although I am not sure). For the Dirac operator it is even less clear:
+intuitively speaking the Dirac operator, being a derivative, takes into account two
+"neighbouring" points of Y, and so it is hard to see that selecting (in the discrete case)
+a finite subset of points can lead to a well defined operator. In any case, this
+construction uses the underlying space to create the pullback bundle.
+
+In the general case, one can imagine completing the following square with arrows from
+F(X) -> A and from L(H(Y)) to A, where L indicates the space of linear operators
+
+         f*
+F(X) <-------- F(Y)
+                |
+                |  p(Y)
+                |
+                V
+ A           L(H(Y))
+
+using a pushout in the category of C* algebras (or something), if it exists, although
+whether the bottom left hand corner can then be used to generate a Hilbert space
+representation of A without further input I am not sure.
+
+> At first glance, my only doubt resides in the differential
+> algebra; remember you have quotiented through an ideal to get the good
+> representation of this algebra; I do not know if you need to
+> recalculate again.
+
+I do not know this either, but until I have the basic data straight, I am not going to
+think about it too hard!
+
+> > The embedding creates a homomorphism from the algebra of functions on Y to
+> > those on X, so that this would seem to be the basic datum in the
+> > noncommutative case, but what about the Hilbert spaces H, derivative
+> > operators D, and other pieces of the noncommutative geometry picture? In
+> > particular, I am interested in the case in which X is discrete and Y is a
+> > manifold with metric, and even more particularly in the measure on X induced
+> > by the pulled back metric/operator D, if it exists.
+>
+> Hmm, I am *very* interested on this. Can you detail, here or privately?
+
+I posted again to the group in reply to my first post :), but it has not yet appeared: I
+include it below. It is about another puzzle I have in the discrete case. By the way, what
+do you do, and what is your interest in these things?
+--- Begin post -------
+Excuse me for replying to my own post, but having thought about the issue a
+little more, there is something else that puzzles me in the case of discrete
+spaces, at least when they are finite.
+
+Given a metric on a m-dimensional manifold, one can define an m-form/measure
+by starting from any function and applying the Hodge star. The dual of the
+unit function is distinguished however because it is covariantly constant in
+the metric connection: "parallel transport preserves distances and volumes"
+or something like that. It is this measure that arises in the
+non-commutative definition of integration using the Dixmier trace.
+
+In the case of a discrete space, unless I have misunderstood something, the
+derivative operator D does not enter into the formula for integration
+because the geometry is 0-dimensional, and the Dixmier trace is replaced by
+the ordinary trace in the representation of the function algebra. Since, at
+least in the standard constructions I have seen, the representation for
+finite discrete spaces is in a finite-dimensional Hilbert space that is the
+direct sum of subspaces (of perhaps differing dimensions) corresponding to
+each point of the discrete space, this seems to imply that the measure of
+each point in the discrete space must be a positive integer.
+
+This puzzles me. I could understand if the only measure generated was the
+uniform measure, since I could believe (although I have not tried to show)
+that this might be "covariantly constant" in an appropriate sense, and
+therefore be the natural correspondent to the measure in the manifold case.
+The idea that any integral measure is allowed but not others is however
+mysterious to me.
+
+Thanks for listening. I would appreciate any comments, even if just to point
+out errors.
+
+Ian.
+---- End post -----
+Cheers Alejandro.
+I look forward to hearing what you think.
+Yours,
+Ian.
+============================================================= 
+Hi again,
+
+You are right, in the literature there is not actual examples of embeddings
+and induced metrics; the closest thing is the proof of the index theorem,
+as they need to cast Bott periodicity and that is done by mapping an
+space into other and then getting an induced map in the K-theory. Very 
+far from your requeriments. I keep thinking; I *should* to know how to
+do it. Till tomorrow,
+
+Alejandro
+
+
+============================================================
+
+Hi Alejandro. Thanks for your email. I work at INRIA in the field of image
+processing/computer vision, although I used to be in physics - QFT/TQFT and so on. You are
+right I have some good groups nearby - just no contact points.
+
+Your ideas sound interesting, although they are far from my current research as you can
+imagine. Regarding your comments about discrete spaces: I am always talking about Connes'
+approach to discrete/noncommutative spaces, and my comments are directly based on the
+example given on page 15 of the paper that you cite. There, the representation space is a
+direct sum of a finite number of finite dimensional Hilbert spaces, with the algebra
+represented diagonally. Whatever choice you make, the trace of the operator corresponding
+to a function $a \in C^{N}$ will be of the form $\sum_{j} n_{j}a_{j}$ where the $n_{j}$
+are integers. This corresponds to an integral measure as I said in my post (still yet to
+appear!).
+
+Looking forward to your post.
+
+Yours,
+
+Ian
+=============================================================
+
+From: alejandro.rivero (rivero@sol.unizar.es)
+Subject: Re: Noncommutative geometry and metric pullback 
+Newsgroups: sci.physics.research
+View this article only
+Date: 2002-05-23 21:37:26 PST 
+"Ian Jermyn" <Ian.Jermyn@sophia.inria.fr> wrote in message news:<abqnhf$ff4$1@news-sop.inria.fr>...
+
+Well, really I am aswering the second post from Ian, which has not appeared
+yet, waiting in moderation queue, I guess.
+
+ 
+>In the case of a discrete space, unless I have misunderstood something, the
+>derivative operator D does not enter into the formula for integration
+>because the geometry is 0-dimensional, and the Dixmier trace is replaced by
+>the ordinary trace in the representation of the function algebra. Since, at
+
+Just a point here; it is not that it is replaced... it is directly got
+because a way to calculate the Dixmier trace is as limit of the Trace
+of some heat kernel (of D^2); in the 0-dim case this limit is still 
+the usual Trace.
+
+>least in the standard constructions I have seen, the representation for
+>finite discrete spaces is in a finite-dimensional Hilbert space that is the
+>direct sum of subspaces (of perhaps differing dimensions) corresponding to
+>each point of the discrete space, this seems to imply that the measure of
+>each point in the discrete space must be a positive integer. 
+>This puzzles me. I could understand if the only measure generated was the
+>uniform measure, since I could believe (although I have not tried to show)
+
+And it is; it it were not the uniform, it could not be a trace, as one
+still needs Tr(B A B^-1)= Tr(A).
+
+The formalim with a discrete sum of subspaces is not the one from
+measure theory, but the full theory of manifolds; there integration
+should proced, I believe, by joining Cycles and Cocycles. On the
+contrary, in the measure-theoretic setting there are not a "dirac
+operator", nor dimensions, etc.
+
+Said that, I have been thinking in the generic problem of discrete integrals
+and yes, it seems a lot of work is still to be published.
+
+Our main problem seems to be that the algebra A describe the value of
+functions at some points, and the operator D describes the distances
+between those points. So they are in principle unrelated; one can measure
+A by just summing the points, or one can try to relate the discrete 
+points to the distances; this is the theory of numerical integration and
+somehow Connes' theory should be fitted to it.
+
+Some ad-hoc procedures have been tryed. Some authors use the one
+dimensional formula for cero dimensional triples, and in this way the 
+Dirac operator contributes to the integral. I also have made calculations
+with other workaround: Find a X such that |[D,X]|=1, then use it as a
+Robinson infinitesimal and define A'=[D,A]/[D,X]; Now one can put other
+measures by using this A',  ie to calculate Tr(B A'); sometimes it
+works.
+
+At the end of the day we need to understand what is a change of 
+variables (change of chart) for a cero-dimensional manifold and what
+is a (local?) diffeomorfism for a cero-dimensional manifold. The
+classification of diffeomorphism should be too the classification
+of integration methods, that is Brouder' clue IMO. 
+
+To say in in other way: while Tr(A Id) is naive "rectangle" integration,
+Tr (A F) with F=diag( 14/45, 64/45, 24/45, 64/45, ...) will be
+Bode integration, and so on... As far as I know, nothing has been
+published on this.
+
+Yours,
+
+Alejandro
+
+
+============================================================
+To: "Ian Jermyn" <Ian.Jermyn@sophia.inria.fr>
+Subject: RE: Noncommutative geometry and metric pullback
+
+ Ian,
+
+I have sent you another message to the newsgroup, but it is frozen
+somewhere. Untill it appears, let me to point the main remarks:
+
+1)In measure theory it seems that the only measure is the uniform,
+as you take Tr(A), no Tr(\pi(A)). In manifold theory, you take a 
+representation \pi(A), but then one must try to follow the rules of 
+manifold integration (which are unclear in the discrete case). 
+
+2) Tr(A) is forced to us from the definition of Dixmier Trace:
+ a) because of the theorem giving as the Tr_w(D) as a limit of
+    heat kernel calculations of D^2.
+ b) because it is still a trace, thus Tr(B A B^{-1}) = Tr(A) implies you
+     can only use the standard Trace, then the uniform measure.
+
+3) The puzzle is that A give values at points, while D gives distances 
+  between points. Giving a D, we should have a numerical integration method
+  over A, I think, but nobody teach us how to do it. Surely some approximation
+  to non commutative diffeomorfisms will do, as it is the way to get 
+  Runge Kutta methods (Brouder teach us this!). But also unorthodox methods
+  can be essayed for concrete problems. For instance, find X such that
+  ||[D,X]||=1 and then define A' as the Robinson-like cocient [D,A]/[D,X]
+
+Yours truly,
+
+Alejandro 
+
+================================================================
+================================================================
+=================================================================
+
+From then, I have not have more messages from Ian or the newsgroup. I 
+supposse now that a number analyst expects to find, given a lattice of points, a
+set of integration weights defined via Vandermonde matrix. This does not
+happen in NCG measure. On other hand, the set of weights could be
+derived also from Runge-Kutta order conditions for a trivial integration, but
+again the relevant theorems of NCG are not well defined for dimension zero. 
+
+Feel free to forward this thread to anyone who could be interested.
+
+Yours
+
+Alejandro
+

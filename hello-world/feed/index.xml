@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: ¿El ultimo hovercraft, segunda epoca?	</title>
+	<atom:link href="/blog/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/hello-world/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Mon, 27 May 2013 18:59:11 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>
+		Por: amarashiki		</title>
+		<link>/blog/hello-world/#comment-15</link>
+
+		<dc:creator><![CDATA[amarashiki]]></dc:creator>
+		<pubDate>Mon, 27 May 2013 18:59:11 +0000</pubDate>
+		<guid isPermaLink="false">http://192.168.1.33/wordpress/?p=1#comment-15</guid>
+
+					<description><![CDATA[No decaigas en tus propósitos globales con este blog...Es fácil en ocasiones no saber por dónde tirar o de qué hablar, pero es realmente bueno tener diferentes perspectivas, sobre todo si no son convencionales, de los problemas o teorías actuales. XD.]]></description>
+			<content:encoded><![CDATA[<p>No decaigas en tus propósitos globales con este blog&#8230;Es fácil en ocasiones no saber por dónde tirar o de qué hablar, pero es realmente bueno tener diferentes perspectivas, sobre todo si no son convencionales, de los problemas o teorías actuales. XD.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
