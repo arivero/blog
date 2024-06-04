@@ -1,0 +1,59 @@
+
+
+
+
+ The letter is very interesting: it helps to popularise an
+intriguing result of Grimov, suggesting a new use which was only
+hinted in a previous article of De Gosson. Also, it announces
+further advances based in a not very well known result of
+Sikorav. Globally it has a high degree of originality and a
+scientific quality above average, thus I recommend its publication.
+
+ Now, the degree of urgency is not so high for the letter not
+ to benefit from minor editing, so I'd like to suggest
+some corrections to the final version:
+
+  - The formula previous to (3) is letter-by-letter identical to (3). Surely it
+  can we rewritten for clarity. A reference to some article on Maslov
+  semiclassical quantisation could be added.
+
+  -Some results were originally described for complex spaces and they
+  have been rewritten in terms of real spaces for legibility. So I'd suggest
+  to double-check all the dimension labels "n" and "2n".
+
+  -Same double-check with the subindices "i", "j" in page 2, esp. for
+   rotated or transformed variables.
+
+  -One wonders if there are some restrictions in the dimension of the
+   subsets of R^{2n} to be admissible quantum blobs.
+
+  -To fulfil the divulgative goals, it should be good to add precise
+   references to theorem numbers in Sikorav and Grimov. Also, the
+   bibliography could quote the MR numbers of the articles:
+     [2] has MR 87j:53053
+     [6] has MR 93f:57033
+
+   -The use of Sikorav's result is a new idea and it could be explained
+    with a little more of detail.
+
+ If only such minor modifications are done, I believe the letter does not
+need a new refereeing phase and it can be published directly.
+
+Last, let me add that a full article expanding the research should
+follow this one. I am specially intrigued about two details:
+
+- The dequantization process, both in the limit h->0 and in the limit
+of large quantum numbers. Previous work of the author has been
+based on semiclassical mechanics, via Maslov, and it should be seen
+if it is possible to reproduce exactly the quantum mechanics results.
+
+- The case of infinite degrees of freedom. As the blob capacity does
+not depend of the number of degrees of freedom, the limit case of QFT should
+be easier to control than usual. One should research, for instance, what
+happens to the symplectic capacities when a (Kadanoff-like) R.G. transformation
+decimates the number of degrees of freedom.
+
+If the author has some advances on this, I'd not oppose to preannounce
+them at the end of the letter.
+
+

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en Incidencias	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Thu, 01 Feb 2024 06:10:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>
+		Comentario en sBootstrap: SO(32) and recursive anomalies? por Mitchell Porter		</title>
+		<link>/sbootstrap-so32-and-recursive-anomalies/#comment-8193</link>
+
+		<dc:creator><![CDATA[Mitchell Porter]]></dc:creator>
+		<pubDate>Thu, 01 Feb 2024 06:10:53 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2261#comment-8193</guid>
+
+					<description><![CDATA[Comment #7 of fzero
+
+https://www.physicsforums.com/threads/so-32-heterotic-string-theory.829219/ 
+
+suggests that the reasoning which leads to SO(32) open string in ten dimensions (as a way to cancel gauge and gravity anomalies), can be repeated for specific compactifications. 
+
+Meanwhile, I always thought leptons and the electroweak sector might emerge in the IR, via a Seiberg duality with a UV theory which is just quark and gluon superfields. The emergent composite fields in the IR of a Seiberg duality must obey some kind of anomaly matching. 
+
+Actually, I&#039;m reminded of a &quot;Hanany-Witten transition&quot;, in which new branes emerge at a brane intersection, which has been a string model of some Seiberg dualities. It would be interesting if emergence of an electroweak sector could be understood that way.]]></description>
+			<content:encoded><![CDATA[<p>Comment #7 of fzero</p>
+<p><a href="https://www.physicsforums.com/threads/so-32-heterotic-string-theory.829219/" rel="nofollow ugc">https://www.physicsforums.com/threads/so-32-heterotic-string-theory.829219/</a> </p>
+<p>suggests that the reasoning which leads to SO(32) open string in ten dimensions (as a way to cancel gauge and gravity anomalies), can be repeated for specific compactifications. </p>
+<p>Meanwhile, I always thought leptons and the electroweak sector might emerge in the IR, via a Seiberg duality with a UV theory which is just quark and gluon superfields. The emergent composite fields in the IR of a Seiberg duality must obey some kind of anomaly matching. </p>
+<p>Actually, I&#8217;m reminded of a «Hanany-Witten transition», in which new branes emerge at a brane intersection, which has been a string model of some Seiberg dualities. It would be interesting if emergence of an electroweak sector could be understood that way.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en is Spin(8) triality the missing ingredient for SUSY in Connes&#8217; approach? por Alejandro		</title>
+		<link>/is-spin8-triality-the-missing-ingredient-for-susy-in-connes-approach/#comment-6161</link>
+
+		<dc:creator><![CDATA[Alejandro]]></dc:creator>
+		<pubDate>Tue, 19 Sep 2023 22:01:23 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2224#comment-6161</guid>
+
+					<description><![CDATA[Ah yep, Boya was a fan of the  “M(ysterious) Patterns in SO(9)”  thing.]]></description>
+			<content:encoded><![CDATA[<p>Ah yep, Boya was a fan of the  “M(ysterious) Patterns in SO(9)”  thing.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en is Spin(8) triality the missing ingredient for SUSY in Connes&#8217; approach? por Mitchell Porter		</title>
+		<link>/is-spin8-triality-the-missing-ingredient-for-susy-in-connes-approach/#comment-6095</link>
+
+		<dc:creator><![CDATA[Mitchell Porter]]></dc:creator>
+		<pubDate>Wed, 13 Sep 2023 12:45:29 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2224#comment-6095</guid>
+
+					<description><![CDATA[This also takes me back to the &quot;M-theory phenomenology homework&quot; of trying to understand the superpartners of the 11d C-field. 
+
+It must be possible to understand, visually and combinatorially, how and why the superpartners of an 11d spinor-vector (the 11d gravitino) organize themselves into an 11d symmetric second-rank tensor (the 11d metric) and an 11d antisymmetric 3-form (the C-field). 
+
+I get these descriptions from &quot;M(ysterious) Patterns in SO(9)&quot; coauthored by Ramond: 
+
+https://arxiv.org/abs/hep-th/9808190 
+
+... And then to understand what happens to these fermions, when compactified e.g. on T^7 and S^7. (As a warmup for compactification on Witten spaces, perhaps.)]]></description>
+			<content:encoded><![CDATA[<p>This also takes me back to the «M-theory phenomenology homework» of trying to understand the superpartners of the 11d C-field. </p>
+<p>It must be possible to understand, visually and combinatorially, how and why the superpartners of an 11d spinor-vector (the 11d gravitino) organize themselves into an 11d symmetric second-rank tensor (the 11d metric) and an 11d antisymmetric 3-form (the C-field). </p>
+<p>I get these descriptions from «M(ysterious) Patterns in SO(9)» coauthored by Ramond: </p>
+<p><a href="https://arxiv.org/abs/hep-th/9808190" rel="nofollow ugc">https://arxiv.org/abs/hep-th/9808190</a> </p>
+<p>&#8230; And then to understand what happens to these fermions, when compactified e.g. on T^7 and S^7. (As a warmup for compactification on Witten spaces, perhaps.)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en is Spin(8) triality the missing ingredient for SUSY in Connes&#8217; approach? por Alejandro Rivero		</title>
+		<link>/is-spin8-triality-the-missing-ingredient-for-susy-in-connes-approach/#comment-5842</link>
+
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Fri, 18 Aug 2023 21:27:16 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2224#comment-5842</guid>
+
+					<description><![CDATA[Indeed. Baez did a lot of notes in his &quot;this week...&quot; about this.]]></description>
+			<content:encoded><![CDATA[<p>Indeed. Baez did a lot of notes in his «this week&#8230;» about this.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en is Spin(8) triality the missing ingredient for SUSY in Connes&#8217; approach? por Mitchell Porter		</title>
+		<link>/is-spin8-triality-the-missing-ingredient-for-susy-in-connes-approach/#comment-5841</link>
+
+		<dc:creator><![CDATA[Mitchell Porter]]></dc:creator>
+		<pubDate>Wed, 16 Aug 2023 12:32:44 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2224#comment-5841</guid>
+
+					<description><![CDATA[I don&#039;t know what you&#039;re thinking but those triality representations show up in the massless states of the uncompactified Type IIA string (which is the one that grows an extra dimension and becomes the M2 brane of M theory at strong coupling)
+
+https://ncatlab.org/nlab/files/MajerSuperstrings.pdf equation 1.30
+
+https://en.wikipedia.org/wiki/Type_II_string_theory#Type_IIA_string_theory]]></description>
+			<content:encoded><![CDATA[<p>I don&#8217;t know what you&#8217;re thinking but those triality representations show up in the massless states of the uncompactified Type IIA string (which is the one that grows an extra dimension and becomes the M2 brane of M theory at strong coupling)</p>
+<p><a href="https://ncatlab.org/nlab/files/MajerSuperstrings.pdf" rel="nofollow ugc">https://ncatlab.org/nlab/files/MajerSuperstrings.pdf</a> equation 1.30</p>
+<p><a href="https://en.wikipedia.org/wiki/Type_II_string_theory#Type_IIA_string_theory" rel="nofollow ugc">https://en.wikipedia.org/wiki/Type_II_string_theory#Type_IIA_string_theory</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en The crisis in the sBootstrap por Alejandro Rivero		</title>
+		<link>/the-crisis-in-the-sbootstrap/#comment-5793</link>
+
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Tue, 08 Aug 2023 13:08:38 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2205#comment-5793</guid>
+
+					<description><![CDATA[desde la publicacion de la nota en blogia la gente de de KEK ha cambiado los enlaces.
+
+La teoria de superflavour es de Giorgi y Wise, los preprints son 
+https://lib-extopc.kek.jp/preprints/PDF/1989/8911/8911080.pdf (Isgur-Wise)
+https://lib-extopc.kek.jp/preprints/PDF/1990/9006/9006290.pdf
+https://lib-extopc.kek.jp/preprints/PDF/1990/9010/9010458.pdf (de Carone)
+
+La nota de Miyazawa es https://lib-extopc.kek.jp/preprints/PDF/1983/8302/8302132.pdf y alude tambien a una idea curiosa en la que aunque los supermultipletes son hadronicos, los quarks y leptones aparecen con masa cero via Nambu-Goldstone, vease https://lib-extopc.kek.jp/preprints/PDF/1982/8203/8203124.pdf]]></description>
+			<content:encoded><![CDATA[<p>desde la publicacion de la nota en blogia la gente de de KEK ha cambiado los enlaces.</p>
+<p>La teoria de superflavour es de Giorgi y Wise, los preprints son<br />
+<a href="https://lib-extopc.kek.jp/preprints/PDF/1989/8911/8911080.pdf" rel="nofollow ugc">https://lib-extopc.kek.jp/preprints/PDF/1989/8911/8911080.pdf</a> (Isgur-Wise)<br />
+<a href="https://lib-extopc.kek.jp/preprints/PDF/1990/9006/9006290.pdf" rel="nofollow ugc">https://lib-extopc.kek.jp/preprints/PDF/1990/9006/9006290.pdf</a><br />
+<a href="https://lib-extopc.kek.jp/preprints/PDF/1990/9010/9010458.pdf" rel="nofollow ugc">https://lib-extopc.kek.jp/preprints/PDF/1990/9010/9010458.pdf</a> (de Carone)</p>
+<p>La nota de Miyazawa es <a href="https://lib-extopc.kek.jp/preprints/PDF/1983/8302/8302132.pdf" rel="nofollow ugc">https://lib-extopc.kek.jp/preprints/PDF/1983/8302/8302132.pdf</a> y alude tambien a una idea curiosa en la que aunque los supermultipletes son hadronicos, los quarks y leptones aparecen con masa cero via Nambu-Goldstone, vease <a href="https://lib-extopc.kek.jp/preprints/PDF/1982/8203/8203124.pdf" rel="nofollow ugc">https://lib-extopc.kek.jp/preprints/PDF/1982/8203/8203124.pdf</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en The crisis in the sBootstrap por Alejandro Rivero		</title>
+		<link>/the-crisis-in-the-sbootstrap/#comment-5792</link>
+
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Tue, 08 Aug 2023 12:03:50 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2205#comment-5792</guid>
+
+					<description><![CDATA[Vease tambien https://conjeturas.blogia.com/2005/072001-es-el-pion-un-partner-susy-del-muon-.php donde ya comento el trabajo de Catto, que desafortunadamente no he seguido con mucha atencion. Tambien Miyazawa y, hmm, Yamagishi?]]></description>
+			<content:encoded><![CDATA[<p>Vease tambien <a href="https://conjeturas.blogia.com/2005/072001-es-el-pion-un-partner-susy-del-muon-.php" rel="nofollow ugc">https://conjeturas.blogia.com/2005/072001-es-el-pion-un-partner-susy-del-muon-.php</a> donde ya comento el trabajo de Catto, que desafortunadamente no he seguido con mucha atencion. Tambien Miyazawa y, hmm, Yamagishi?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en NCG, space and SUSY. por Alejandro Rivero		</title>
+		<link>/ncg-space-and-susy/#comment-3712</link>
+
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Mon, 07 Feb 2022 14:04:03 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2046#comment-3712</guid>
+
+					<description><![CDATA[Mitchell, in fact Connes claims that differential variables are fermionic propagators.]]></description>
+			<content:encoded><![CDATA[<p>Mitchell, in fact Connes claims that differential variables are fermionic propagators.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en NCG, space and SUSY. por Mitchell Porter		</title>
+		<link>/ncg-space-and-susy/#comment-3686</link>
+
+		<dc:creator><![CDATA[Mitchell Porter]]></dc:creator>
+		<pubDate>Sat, 22 Jan 2022 21:17:26 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2046#comment-3686</guid>
+
+					<description><![CDATA[Exterior algebra of differential forms is anticommuting...]]></description>
+			<content:encoded><![CDATA[<p>Exterior algebra of differential forms is anticommuting&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en Cervantes y el timo nigeriano. por Alejandro Rivero		</title>
+		<link>/cervantes-y-el-timo-nigeriano/#comment-3650</link>
+
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Thu, 11 Nov 2021 14:31:51 +0000</pubDate>
+		<guid isPermaLink="false">http://alejandro.rivero.nom.es/?p=204#comment-3650</guid>
+
+					<description><![CDATA[Citados aqui!
+
+http://www.cervantesvirtual.com/obra-visor/el-timo-del-prisionero-espanol-y-las-leyendas-de-tesoros-escondidos-en-canarias-784369/html/#footnote-1537-7]]></description>
+			<content:encoded><![CDATA[<p>Citados aqui!</p>
+<p><a href="http://www.cervantesvirtual.com/obra-visor/el-timo-del-prisionero-espanol-y-las-leyendas-de-tesoros-escondidos-en-canarias-784369/html/#footnote-1537-7" rel="nofollow ugc">http://www.cervantesvirtual.com/obra-visor/el-timo-del-prisionero-espanol-y-las-leyendas-de-tesoros-escondidos-en-canarias-784369/html/#footnote-1537-7</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

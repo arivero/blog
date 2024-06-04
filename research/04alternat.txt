@@ -1,0 +1,79 @@
+
+During experiments at CERN it has occurred sometimes that an excess of events has 
+been announced for a very concrete energy range, but additional statistical analysis, or 
+renewed experimental input, has smoothed down the initial deviations. This author is 
+aware of three such events. In 1984 the experiment UA1 got preliminary excess in the 
+range of 40 GeV \cite{UA1} (see also \cite{nature}). During the mid running of LEP 2, 
+experiment L3 got some excess in the range of 68 GeV \cite{L3}. And finally, perhaps 
+the more popular, during the last run of LEP 2 the ALEPH collaboration, and also L3, 
+got excess signal in the range around 115 GeV \cite{aleph}. 
+
+Our purpose here is to examine if all the three signals can be linked to an unlocated 
+calibration problem. It could happen if an unforeseen non-uniformity in distributing 
+energy causes some background events to accumulate, simulating to be a signal. 
+
+This problem can happen if a naive nuclear mass model is used at some point in the 
+physics calculations in detectors. We all known than nuclear magic numbers, causing 
+microscopical corrections in mass and level calculations, occur at Z=28, 40, 50, 82 and 
+114, as well as at N=28, 50, 82, 126 and 284. It is a less know fact \cite{rivero} that the 
+highly unstable nuclei, beta plus decaying, having these Z numbers have approximately, 
+within a 2% or less, the same mass that the corresponding, beta minus, highly unstable 
+having these N numbers.  The corresponding nuclear masses are about 45, 68, 91, 115, 
+175 and 246 GeV. 
+
+Thus if a calibration or a detector depends, say, on secondary decay from near proton 
+drip-line nuclei, a  mass model taking these masses into account should be used for the 
+physics of the material. The same would happens with secondary decays near neutron 
+drip line, but this line is rarely reached experimentally. If simple analytic 
+approximations, such as Weisaker formula, are used instead, we can expect errors to 
+happen related to these mass values. As all the CERN experiments share legacy code 
+both for simulations and actual calibration of measurements, it could be that such 
+approximation were hidden in some shared code.
+
+Of the four values in CERN reach, three of them correspond very accurately to the 
+troubled event excesses, while the other is just under the peak of the Z0 particle, so that 
+a error there should be masked under the huge quantity of real Z0 events. 
+
+A second possibility is that CERN procedures are correct and all the three deviations 
+correspond to physical events. This is a proposition a lot more unlikely  to accept 
+because it implies that nuclear data to be excessively sensible to particles beyond the 
+nuclear scale. But it could be claimed on grounds of the two extant masses, 175 and 246 
+GeV, which do not correspond to CERN measures but are also commonly assocciated to 
+high energy physics. 246 Ge could be any particle with a coupling such that its mass 
+coincides with the vacuum expected value of the higgs field, and 175 GeV is the area of 
+the top mass, or its associated mesons. 
+
+Additional support for the physical reality of the excesses could be coming now from 
+HERA \cite{carli} where some events have been reported about 40 GeV. A common bug 
+between the code of HERA and CERN is more unlikely that between CERN 
+experiments.
+
+ \bibitem{UA1}
+UA1 Collaboration,
+{\it Associated production of an isolated, large-transverse-momentum lepton (electron
+or muon), and two jets at the CERN p\-p collider.}
+Phys. Lett. B. 147 (1984) p. 493-508
+
+ \bibitem{L3}
+ P. Garcia-Abia,
+{\it  Search for charged Higgs bosons in L3}
+{\tt http://arxiv.org/abs/hep-ex/0105057}
+ 
+ \bibitem{aleph}
+ALEPH Collaboration,
+{\it  Observation of an excess in the ALEPH search for the Standard Model Higgs boson}
+{\tt http://arxiv.org/abs/hep-ex/hep-ex/010
+ 
+  \bibitem{carli}
+ T. Carli, D. Dannheim, L. Bellagamba
+{\it Events with Isolated Charged Leptons and Large Missing Transverse Momentum at HERA}
+{\tt http://arxiv.org/abs/hep-ph/0402012}
+
+\bibitem{rivero}
+A. Rivero
+{\it Distance to the drip lines}
+unpubl.
+ 
+
+
+

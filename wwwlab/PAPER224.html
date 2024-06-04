@@ -1,0 +1,485 @@
+<!DOCTYPE HTML PUBLIC "-//DFTUZ//-//EN">
+<html>
+<head>
+<title>On-Fly Backlinking</title>
+</head>
+<body>
+<h1>Backlinks from the server side: On-Fly capture and
+insertion.</h1>
+<center>
+<a href="mailto:rivero@sol.unizar.es">Alejandro Rivero.</a>
+<p>
+<addresses>
+<a href="http://dftuz.unizar.es/">Theoretical Physics Department.</a>
+Zaragoza University. 
+Spain.<br>
+<a href="mailto:rivero@sol.unizar.es">rivero@sol.unizar.es</a>
+</addresses>
+</p>
+</center>
+<p><small>
+<b>Abstract.</b> We suggest a server modification to catch and serve
+backlink information. Obtained data is included in the HTML sent out,
+inserting either <code>LINK</code> or <code>A</code> elements. We make 
+emphasis on the use of the first one.
+</small>
+
+</p>
+<h2>Introduction</h2>
+
+The so-called backlink mechanism, which lets a user to go up from
+a page to any of the ones referring to it, is a currently
+wanted extension to web browsing. Some implementations have been
+proposed, either by using search engines as "citation indexes", or
+by locally analyzing referer logs provided by some servers.
+<p>
+We found that the "citation index" weakness, namely
+dependances on spider efficiency, on the scale of the web, and on
+specific <i>citation servers</i>, are
+reasons enough to rule out its massive use.  So referer log appears
+as the only other posibility. In average, it is faster than
+spider-based methods, as it records the link the first time any user
+clicks on it and does not depend of external sites.  
+</p>
+<p> Current implementations of this approach seem to be based on
+analysis of the accumulated log file. This implies an unneeded
+delay between link detection and effective inclusion in the
+served information. Here, we want to propose a on-fly method to
+log and serve referer data. This method can be added
+to existent servers by redirecting requests 
+for <code>.html</code> files to a CGI script.
+In the future, it could be implemented as a native option of the server.
+</p>
+<p>
+To check this approach, we made a toy script running over
+CERN httpd (see appendix). We have found it useful, and
+practically transparent. This paper is in some sense an account
+of our feelings when testing the script.
+
+</p>
+<h2>Backlink detection</h2>
+
+Each time a HTTP request is received for a HTML document, the
+file is served as usual, but 
+just then the <code>HTTP_REFERER</code> is stored.
+In our toy model, we opt by storing requests of <tt>pathname/filename.html</tt>
+in files <tt>pathname/filename.html.backs</tt>, so the file owner
+can edit it. A independent path for <tt>.backs</tt> files could
+be selected, to minimize intrusion in user's directories. 
+<p>
+Of course, before storage some checks must be done, at least
+to exclude local self-references. The on-fly
+method limits the set of checkings we can do, but in practice
+this limitation has few consequences. Search engines and
+duplicates are the main points to take in account when checking.
+
+</p>
+<h3>Exclusion of search engines</h3>
+
+A very high percentage of external hits into any node comes from 
+search engines. It seems worthless to store such backlink 
+information, as there is a lot of variants in the search request. <p>
+
+Fortunately, search engines are very localized in the web and they
+have a well defined pattern. Matching URLs against a small
+"exclusions file" let us to rule out them almost completely.
+</p>
+<p>
+Detection of new engines is of course a problem. Some automatization could
+be provided; on the internal side by taking note 
+of hits to <tt>robots.txt</tt> file, on the external side by reading
+popular lists of search engines.  But there are always engines out of the
+mainstream rules, and human intervention is needed to be aware of them
+
+</p>
+<h3>Avoiding duplicities</h3>
+
+If we don't parse the URL to a default format, we will surely capture 
+multiple references to the same page. Main duplicity sources are:
+<ul>
+<li>The <tt>%xx</tt> notation, which is the standard for special characters
+in URLs. 
+</li>
+<li> Uppercase/lowercase problems, as the Web
+includes a lot of machines lacking of such distintion. 
+</li>
+</ul> 
+
+Parsing is fast and can be done on real time. 
+A more persistent problem  can came from aliases to nodes. To convert
+node name to IP number is not a so good idea, as it is less informative
+for users. To convert nicknames to original names could be a better
+option, but it is time consuming as it implies a long query to nameserver,
+so the process remains latent a few seconds. 
+
+<h3>Ckecking and Identifying pages</h3>
+
+It is interesting to contact the original referer page by two reasons: 
+(a) To check if it really points to ours, as it could be a dinamically
+generated page, or even actually a non-existent one.
+(b)
+To get its <code>TITLE</code> and eventually 
+other <code>LINK</code> data from them. 
+<p>
+The second one could be implemented on-fly, as it can
+be done with a HTTP <code>HEAD</code> request. The first one implies a 
+long parsing along the <i>body</i> part, so it seems unpractical. 
+Regretly, current HTML authors do not abstract the <tt>A HREF</tt>s in the
+<i>body</i> duplicating them as <tt>LINK HREF</tt>s in the <i>head</i> part.
+Other aplications, as map makers or spiders, could benefit of locating all
+this information with only a <code>HEAD</code> request. 
+It would be nice that HTML editors were built encouraging this practice,
+but perhaps would be better to give the server the possibility of
+making this abstract automatically. 
+
+</p>
+<h2>Serving HTML documents with backlink information</h2>
+
+Once captured the info, it must be arranged to be
+served. We feel that direct storage in user' <tt>.html</tt> files
+would be perceived as a intrusive practice. So we again
+let to the server the responsability, and we merge
+on-fly the <tt>.html</tt> file with the backlink data
+<p>
+
+</p>
+<h3>Insertion as LINK (preferred)</h3>
+
+The standard place to insert backlink data for a HTML
+document is the <i>head</i> part. In effect, HTML 3.2 (and any
+previous version) specifies that references to other documents
+can be done either actively in the <i>body</i> part, using the <tt>A</tt>
+element, or passively in the <i>head</i> part, using then the <tt>LINK</tt>
+element. Both elements share the same modifier tags, namely
+<tt>NAME</tt>, <tt>HREF</tt> and <tt>REL/REV</tt>. <p>
+Regretly, HTML specification forgets to say which is the default
+RELationship value when <code>REL/REV</code> tag is not present. And
+the information we want to provide is just the REVerse of the default one.
+</p>
+<p> As the obvious tag <code>LINK REV=""</code> is not
+ easy to understand, we are experimentally serving the documents with a 
+value <code>"X-Default"</code> for that tag. So each reference is included as:
+</p>
+<p></p>
+<center><code>
+            &lt;LINK REV="X-Default" HREF=referer.url&gt;
+</code></center>
+
+<p>
+If a title for the link is avalaible (stored by hand, or got with
+a HTTP request) it can be included using the <tt>NAME</tt> tag. We could
+give to <tt>NAME</tt> "by default" the same value that to the
+<tt>HREF</tt> tag --in fact, this could be the obvious default, better than
+an empty string-- but we don't know if it is really needed.
+</p>
+<p>
+We expect that <tt>LINK</tt> must be implemented by browsers at least
+in a minimal form, by extending the usual <i>Go</i> menu. As we see it,
+similar RELationships would appear grouped as a step of a hierarchical 
+menu. Other presentations could happen, of course. 
+
+</p>
+<h3>Insertion at end-of-page</h3>
+
+It is a fact that browsers currently neglect to read <tt>LINK</tt> elements,
+so if we want the backlink information to be useful today, we
+must to add it also with the <tt>A</tt> tag, thus modifying the
+body part. This is really a pityful move, as then the server alters 
+authored pages in a visible way. 
+<p>
+Information has the same format that in the previous case; only difference
+comes because now we must to make a visible menu, so we put the 
+backlink URL, or the title if avalaible:
+</p>
+<p></p>
+<center><tt>
+&lt;A REV="X-Default" HREF=referer.url&gt; url or title &lt;/A&gt;
+</tt></center>
+
+<h2>Experience</h2>
+
+We implemented the concept in our local server
+configuring CERN httpd to sent any request for <code>.html</code>
+files to a small CGI script.
+<p>
+We thought of inserting data only if documents are perceived as good HTML.
+In practice, we check for isolated <tt>&lt;/BODY&gt;</tt> and 
+<tt>&lt;/HEAD&gt;</tt> tags in a line. This
+buggy implementation has a nice feature: users don't wanting backlinks
+in their pages can simply add a white space somewhere in the line, and
+our server skipts insertion then (Note that, insertion being a
+server feature, no reference to it would be done in the <tt>.html</tt> files. 
+Robust servers would check some "options file" for each user).
+</p>
+<p>
+In a very short period of time, the main entry pages automatically
+got every link we were aware of, and some others unexpected for us.
+Thus the method seems to work well.
+</p>
+<p>
+We found hits from some search engines we were not aware of. By monitorizing
+such kind of hits along the two or three first days, be built a short 
+exclusion file very sucessful in rejecting. It seems that almost everyone
+uses a very common set of engines, so less that fifteen lines were needed
+in the file.
+</p>
+<p>
+No parsing is done actually. Main duplication source is  the
+<code>%7E</code> code, due to pointers from personal homepages. 
+</p>
+<p>
+The service is completelly trasparent, no delay is detected by users, even
+in local access. It's worth to note that pages with no backlinks 
+are sent unmodified, so owners only see the body alteration when some
+citation is registered. This is appreciated possitively by our 
+page owners, as it implies that their pages are getting some external
+attention.
+
+</p>
+<h2>Final remarks</h2>
+
+On-fly intervention is a good option for the main tasks, but
+some maintenance task must be done in a periodic basis. Packages developed
+for schemes based on log analysis can be used for this job.
+<p>
+We feel that a important blocking for backlinks to become common is the
+lack of clients supporting the <code>LINK</code> tagging. Support
+for the REVerse
+of the default relation would be implemented, as it is the straighforward
+generalization of the <i>Back</i> button. We want encourage developers
+to include some menu bar letting the user to choose multiple backs. 
+It'is to be noted than some extensions to browsers already offer
+multiple "forwards", by collecting in a separate window all the 
+<tt>A</tt> elements.
+</p>
+<p>
+A further advantage of <tt>REV</tt> appears when working on search robots. The
+spider can choose then to go or not to go up the link, and the 
+analitical engine can calibrate the character of the link when
+answering a sophisticated search request.
+</p>
+<p>
+It would be possible to calibrate the "strength" of each link, by 
+counting the number of hits coming from each referring page. This data
+could be useful to sort the menus in the client browser or, if 2-D
+or 3-D mapping are implemented in the client, to give different 
+strength and colors to each link. Regretly HTML 3.2 <code>LINK</code>
+has not a <tt>STRENGTH</tt> tag to sent out this information.
+
+</p>
+<p>
+
+Finally, let us remark than though this method is more
+efficient than <i>citation servers</i>, its
+locality implies a weakness, as it can be enabled or disabled at
+webmaster will. Thus an average websurfer will found that only some pages
+are able to backlink directly. We feel that local backlink services must
+be encouraged, so users can avoid to rely on overcrowded search engines.
+
+
+</p>
+<p>
+ 
+</p>
+<h2> Appendix: CERN httpd toy implementation </h2>
+
+We insert our script in the CERN httpd giving by putting
+some lines in the configuration file:
+<pre>
+Exec  /*html             /home/http/cgi-bin/PutBacks
+Exec  /*.htm             /home/http/cgi-bin/PutBacks
+Exec  /                  /home/http/cgi-bin/PutBacks
+</pre>
+Thus mapping html file requests towards the CGI script.
+
+The script is the following:
+
+<small><pre>
+
+#!/bin/sh
+######################################################################
+# Nombre: PutBacks
+# Descripcion: CGI para detectar e insertar citas a las paginas web
+# Author: Alejandro Rivero (rivero@sol.unizar.es) 
+# Date: noviembre 1996 
+##########################################################################
+# Usage:
+# With CERN httpd (3.0 or near) add to the config file some lines
+# indicating the directories to monitorize for backlinks
+#    Exec    /wwwlab/experiences/*.html      /home/http/cgi-bin/PutBacks
+#    Exec    /alejo/*htm		     /home/http/cgi-bin/PutBacks
+# Path comes from start of data tree, as always.  
+# Warnings:
+# - Provided as proof of concept only. A lot of work must we made to make
+#   the script fool-proof.  
+# - Use it at your OWN risk. 
+##########################################################################
+# variables for testing only.
+#SCRIPT_NAME="wwwlab/links.html"
+#HTTP_REFERER="http://some.site/nose.html"
+#########################################################################
+#
+# We are sending out html files only.
+#
+echo 'Content-Type: text/html'
+echo ''
+#
+# base directory: root of our data tree
+#
+B_DIR=/home/http/htdocs
+#
+# Exclude file: list of nodes to exclude. Must have at least one name
+#
+EXCLUDE_FILE=/home/http/conf/hosts.noindex
+#
+# We first test for "default" http path specification, then look
+# for Welcome, welcome, or index files, in this order
+#
+if test -d ${B_DIR}/${SCRIPT_NAME}; then
+ if test -f ${B_DIR}/${SCRIPT_NAME}/Welcome.html; then
+  SCRIPT_NAME=${SCRIPT_NAME}/Welcome.html
+ elif test -f ${B_DIR}/${SCRIPT_NAME}/welcome.html; then
+  SCRIPT_NAME=${SCRIPT_NAME}/welcome.html
+ elif test -f ${B_DIR}/${SCRIPT_NAME}/index.html; then
+  SCRIPT_NAME=${SCRIPT_NAME}/index.html
+ else
+   echo "&lt;h1&gt;Error&lt;/h1&gt; Can not process directory"
+   exit 0
+ fi
+fi
+# 
+# And of course we check if file exists... if not, we have a special log
+# for this kind of things
+if !(test -f ${B_DIR}/${SCRIPT_NAME}); then
+ echo "&lt;h1&gt;Error&lt;/h1&gt; File does not exist."
+ echo -n `date` >> /home/http/logs/lost_files.log
+ echo -n " " ${B_DIR}/${SCRIPT_NAME} >>/home/http/logs/lost_files.log
+ echo    " " ${HTTP_REFERER} >>/home/http/logs/lost_files.log
+ exit 0
+fi
+# 
+# Now we really begin the game
+#
+# First, we test for "filename.backs", the file containing detected backlinks  
+if   (!(test -f ${B_DIR}/${SCRIPT_NAME}.backs )) then 
+ cat ${B_DIR}/$SCRIPT_NAME
+else
+ #Ok, there are backlinks for this file. We are going to include them
+ cat ${B_DIR}/${SCRIPT_NAME}| ( 
+  while read linea;  do 
+  # if the html has a well separated HEAD tag, we add LINK info there 
+         #        if (`echo $linea | grep -i -q "^&lt;/HEAD>"`) then
+         #        This "if" changued for speed...
+   if test "$linea" = "&lt;/HEAD>" -o "$linea" = "&lt;/head>";  then 
+   for bklink in `cat  ${B_DIR}/${SCRIPT_NAME}.backs`  
+    do
+     echo -n "&lt;LINK HREF=\""
+     echo -n $bklink 
+     echo    "\"  REV=\"X-Default\" > "
+     #
+     # Note for developers:
+     # If your browser can not cope with a REV flag without parameters,
+     # please suggest me the adequate one 
+     # 
+    done
+  fi
+  # and if the html has well separated BODY tag, we put some
+  # visible backlinks there, for compatibility with old browsers :-)
+               #  if `echo $linea | grep -i -q "^&lt;/BODY>"`; then
+               # again, this "if" changed to optimize output speed
+  if test "$linea" = "&lt;/BODY>" -o "$linea" = "&lt;/body>";  then 
+   echo "&lt;p>&lt;hr>&lt;i>"
+   echo "Note that we have"
+   echo "detected some pages probably pointing to this one:&lt;menu>"
+                                 # would be better UL COMPACT?
+   for bklink in `cat  ${B_DIR}/${SCRIPT_NAME}.backs`  
+   do
+    echo -n "&lt;li>&lt;A HREF=\""
+    echo -n  $bklink
+    echo -n "\" REV=\"X-Default\">"
+    echo -n  $bklink
+    echo    "&lt;/A>"
+   done
+   echo "&lt;/menu>"
+   echo "you could be interested on checking them."
+   echo "&lt;/i>"
+  fi
+  echo $linea 
+ done
+ ) 
+fi
+
+# Now we check if the current access can qualify as backlink, then
+# register it in the .backs file
+if (!(test -z "${HTTP_REFERER}" )) then
+  #mini-bug: EXCLUDE_FILE must have at least one line
+ if (!(`echo $HTTP_REFERER | grep -F -q -i -f ${EXCLUDE_FILE}`)) then
+   # Of course, we create the file when it is needed 
+   if (!(test -f ${B_DIR}/${SCRIPT_NAME}.backs)) then  
+    touch  ${B_DIR}/${SCRIPT_NAME}.backs
+   fi
+   # and we try to avoid reiteration...
+   if (!(`grep -q -i $HTTP_REFERER ${B_DIR}/${SCRIPT_NAME}.backs`)) then 
+    echo  $HTTP_REFERER  >>   ${B_DIR}/${SCRIPT_NAME}.backs
+   fi 
+ fi
+fi
+#
+exit 0
+#
+
+</pre></small>
+
+
+<h2>References</h2>
+
+<ol compact type="1"> 
+<li>
+<i>HTML 3.2 specification</i>, 
+<a href="http://www.w3.org/pub/WWW/TR/PR-html32-961105">http://www.w3.org/pub/WWW/TR/PR-html32-961105</a>, see also
+<a href="http://www2.wvitcoe.wvnet.edu/~sbolt/html3/">http://www2.wvitcoe.wvnet.edu/~sbolt/html3/</a>
+
+</li>
+<li>
+<i>HTTP 1.0 specifications</i>, 
+<a href="http://www.ics.uci.edu/pub/ietf/http/draft-ietf-http-v10-spec-03.html">Draft-ietf-http-v10 (Work in Progress)</a>,
+see also
+<a href="http://www.w3.org/pub/WWW/Protocols/HTTP/Object_Headers.html#link">http://www.w3.org/pub/WWW/Protocols/HTTP/Object_Headers.html</a>
+
+</li>
+<li>Robin Hanson, <i>List of "backlinks" projects</i>,
+<a href="http://www.hss.caltech.edu/~hanson/backlinks.html">http://www.hss.caltech.edu/~hanson/backlinks.html</a>
+
+</li>
+<li>Murray Maloney, <i>Hypertext links in HTML</i>,
+<a href="http://www.sq.com/papers/Relationships.html#RELREV">http://www.sq.com/papers/Relationships.html#RELREV</a>
+
+</li>
+<li>Robin Hanson, <i>Find Critics</i>,
+<a href="http://hss.caltech.edu/~hanson/findcritics.html">http://hss.caltech.edu/~hanson/findcritics.html</a>
+
+</li>
+<li>John Walker, <i>Hack Links</i>,
+<a href="http://www.fourmilab.ch/entrenous/hacklinks.html">http://www.fourmilab.ch/entrenous/hacklinks.html</a>
+
+</li>
+<li>T.W. Alliance,<i>Things to evolve</i>, <a href="http://www.student.nada.kth.se/~nv91-asa/Trans/alliance_questions.html">http://www.student.nada.kth.se/~nv91-asa/Trans/alliance_questions.html</a>
+
+</li>
+<li>Foresight, <i>The Backlinks page</i>,
+<a href="http://www.islandone.org/Foresight/WebEnhance/backlinks.news.html">http://www.islandone.org/Foresight/WebEnhance/backlinks.news.html</a>
+
+</li>
+<li>Alejandro Rivero, <i>Some experiences logging referer data</i>,
+<a href="http://dftuz.unizar.es/wwwlab/links.html">http://dftuz.unizar.es/wwwlab/links.html</a>
+
+</li>
+<li>Ka-Ping Yee, <i>Shodouka</i>,
+<a href="http://www.lfw.org/">http://www.lfw.org</a>
+
+</li>
+</ol>
+
+
+</body>
+</html>

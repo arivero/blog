@@ -1,0 +1,58 @@
+Message-ID: <17110.55596.737877.539874@athena.library.cornell.edu>
+Date: Thu, 14 Jul 2005 17:29:16 -0400
+From: "arXiv admin [mjf]" <www-admin@arXiv.org>
+To: arivero@unizar.es
+Subject: arXiv submission removed (was hep-ph/0507169)
+X-Mailer: VM 7.18 under Emacs 21.3.1
+X-Mail-Scanned: Criba 2.0 + Clamd en Unizar
+
+
+Your submission has been removed upon a notice from our moderators, 
+who determined it inappropriate for the hep-ph archive.
+
+Do NOT under any circumstances resubmit to the original arXiv before 
+first explaining the reason to moderation@arxiv.org AND receiving 
+a positive response.
+
+Please direct all questions and concerns regarding moderation to the 
+moderation@arXiv.org address.
+
+--
+arXiv admin
+
+==========================================================
+From: moderation for arXiv.org <moderation@arxiv.org>
+To: arivero@unizar.es
+Date: Jul 15, 2005 5:13 PM
+Subject: Re: (moderation) appropiateness
+
+
+This repository is only for self-contained research results.
+Your attempted submission does not appear to be a substantive
+research document.  Please find a more appropriate forum.
+
+For feedback, you should send instead to a conventional journal.
+
+--
+arXiv moderation
+
+
+Alex Rivero writes:
+>
+> > Do NOT under any circumstances resubmit to the original arXiv before
+> > first explaining the reason to moderation@arxiv.org AND receiving
+> > a positive response
+>
+>
+>
+> Could you inform me if the (removed, former) hep-ph/0507169 is
+> appropiate then for hep-th instead of ph?
+>
+> If it has been removed because the result is known, I'll thank any
+> reference to the published article or book.
+>
+> Yours,
+>
+> Alejandro
+
+

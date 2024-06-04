@@ -1,0 +1,61 @@
+> Name of first author: JM Isidro
+> Title: Quantum-mechanical dualities on the torus
+
+The letter is basically an example of a theory of transformations developed
+by the author in previous letters. It is a very pertinent example because it
+is easy to understand and it illustrates well the author intentions. Now, 
+beyond pertinence, the appropriateness of publishing examples in a journal 
+is not a question of referring but of editors. To this referee, it seems
+that a letter journal al PLA is adequate for it, just signalling this fact in
+the title or the abstract of the article. On other hand, I would 
+encourage the author to join all its previous work and to try to form
+a full exposition article aimed, say, to the Annals of Physics or a 
+similar publication.  I am afraid that publishing and curriculum pressures
+are being prioritised by the author, instead of pure science issues. This
+guess is somehow supported by inspection of the website of his institution, 
+where it appears to hold a non-extendable two-years position.
+
+If the letter is to be published in  its present form, it still needs of major 
+rewriting. This is because the work has drifted from a theory of dualities to 
+a theory of transformations. The main equation in the paper, eq. 29, can be 
+only considered a duality for $\beta=-1$, the only case where it could be 
+claimed that the dual of the dual contains the original. The whole 
+denomination of "duality" should, then, be reconsidered or at least 
+re-explained.
+
+Nomenclature sloppiness spreads also across all the paper. The terms in the
+Hamiltonian are divided in "kinetic" and "potential" without considering
+if there are related to kinetic and potential energies. The torus T^2
+and the cylinder, Y^2, are used to label specific Hamiltonians as if there
+were a canonical way to associate a unique Hamiltonian to a given topology. 
+Perhaps the author has some concrete mechanism in mind, but it is not
+clear from the paper.
+
+Also the expression "limit of large n" is unfortunate in section 3.4, as it
+usually means "the classic limit", but here it is related to some subspace
+where the vacuum lives. On other hand, this referee is unable, from the paper 
+contents only, to grasp the motivation, goals and results of this section. If 
+I am missing some point, it is the author mission to show the point clearly.
+
+The rewriting could be used, too, to correct some minor style problems in the
+quotation architecture. There are an excess of unneeded, out of gentilesse, 
+references. Starting with one towards the journal editor, in the first line of
+the letter. Such references are, if not irrelevant, at most marginally 
+relevant, and it one should to keep this kind of references at a number
+strictly smaller than the relevant ones. The same could be said of the 
+theoretical allusions in the concluding part.
+
+And still, some interesting references are lacking. It occurs to me that 
+the reader, for instance, could want to get a proof of the monotonical 
+increase of the dimension of H (start of section 3.1), specially considering 
+the possibility of degeneracy of states in the Hilbert space and non trivial 
+topologies in the phase space.
+
+In the case of references to books, it can be made more relevant by using the 
+optional field in LaTeX "cite" command to give a clue of the section or 
+chapter when it is not obvious.
+
+I notice also that in some cases the ArXiV number of a paper is not given,
+even if it is obviously known to the actor. As the goal of complete references
+is to help people to peruse the articles, it is a good idea to give always
+the numbers, and let the editorial team to decide if and when remove them.  
