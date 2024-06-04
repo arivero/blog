@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: binomiales y disculpas	</title>
+	<atom:link href="/blog/binomiales-y-disculpas/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/binomiales-y-disculpas/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Tue, 05 Jan 2016 15:15:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>
+		Por: Alejandro Rivero		</title>
+		<link>/blog/binomiales-y-disculpas/#comment-516</link>
+
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Mon, 04 Jan 2016 03:11:55 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=1003#comment-516</guid>
+
+					<description><![CDATA[Ha escrito David Ruescas en ingles una explicacion detallada del problema: http://davidruescas.com/2016/01/03/probability-of-an-election-tie/]]></description>
+			<content:encoded><![CDATA[<p>Ha escrito David Ruescas en ingles una explicacion detallada del problema: <a href="http://davidruescas.com/2016/01/03/probability-of-an-election-tie/" rel="nofollow ugc">http://davidruescas.com/2016/01/03/probability-of-an-election-tie/</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Alejandro Rivero		</title>
+		<link>/blog/binomiales-y-disculpas/#comment-515</link>
+
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Fri, 01 Jan 2016 20:39:37 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=1003#comment-515</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;/blog/binomiales-y-disculpas/#comment-514&quot;&gt;Manuel Vilches Pacheco&lt;/a&gt;.
+
+Lo añado y en negrita. 
+
+En cuanto a errores, creo que es especialmente importante la confusion con la palabra &quot;caso&quot;. No se quien se confundio aqui; yo soy de la creencia que si estamos hablando de depositar 3030 votos a dos opciones A y B, el numero de casos posibles es de 2^3030. Lo que es igual a 3031 es el numero de particiones. Ignoro si es un error de vocabulario o conceptual, pero es lo que realmente desencadeno la tormenta, y si hay que hacer una labor de divulgacion deberia estar basada en desenredar estos dos conceptos.]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="/blog/binomiales-y-disculpas/#comment-514">Manuel Vilches Pacheco</a>.</p>
+<p>Lo añado y en negrita. </p>
+<p>En cuanto a errores, creo que es especialmente importante la confusion con la palabra «caso». No se quien se confundio aqui; yo soy de la creencia que si estamos hablando de depositar 3030 votos a dos opciones A y B, el numero de casos posibles es de 2^3030. Lo que es igual a 3031 es el numero de particiones. Ignoro si es un error de vocabulario o conceptual, pero es lo que realmente desencadeno la tormenta, y si hay que hacer una labor de divulgacion deberia estar basada en desenredar estos dos conceptos.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Manuel Vilches Pacheco		</title>
+		<link>/blog/binomiales-y-disculpas/#comment-514</link>
+
+		<dc:creator><![CDATA[Manuel Vilches Pacheco]]></dc:creator>
+		<pubDate>Fri, 01 Jan 2016 18:42:52 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=1003#comment-514</guid>
+
+					<description><![CDATA[Bueno, Alejandro, entro a leer tu post para descubrir que sigues sin reconocer, simplemente, que el único verdadero error, el único error conceptual grave que ha habido en todo este asunto ha sido la cantinela con la que respondisteis al cálculo 1/3031 (y con especial virulencia al profesor Bilbao), a saber: &quot;en ausencia de información, debemos considerar que el voto se reparte como una binomial con p=0.5&quot;. 
+
+Este tremendo patinazo, que ha recibido gran eco en blogs y columnas periodísticas, es lo que es urgente rectificar, si es que realmente estamos implicados con la cultura matemática y científica de la audiencia.
+
+En primer lugar deberías ser honesto y reconocer cual era la pregunta originalmente formulada, es decir: ¿cual era la probabilidad de que 3030 personas empataran en una votación entre dos opciones? Esta, y ninguna otra, era la pregunta formulada. No era ¿cual es la probabilidad de que 3030 empaten si ya ha habido dos rondas y en la primera quedaron 1510-1520 y en la segunda 1515-1515? no, esa no era la pregunta, y lo sabes, como demuestran los muchos tuits, posts, y comentarios en los posts, vertidos en los días iniciales, cuando ninguna mención a la &quot;info previa&quot; se hizo, y aun hoy cuando este &quot;mantra&quot; (sin información p=0.5) sigue manteniendo en el debate. 
+
+Lo primero que tenemos es que ser honestos con esto, esa era la pregunta, y eso es lo que resultaba chocante. No choca que una elección donde ya han casi empatado, empaten en segundas, como no choca que si empatan en primera empaten en segunda. Esa era la pregunta y la respuesta correcta es 1/3031. Es una cuestión previa de honestidad que esto quede absolutamente claro, y que vuestros lectores oigan de vuestra boca que &quot;en ausencia de información, el cálculo de la probabilidad de empate debe hacerse considerando todas los posibles valores de p, no p=0.5&quot;. Dirigir el debate ahora hacia otra pregunta sin este reconocimiento no es más que una cortina de humo y abundar en la confusión. Ese fue el único error de bulto, y debe decirse sin paliativos ni monsergas, ni ocultarlo con interminables cuentas de escenarios diversos. Es una cuestión de honestidad intelectual. 
+
+Por otra parte, en una votación, salvo los pocos casos de voto fluctuante, lo normal es que los votos estén predeterminados, o queden predeterminados en algún momento, lo &quot;aleatorio&quot; no es el proceso de votar, ¡es el proceso de elegir las personas que votarán! es decir, el proceso de extraerlas de una población de elementos cuya intención de voto (en ausencia de información) seguirá una distribución no necesariamente aleatoria que podremos aproximar por una binomial ¡pero cuyo valor p no es es desconocido! Una vez extraídos estos elementos electores, el voto está decidido (o casi decidido, al menos, pues podemos aceptar que haya cambios en algún elemento).  Así que lo chocante no es que empaten después de casi empate, eso no extraña a nadie, lo que choca es que de aquella distribución de p desconocida se hayan extraído 1515 electores de cada opción. ¿como era esto de probable? ¡esa era la pregunta! y la respuesta 1/3031. 
+
+Y la respuesta es esa por el argumento del profesor Bilbao. Cómo este argumento enlaza con el &quot;cálculo correcto&quot; es complejo, matemáticamente, pero simple desde la lógica y si aun tienes dudas sobre ello no es por tu falta de conocimientos estadísticos, sino por que no quieres reconocer que el profesor Bilbao respondió correctamente: Desconocido p, y en ausencia de información, todo p debe considerarse igualmente probable, pero como dado p la proporción media entre SI/NO queda fijada y a cada p equivale a una única proporción, y todos los p tienen la misma probabilidad, todas las proporciones (resultados, no combinaciones de votos particulares) tienen la misma probabilidad. Espero que esto te lo deje ya claro y elimines del post, definitivamente, todo comentario ofensivo hacia el profesor Bilbao (al que te recuerdo que solo me une el amor a las matemáticas).
+Por otra parte no podemos utilizar el resultado para estimar su verosimilitud ¡pues es ese resultado de cuya aleatoriedad dudamos!. Si dudamos de que una observación haya sido un resultado fortuito, debemos calcular su probabilidad de ocurrencia a priori, y no podemos incluir en el cálculo la información derivada de que el evento ha ocurrido, pues esto sesgará nuestros resultados aumentando artificialmente la probabilidad de que ocurra. Imagina que el resultado hubiera sido 3030 &quot;si&quot;. Si consideras esa información deducirás que lo más probable es que p=1, o casi, y entonces P(todos_si) será muy alta. Estoy seguro de que no la harías.
+
+Creo que debéis esforzaros en borrar todo rastro del error tan grave que habéis propagado entre vuestros lectores y en las redes. Tú has dado un primer paso con este post, pero queda camino, a mi entender, si realmente vuestra motivación es divulgar la ciencia y las matemáticas. Pero además por una cuestión de justicia, pues en este debate algunos de nosotros hemos recibido a causa de este error un significativo maltrato verbal. Y te lo pido, sinceramente, porque de ti lo espero. A otros sé que pedirselo será tiempo perdido. 
+Espero que estos comentarios no te molesten, si es así no dudes en decirlo y me disculparé por lo que consideres necesario. Buenas noches y Feliz Año Nuevo.
+
+PD: sobre el modelo de asambleítas, 
+
+como te comenté, creo que he encontrado la falacia. Sortear p aleatoriamente es suponer que las asambleas no guardan ninguna relación entre ellas, lo que significa ignorar la existencia de una distribución no aleatoria en la población, es decir, la existencia de una preferencia poioblaciona en uno u otro sentido. Yo acepto que podemos y debemos considerar esa variación entre asambleitas, pero esta variación debe ser razonable y mantener el hecho de que esa población tiene un valor poblacional de p, un sesgo hacia si o no. Ignorar esto haría innecesario votar, pues sería asumir que siempre tendremos empate y que los no empates serán simplemente fruto de la aleatoriedad del muestreo. En este caso, el sorte de p para cada asambleita debe hacerse en torno a un valor medio de p prefijado, y aceptando, como mucho, la variabilidad correspondiente a una submuestra de tamaño n (elementos de la asambleita) es decir 1/raiz(n). Si aceptamos todo el intervalo para la población, lo más extremo sería aceptar 0.1 para la variación de p entre asambleitas, una vez fijado el p de la población total. Así, deberías simular siguiendo el siguiente algoritmo
+
+1.- sortear p de la población
+2.- sortear elementos de cada asamblea (condicionando suma = 3030) n
+3.- sortear p de asamblea con media p e intervalo -0.5/raiz(n), 0.5/raiz(n)
+4.- sortear si/no en cada asamblea, y total]]></description>
+			<content:encoded><![CDATA[<p>Bueno, Alejandro, entro a leer tu post para descubrir que sigues sin reconocer, simplemente, que el único verdadero error, el único error conceptual grave que ha habido en todo este asunto ha sido la cantinela con la que respondisteis al cálculo 1/3031 (y con especial virulencia al profesor Bilbao), a saber: «en ausencia de información, debemos considerar que el voto se reparte como una binomial con p=0.5». </p>
+<p>Este tremendo patinazo, que ha recibido gran eco en blogs y columnas periodísticas, es lo que es urgente rectificar, si es que realmente estamos implicados con la cultura matemática y científica de la audiencia.</p>
+<p>En primer lugar deberías ser honesto y reconocer cual era la pregunta originalmente formulada, es decir: ¿cual era la probabilidad de que 3030 personas empataran en una votación entre dos opciones? Esta, y ninguna otra, era la pregunta formulada. No era ¿cual es la probabilidad de que 3030 empaten si ya ha habido dos rondas y en la primera quedaron 1510-1520 y en la segunda 1515-1515? no, esa no era la pregunta, y lo sabes, como demuestran los muchos tuits, posts, y comentarios en los posts, vertidos en los días iniciales, cuando ninguna mención a la «info previa» se hizo, y aun hoy cuando este «mantra» (sin información p=0.5) sigue manteniendo en el debate. </p>
+<p>Lo primero que tenemos es que ser honestos con esto, esa era la pregunta, y eso es lo que resultaba chocante. No choca que una elección donde ya han casi empatado, empaten en segundas, como no choca que si empatan en primera empaten en segunda. Esa era la pregunta y la respuesta correcta es 1/3031. Es una cuestión previa de honestidad que esto quede absolutamente claro, y que vuestros lectores oigan de vuestra boca que «en ausencia de información, el cálculo de la probabilidad de empate debe hacerse considerando todas los posibles valores de p, no p=0.5». Dirigir el debate ahora hacia otra pregunta sin este reconocimiento no es más que una cortina de humo y abundar en la confusión. Ese fue el único error de bulto, y debe decirse sin paliativos ni monsergas, ni ocultarlo con interminables cuentas de escenarios diversos. Es una cuestión de honestidad intelectual. </p>
+<p>Por otra parte, en una votación, salvo los pocos casos de voto fluctuante, lo normal es que los votos estén predeterminados, o queden predeterminados en algún momento, lo «aleatorio» no es el proceso de votar, ¡es el proceso de elegir las personas que votarán! es decir, el proceso de extraerlas de una población de elementos cuya intención de voto (en ausencia de información) seguirá una distribución no necesariamente aleatoria que podremos aproximar por una binomial ¡pero cuyo valor p no es es desconocido! Una vez extraídos estos elementos electores, el voto está decidido (o casi decidido, al menos, pues podemos aceptar que haya cambios en algún elemento).  Así que lo chocante no es que empaten después de casi empate, eso no extraña a nadie, lo que choca es que de aquella distribución de p desconocida se hayan extraído 1515 electores de cada opción. ¿como era esto de probable? ¡esa era la pregunta! y la respuesta 1/3031. </p>
+<p>Y la respuesta es esa por el argumento del profesor Bilbao. Cómo este argumento enlaza con el «cálculo correcto» es complejo, matemáticamente, pero simple desde la lógica y si aun tienes dudas sobre ello no es por tu falta de conocimientos estadísticos, sino por que no quieres reconocer que el profesor Bilbao respondió correctamente: Desconocido p, y en ausencia de información, todo p debe considerarse igualmente probable, pero como dado p la proporción media entre SI/NO queda fijada y a cada p equivale a una única proporción, y todos los p tienen la misma probabilidad, todas las proporciones (resultados, no combinaciones de votos particulares) tienen la misma probabilidad. Espero que esto te lo deje ya claro y elimines del post, definitivamente, todo comentario ofensivo hacia el profesor Bilbao (al que te recuerdo que solo me une el amor a las matemáticas).<br />
+Por otra parte no podemos utilizar el resultado para estimar su verosimilitud ¡pues es ese resultado de cuya aleatoriedad dudamos!. Si dudamos de que una observación haya sido un resultado fortuito, debemos calcular su probabilidad de ocurrencia a priori, y no podemos incluir en el cálculo la información derivada de que el evento ha ocurrido, pues esto sesgará nuestros resultados aumentando artificialmente la probabilidad de que ocurra. Imagina que el resultado hubiera sido 3030 «si». Si consideras esa información deducirás que lo más probable es que p=1, o casi, y entonces P(todos_si) será muy alta. Estoy seguro de que no la harías.</p>
+<p>Creo que debéis esforzaros en borrar todo rastro del error tan grave que habéis propagado entre vuestros lectores y en las redes. Tú has dado un primer paso con este post, pero queda camino, a mi entender, si realmente vuestra motivación es divulgar la ciencia y las matemáticas. Pero además por una cuestión de justicia, pues en este debate algunos de nosotros hemos recibido a causa de este error un significativo maltrato verbal. Y te lo pido, sinceramente, porque de ti lo espero. A otros sé que pedirselo será tiempo perdido.<br />
+Espero que estos comentarios no te molesten, si es así no dudes en decirlo y me disculparé por lo que consideres necesario. Buenas noches y Feliz Año Nuevo.</p>
+<p>PD: sobre el modelo de asambleítas, </p>
+<p>como te comenté, creo que he encontrado la falacia. Sortear p aleatoriamente es suponer que las asambleas no guardan ninguna relación entre ellas, lo que significa ignorar la existencia de una distribución no aleatoria en la población, es decir, la existencia de una preferencia poioblaciona en uno u otro sentido. Yo acepto que podemos y debemos considerar esa variación entre asambleitas, pero esta variación debe ser razonable y mantener el hecho de que esa población tiene un valor poblacional de p, un sesgo hacia si o no. Ignorar esto haría innecesario votar, pues sería asumir que siempre tendremos empate y que los no empates serán simplemente fruto de la aleatoriedad del muestreo. En este caso, el sorte de p para cada asambleita debe hacerse en torno a un valor medio de p prefijado, y aceptando, como mucho, la variabilidad correspondiente a una submuestra de tamaño n (elementos de la asambleita) es decir 1/raiz(n). Si aceptamos todo el intervalo para la población, lo más extremo sería aceptar 0.1 para la variación de p entre asambleitas, una vez fijado el p de la población total. Así, deberías simular siguiendo el siguiente algoritmo</p>
+<p>1.- sortear p de la población<br />
+2.- sortear elementos de cada asamblea (condicionando suma = 3030) n<br />
+3.- sortear p de asamblea con media p e intervalo -0.5/raiz(n), 0.5/raiz(n)<br />
+4.- sortear si/no en cada asamblea, y total</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: AFR		</title>
+		<link>/blog/binomiales-y-disculpas/#comment-513</link>
+
+		<dc:creator><![CDATA[AFR]]></dc:creator>
+		<pubDate>Mon, 28 Dec 2015 23:25:25 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=1003#comment-513</guid>
+
+					<description><![CDATA[La política en España desde hace ya tiempo (y lo queda)  es como el juego de las sillas musicales,  pero al revés. El primero que se sienta, pierde. Por eso todo son empates, votaciones sucesivas, escenificar desencuentros a la hora de pactar, andar por ahí de campaña en vez de resolviendo problemas reales,  y, en general, hacer todo lo que sea menos trabajar. Eso sí, cobrando. Es la mentalidad del funcionario lo que hay que erradicar para poder levantar cabeza.]]></description>
+			<content:encoded><![CDATA[<p>La política en España desde hace ya tiempo (y lo queda)  es como el juego de las sillas musicales,  pero al revés. El primero que se sienta, pierde. Por eso todo son empates, votaciones sucesivas, escenificar desencuentros a la hora de pactar, andar por ahí de campaña en vez de resolviendo problemas reales,  y, en general, hacer todo lo que sea menos trabajar. Eso sí, cobrando. Es la mentalidad del funcionario lo que hay que erradicar para poder levantar cabeza.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Alejandro Rivero		</title>
+		<link>/blog/binomiales-y-disculpas/#comment-512</link>
+
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Mon, 28 Dec 2015 20:52:11 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=1003#comment-512</guid>
+
+					<description><![CDATA[El tema es diferente, sí, era algo de &quot;ingenieria inversa&quot;: ¿como diablos pude alguien deducir que la prob de empate es 1/(n+1), esto es, que todas las particiones son equiprobables, si obviamente no lo son para ningun valor de &quot;p&quot; que tomemos? ¿que campanas han oido esta gente, aunque no recuerden donde suenen? Sospechaba que habia una porque cuando das termoestadistica hay un caso similar en el que de repente por arte de magia todo es equiprobable y te vuelves loco.]]></description>
+			<content:encoded><![CDATA[<p>El tema es diferente, sí, era algo de «ingenieria inversa»: ¿como diablos pude alguien deducir que la prob de empate es 1/(n+1), esto es, que todas las particiones son equiprobables, si obviamente no lo son para ningun valor de «p» que tomemos? ¿que campanas han oido esta gente, aunque no recuerden donde suenen? Sospechaba que habia una porque cuando das termoestadistica hay un caso similar en el que de repente por arte de magia todo es equiprobable y te vuelves loco.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: David		</title>
+		<link>/blog/binomiales-y-disculpas/#comment-511</link>
+
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Mon, 28 Dec 2015 20:24:10 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=1003#comment-511</guid>
+
+					<description><![CDATA[&quot;con este modelo te estás planteando un tema diferente:
+
+“Cuál es la probabilidad de tener una votación con empate exacto si cada una de ellas tiene un sesgo a favor de una opción”&quot;
+
+De nuevo, mal. La beta binomial responde a
+
+“Cuál es la probabilidad de tener una votación con empate exacto _si no sabes absolutamente nada sobre las preferencias_.&quot;
+
+El unico que hace suposiciones eres tu cuando dices que dicha preferencia es exactamente 0.5. Ahora bien, otra cosa es que añadas informacion al problema:
+
+“Cuál es la probabilidad de tener una votación con empate exacto dado que las preferencias seran similares a las mostradas en esta otra votacion&quot;
+
+Y de nuevo, eso se puede calcular de manera facil con el beta binomial y el teorema de bayes. Al sera la beta el conjugate del binomial puedes incorporar evidencias pasadas al calculo, entonces si te va a dar mas probabilidad para resultados proximo al empate, lo cual se puede ver aqui, donde hemos hecho inferencia con datos de una votacion anterior
+
+https://www.wolframalpha.com/input/?i=plot+beta+binomial+distribution+alpha+%3D+1482%2C+beta+%3D+1512%2C+n+%3D+3030]]></description>
+			<content:encoded><![CDATA[<p>«con este modelo te estás planteando un tema diferente:</p>
+<p>“Cuál es la probabilidad de tener una votación con empate exacto si cada una de ellas tiene un sesgo a favor de una opción”»</p>
+<p>De nuevo, mal. La beta binomial responde a</p>
+<p>“Cuál es la probabilidad de tener una votación con empate exacto _si no sabes absolutamente nada sobre las preferencias_.»</p>
+<p>El unico que hace suposiciones eres tu cuando dices que dicha preferencia es exactamente 0.5. Ahora bien, otra cosa es que añadas informacion al problema:</p>
+<p>“Cuál es la probabilidad de tener una votación con empate exacto dado que las preferencias seran similares a las mostradas en esta otra votacion»</p>
+<p>Y de nuevo, eso se puede calcular de manera facil con el beta binomial y el teorema de bayes. Al sera la beta el conjugate del binomial puedes incorporar evidencias pasadas al calculo, entonces si te va a dar mas probabilidad para resultados proximo al empate, lo cual se puede ver aqui, donde hemos hecho inferencia con datos de una votacion anterior</p>
+<p><a href="https://www.wolframalpha.com/input/?i=plot+beta+binomial+distribution+alpha+%3D+1482%2C+beta+%3D+1512%2C+n+%3D+3030" rel="nofollow ugc">https://www.wolframalpha.com/input/?i=plot+beta+binomial+distribution+alpha+%3D+1482%2C+beta+%3D+1512%2C+n+%3D+3030</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: gallir		</title>
+		<link>/blog/binomiales-y-disculpas/#comment-510</link>
+
+		<dc:creator><![CDATA[gallir]]></dc:creator>
+		<pubDate>Mon, 28 Dec 2015 17:59:02 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=1003#comment-510</guid>
+
+					<description><![CDATA[Ya te contesté por Twitter, con este modelo te estás planteando un tema diferente:
+
+&quot;Cuál es la probabilidad de tener una votación con empate exacto si cada una de ellas tiene un sesgo a favor de una opción&quot;.
+
+Es decir, estás asumiendo que hay preferencias a priori, cuando en realidad no lo sabes y es más: los resultados de las votaciones anteriores muestran que ese sesgo era prácticamente inexistente. En todo caso deberías usar una banda muy pequeña y los valores tenderían a los que dijimos antes.
+
+Por otro lado, si se asume que las preferencias de los individuos son diferentes y no equiprobables se cumple lo que decía antes del Teorema Central del Límite.
+
+Aquí tienes un ejemplo de un sesgo fijo para cada persona para todas las votaciones: https://gist.github.com/gallir/ca8d6cb958bd7767938f
+
+Aquí este otro donde el sesgo individual varía en cada elección: https://gist.github.com/gallir/ffad885419ccccb579c7
+
+En ambos casos la tendencia es hacia lo mismo, el valor calculado antes.]]></description>
+			<content:encoded><![CDATA[<p>Ya te contesté por Twitter, con este modelo te estás planteando un tema diferente:</p>
+<p>«Cuál es la probabilidad de tener una votación con empate exacto si cada una de ellas tiene un sesgo a favor de una opción».</p>
+<p>Es decir, estás asumiendo que hay preferencias a priori, cuando en realidad no lo sabes y es más: los resultados de las votaciones anteriores muestran que ese sesgo era prácticamente inexistente. En todo caso deberías usar una banda muy pequeña y los valores tenderían a los que dijimos antes.</p>
+<p>Por otro lado, si se asume que las preferencias de los individuos son diferentes y no equiprobables se cumple lo que decía antes del Teorema Central del Límite.</p>
+<p>Aquí tienes un ejemplo de un sesgo fijo para cada persona para todas las votaciones: <a href="https://gist.github.com/gallir/ca8d6cb958bd7767938f" rel="nofollow ugc">https://gist.github.com/gallir/ca8d6cb958bd7767938f</a></p>
+<p>Aquí este otro donde el sesgo individual varía en cada elección: <a href="https://gist.github.com/gallir/ffad885419ccccb579c7" rel="nofollow ugc">https://gist.github.com/gallir/ffad885419ccccb579c7</a></p>
+<p>En ambos casos la tendencia es hacia lo mismo, el valor calculado antes.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

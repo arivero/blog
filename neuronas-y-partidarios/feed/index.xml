@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Neuronas y Partidarios	</title>
+	<atom:link href="/blog/neuronas-y-partidarios/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/neuronas-y-partidarios/</link>
+	<description>Un blog de Alejandro Rivero</description>
+	<lastBuildDate>Thu, 07 Jan 2016 11:57:59 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>
+		Por: Astrofotografía (@cienciaydivulga)		</title>
+		<link>/blog/neuronas-y-partidarios/#comment-519</link>
+
+		<dc:creator><![CDATA[Astrofotografía (@cienciaydivulga)]]></dc:creator>
+		<pubDate>Thu, 07 Jan 2016 11:57:59 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=988#comment-519</guid>
+
+					<description><![CDATA[Interesante ...¿has probado si hay correlación entre tweets con la cadena &quot;mire usted&quot; y la afiliación política?]]></description>
+			<content:encoded><![CDATA[<p>Interesante &#8230;¿has probado si hay correlación entre tweets con la cadena «mire usted» y la afiliación política?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Alejandro Rivero		</title>
+		<link>/blog/neuronas-y-partidarios/#comment-507</link>
+
+		<dc:creator><![CDATA[Alejandro Rivero]]></dc:creator>
+		<pubDate>Sat, 05 Dec 2015 13:48:20 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=988#comment-507</guid>
+
+					<description><![CDATA[Si no queremos restar, parece que bastaria con normalizar la puntuacion en funcion de lo que tendria que haber salido en la muestra homogenea.]]></description>
+			<content:encoded><![CDATA[<p>Si no queremos restar, parece que bastaria con normalizar la puntuacion en funcion de lo que tendria que haber salido en la muestra homogenea.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
